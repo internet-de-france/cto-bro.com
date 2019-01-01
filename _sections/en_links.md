@@ -2,8 +2,7 @@
 lang: en
 title: links
 ---
-### Some links
+### Our links
 
-Internet De France
-
-Alex Hoyau (linkedin)
+Website: https://cto-bro.com
+CEO: [Alex Hoyau (linkedin)](https://www.linkedin.com/in/webappdev/)
