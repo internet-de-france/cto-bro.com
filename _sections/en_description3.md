@@ -2,10 +2,8 @@
 lang: en
 title: description3
 ---
-### Join us
+### Special offer
 
-We’re hiring part time recognized experts. 
+We can apply a 15% off on annual subscriptions if your project aims to make the world a better place.
 
-Our idea is that you can make CTO bro your side project and make good money in addition to your day job, while setting foot in new innovative projects.
-
-The hiring process is on a per person basis, and we will ask you to dedicate to our team 4 hours for us to understand where you stand and what projects we can put you on.
+Contact us to apply now !
