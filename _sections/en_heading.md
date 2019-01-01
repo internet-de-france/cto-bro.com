@@ -3,4 +3,4 @@ lang: en
 title: heading
 ---
 # CTO, bro !
-##Secure your growth with our technical expertise.
+## Secure your growth with our technical expertise.
