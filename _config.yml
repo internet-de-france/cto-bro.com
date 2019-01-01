@@ -6,11 +6,11 @@ collections:
 # Site wide configuration
 ####################################
 #
-title: Webmasters
+title: 
 email:
-description: A simple and awesome blog theme powered by jekyll.
+description: 
 url: https://cto-bro.com
-keywords: ["blog", "jekyll"]
+keywords: []
 
 #
 ###################################
@@ -36,13 +36,13 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
+  name: 
+  avatar: 
+  job: 
+  bio: 
   email:
   disqus-shortname:
-  twitter: silexlabs
+  twitter: #silexlabs
   facebook: #username
   google:
     plus: #username
