@@ -2,10 +2,10 @@
 lang: en
 title: description3
 ---
-### Is it really free?
+### Join us
 
-We are free software activists, freedom is priceless!
+We’re hiring part time recognized experts. 
 
-Our tools are free and we even offer ready-made hosted versions.
+Our idea is that you can make CTO bro your side project and make good money in addition to your day job, while setting foot in new innovative projects.
 
-We offer our services for companies that want to add features or have their version "branded" on their server.
+The hiring process is on a per person basis, and we will ask you to dedicate to our team 4 hours for us to understand where you stand and what projects we can put you on.
