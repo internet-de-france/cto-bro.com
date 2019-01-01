@@ -2,8 +2,11 @@
 lang: en
 title: description1
 ---
-Free and free web design tools
+We are CEO friendly and we have the investors stakes in mind.
 
-Landing page with a high transformation rate.
+We offer 1:1 chat to help CTOs handle the growth of successful startups.
 
-Site monitoring once published.
+* Code reviews, architecture, technical choices, road maps
+* Recruitment strategies, hiring interviews
+* Innovation, prototyping and MVPs, 
+* Management, agile organization, team building
