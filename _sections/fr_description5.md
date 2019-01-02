@@ -2,14 +2,8 @@
 lang: fr
 title: description5
 ---
-### Pourquoi utiliser Monitoshi pour surveiller mon site?
+### Les partenariats
 
-Soyez averti par email lorsque votre site web est en panne.
+Si vous pensez que vos clients ou votre réseau pourraient bénéficier de notre offre, nous devrions faire équipe! Nous sommes disposés à offrir jusqu'à 50% de commissions sur chaque souscription d'un prospect que vous avez créé. Commencez par une commission de 30% automatiquement et gagnez jusqu'à 50% après le troisième abonnement réussi.
 
-Vous recevrez un email lorsque votre service est arrêté.
-
-Vous serez le premier à savoir, avant que vos clients commencent à se plaindre.
-
-Monitoshi a une API et peut appeler des hooks web. Un moyen simple de créer une "status page" ou d'envoyer un tweet lorsque les choses tournent mal.
-
-Vous pouvez étendre l'outil et contribuer. Ou nous embaucher pour le faire.
+Exemples de partenaires que nous recherchons: hedge funds, VC, business angels, incubateurs, accélérateurs de startups
