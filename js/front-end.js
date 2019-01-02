@@ -32,14 +32,14 @@ $(function() {
       // scale the website to fit the window
       var winWidth = win.width();
       if(winWidth < 480) {
-        $('body').css({
+        $('html').css({
           'transform': 'scale(' + (winWidth / 480) + ')',
           'transform-origin': '0 0',
           'min-width': '480px',
         })
       }
       else if(winWidth > 480 && winWidth < siteWidth) {
-          $('body').css({
+          $('html').css({
             'transform': 'scale(' + (winWidth / 1200) + ')',
             'transform-origin': '0 0',
             'min-width': '1200px',
@@ -48,7 +48,7 @@ $(function() {
       else {
         // case of winWidth === 480 || winWidth > siteWidth
         // reset transform
-        $('body').css({
+        $('html').css({
             'transform': '',
             'transform-origin': '',
             'min-width': '',
