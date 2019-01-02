@@ -2,6 +2,6 @@
 lang: en
 title: quote
 ---
-### John, COO @ Fructis 
+### John - CTO @ Gérard Drouot Productions (https://www.gdp.fr/)
 
-Our CTO has met all of our expectations and more, with his “CTO Bro” he has been surprising the board and reporting to us much better.
+I have met all of the board expectations and much more this year. With my “CTO Bro” we have been very efficient at recruiting and organizing the dev team going from 2 to 5 people.
