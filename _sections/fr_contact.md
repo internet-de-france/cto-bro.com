@@ -3,4 +3,7 @@ lang: fr
 title: contact
 ---
 ### Contact
-Tel: 06 76 68 38 06
+
+Tel: +33676683806
+
+Email: contact@cto-bro.com
