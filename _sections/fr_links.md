@@ -4,6 +4,6 @@ title: links
 ---
 ### Quelques liens
 
-Internet De France
+[Site web](https://cto-bro.com)
 
-Alex Hoyau (linkedin)
+[Alex Hoyau, founder et CEO](https://www.linkedin.com/in/webappdev/)
