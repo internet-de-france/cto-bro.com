@@ -2,10 +2,9 @@
 lang: fr
 title: description3
 ---
-### Est-ce vraiment gratuit?
 
-Nous sommes des militants du logiciel libre, la liberté n'a pas de prix!
+### Offre spéciale
 
-Nos outils sont gratuits et nous offrons même des version hébergées prêtes à l'emploi.
+Nous pouvons appliquer une réduction de 15% sur les abonnements annuels si votre projet a un impact positif sur le monde.
 
-Nous offrons nos services pour les entreprises qui désirent ajouter des fonctionnalités ou avoir leur version "brandée" sur leur serveur.
+Contactez-nous pour postuler maintenant!
