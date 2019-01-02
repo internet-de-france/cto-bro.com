@@ -9,11 +9,6 @@ body {
   min-height: 100%;
   position: absolute; /* when position is absolute the body has at least the width of its content, which is good when window is smaller than section width for section containers */
 }
-body.compute-body-size-pending {
-  transition: none;
-  width: 0;
-  height: 0;
-}
 /* pages */
 .page-element{
   display: none;
@@ -222,7 +217,6 @@ body.enable-mobile .editable-style.hide-on-desktop {
   body.enable-mobile .editable-style.hide-on-desktop {
     display: initial;
   }
-  body.silex-runtime.enable-mobile .editable-style,
   body.silex-runtime.enable-mobile .background.background-initial {
     max-width: 100%;
   }
