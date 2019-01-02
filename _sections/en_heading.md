@@ -7,4 +7,4 @@ title: heading
 
 1:1 chat with experienced lead devs and CTOs
 
-Back your CTO up with hiring, management, road map, architecture.
+Back your CTO up with hiring, management, road map, architecture and industrialization.
