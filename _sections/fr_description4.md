@@ -5,8 +5,8 @@ title: description4
 
 ### Rejoignez-nous
 
-Nous recrutons des experts reconnus à temps partiel.
+Nous recrutons des experts reconnus à temps partiel. Soyez payé tout en ayant un réel impact.
 
-Notre idée est que vous pouvez faire de CTO bro un side-project et gagner de l'argent en plus de votre travail quotidien, tout en faisant partie de startups innovantes.
+Devenez un bro pour la prochaine vague de makers, en plus de votre travail actuel. Lancez-vous dans de nouveaux projets innovants !
 
-Le processus d’embauche s’effectue une personne à la fois, et nous vous demanderons de consacrer en moyenne 4 heures à nos entretiens afin que nous puissions comprendre où vous vous situez et quels projets nous pouvons vous proposer.
+Le process d’embauche prend 4 heures, ce qui nous permet de comprendre qui vous êtes et quel projet vous conviendra le mieux.

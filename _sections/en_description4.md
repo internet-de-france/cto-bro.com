@@ -4,8 +4,8 @@ title: description4
 ---
 ### Join us
 
-We’re hiring part time recognized experts. 
+We’re hiring part time recognized experts. Get paid while making an impact.
 
-Our idea is that you can make CTO bro your side project and make good money in addition to your day job, while setting foot in new innovative projects.
+Become a bro for the next wave of makers, in addition to your current job. Set foot in new innovative projects!
 
-The hiring process is on a per person basis, and we will ask you to dedicate to our team 4 hours for us to understand where you stand and what projects we can put you on.
+The hiring process requires 4 hours of your time, enough for us to understand who you are and what project will be a good fit.
