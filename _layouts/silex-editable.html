@@ -68,7 +68,7 @@ $(function() {
       
       
         {{ (site.sections | where: "lang", page.lang | where: "title", "heading" | first).content }}<br></div></div><div data-silex-type="html" class="editable-style silex-id-1526973929712-3 html-element" data-silex-id="silex-id-1526973929712-3" style=""><div class="silex-element-content">
-{{ (site.sections | where: "lang", page.lang | where: "title", "heading" | first).content }}
+{{ (site.sections | where: 'lang', page.lang | where: 'title', 'heading' | first).content }}
 
 
 <!-- Begin MailChimp Signup Form -->
@@ -76,9 +76,9 @@ $(function() {
 <style type="text/css">#mc_embed_signup {background: #fff; clear: left; font: 14px Helvetica,Arial,sans-serif;}</style>
 <div id="mc_embed_signup">
 <form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=9e9c78059c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
-	{{ (site.sections | where: "lang", page.lang | where: "title", "form" | first).content }}
+	{{ (site.sections | where: 'lang', page.lang | where: 'title', 'form' | first).content }}
     <div id="mc_embed_signup_scroll">
-    	<input value="" name="EMAIL" class="required email" id="mce-EMAIL" aria-required="true" type="email" placeholder="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).label="" }}"="">
+    	<input value="" name="EMAIL" class="required email" id="mce-EMAIL" aria-required="true" type="email" placeholder="{{ (site.sections | where: 'lang', page.lang | where: 'title', 'form' | first).label }}">
     <!--
     <div class="mc-field-group input-group">
         <strong>Lettre d'info mensuelle </strong>
