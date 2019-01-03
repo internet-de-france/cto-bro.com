@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="http://localhost:6805/static/2.8/normalize.css" data-silex-static="">
     <link rel="stylesheet" href="http://localhost:6805/static/2.8/front-end.css" data-silex-static="">
 
-    <style type="text/css" class="silex-style">body #mc_embed_signup_scroll {display: flex; flex-direction: row;}body #mc_embed_signup_scroll > * {flex: 1 1 auto;}</style>
+    <style type="text/css" class="silex-style">body #mc_embed_signup_scroll {display: flex; flex-direction: row;}body #mc_embed_signup_scroll>* {flex: 1 1 auto; min-height: 40px;}</style>
     <script type="text/javascript" class="silex-script">/*
 $(function() {
     var siteWidth = $('meta[name=website-width]').attr('content');
@@ -89,11 +89,12 @@ $(function() {
 </ul>
 </div>
 -->
+    <input value="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).button="" }}"="" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit">
+</div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <input value="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).button="" }}"="" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit"></div>
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_3ec1ea212adc44025d91ed004_9e9c78059c" tabindex="-1" value="" type="text"></div>
 </form>
 </div>
