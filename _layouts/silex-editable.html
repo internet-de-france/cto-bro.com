@@ -77,24 +77,20 @@ $(function() {
 <form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=9e9c78059c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
 	<p>{{ (site.sections | where: "lang", page.lang | where: "title", "form" | first).content }}</p>
     <div id="mc_embed_signup_scroll">
-<div class="mc-field-group">
-	<input value="" name="EMAIL" class="required email" id="mce-EMAIL" aria-required="true" type="email" placeholder="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).label="" }}"="">
+    	<input value="" name="EMAIL" class="required email" id="mce-EMAIL" aria-required="true" type="email" placeholder="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).label="" }}"="">
+    <!--
+    <div class="mc-field-group input-group">
+        <strong>Lettre d'info mensuelle </strong>
+        <ul><li><input value="Oui, abonnez-moi" name="MMERGE1" id="mce-MMERGE1-0" type="radio"><label for="mce-MMERGE1-0">Oui, abonnez-moi</label></li>
+    <li><input value="Non merci" name="MMERGE1" id="mce-MMERGE1-1" type="radio"><label for="mce-MMERGE1-1">Non merci</label></li>
+    </ul>
+    </div>
+    -->
+        <input value="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).button="" }}"="" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit">
+    </div>
 	<input value="{{ page.lang }}" name="lang" class="" id="mce-lang" aria-required="true" type="hidden">
-</div>
-<!--
-<div class="mc-field-group input-group">
-    <strong>Lettre d'info mensuelle </strong>
-    <ul><li><input value="Oui, abonnez-moi" name="MMERGE1" id="mce-MMERGE1-0" type="radio"><label for="mce-MMERGE1-0">Oui, abonnez-moi</label></li>
-<li><input value="Non merci" name="MMERGE1" id="mce-MMERGE1-1" type="radio"><label for="mce-MMERGE1-1">Non merci</label></li>
-</ul>
-</div>
--->
-    <input value="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).button="" }}"="" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit">
-</div>
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+	<div class="response" id="mce-error-response" style="display:none"></div>
+	<div class="response" id="mce-success-response" style="display:none"></div>
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_3ec1ea212adc44025d91ed004_9e9c78059c" tabindex="-1" value="" type="text"></div>
 </form>
 </div>
