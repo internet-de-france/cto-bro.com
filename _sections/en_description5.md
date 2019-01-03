@@ -2,7 +2,7 @@
 lang: en
 title: description5
 ---
-### Partnerships
+## Partnerships
 
 If you feel like your customers or your network could benefit our offer, we should team up!
 We are willing to offer up to 50% commissions on each subscription of a lead you brought in. 

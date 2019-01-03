@@ -3,7 +3,7 @@ lang: fr
 title: description3
 ---
 
-### Offre spéciale
+## Offre spéciale
 
 Nous pouvons appliquer une réduction de 15% sur les abonnements annuels si votre projet a un impact positif sur le monde.
 
