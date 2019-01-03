@@ -25,7 +25,7 @@
         <div data-silex-type="container" class="editable-style silex-element-content silex-container-content container-element prevent-draggable website-width silex-id-1526975533514-22">
 
             
-        </div>
+        <a href="{{ site.url }}" data-silex-type="image" class="editable-style silex-id-1526975558800-24 image-element" style=""><img src="assets/logo1.png" class="silex-element-content"></a><div data-silex-type="container" class="editable-style silex-id-1546357383376-2 container-element" style=""><a href="{{ site.url }}" data-silex-type="image" class="editable-style silex-id-1546356617183-1 image-element" style=""><img src="assets/uk.png" class="silex-element-content"></a><a href="fr.html" data-silex-type="image" class="editable-style silex-id-1546356613397-0 image-element" style=""><img src="assets/fr.png" class="silex-element-content"></a></div></div>
     </div>
     <div class="silex-pages">
         
@@ -41,66 +41,39 @@
 
 
     <div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1474394621033-3 section-element" style="">
-        <div data-silex-type="container" class="editable-style silex-element-content silex-id-1474394621032-2 silex-container-content container-element prevent-draggable website-width"><a href="{{ site.url }}" data-silex-type="image" class="editable-style silex-id-1526975558800-24 image-element" style=""><img src="assets/logo1.png" class="silex-element-content"></a><div data-silex-type="container" class="editable-style silex-id-1546357383376-2 container-element" style=""><a href="{{ site.url }}" data-silex-type="image" class="editable-style silex-id-1546356617183-1 image-element" style=""><img src="assets/uk.png" class="silex-element-content"></a><a href="fr.html" data-silex-type="image" class="editable-style silex-id-1546356613397-0 image-element" style=""><img src="assets/fr.png" class="silex-element-content"></a></div><div data-silex-type="text" class="editable-style silex-id-1526973568804-0 text-element" style=""><div class="silex-element-content normal">
+        <div data-silex-type="container" class="editable-style silex-element-content silex-id-1474394621032-2 silex-container-content container-element prevent-draggable website-width"><div data-silex-type="image" class="editable-style silex-id-1546524853384-3 image-element" style=""><img src="assets/slack.png" class="silex-element-content"></div><div data-silex-type="text" class="editable-style silex-id-1526973568804-0 text-element" style=""><div class="silex-element-content normal">
       
       
-        {{ (site.sections | where: "lang", page.lang | where: "title", "heading" | first).content }}<br></div></div><div data-silex-type="html" class="editable-style silex-id-1526974208976-4 html-element silex-component silex-component-share" style=""><div class="silex-element-content">
-<ul class="share-buttons" id="id_1546357195030_899">
-  
-  <li><a href="https://www.facebook.com/sharer/sharer.php?u={{ site.url }}&amp;t={{ page.title }}" title="Share on Facebook" target="_blank"><img alt="Share on Facebook" src="assets/Facebook.png"></a></li>
-  
-  
-  <li><a href="https://twitter.com/intent/tweet?source={{ site.url }}&amp;text={{ page.title }}:%20{{ site.url }}&amp;via={{ site.owner.twitter }}" target="_blank" title="Share on Twitter"><img alt="Twitt" src="assets/Twitter.png"></a></li>
-  
-  
-  
-  
-  
-  
-  
-  <li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url={{ site.url }}&amp;title={{ page.title }}&amp;summary={{ page.description }}&amp;source={{ site.url }}" target="_blank" title="Share on LinkedIn"><img alt="Share on LinkedIn" src="assets/LinkedIn.png"></a></li>
-  
-  
-  
-  
-  <li><a href="mailto:?subject={{ page.title }}&amp;body={{ page.description }}:%20{{ site.url }}" target="_blank" title="Send email"><img alt="Send by email" src="assets/Email.png"></a></li>
-  
-</ul>
+        {{ (site.sections | where: "lang", page.lang | where: "title", "heading" | first).content }}<br></div></div><div data-silex-type="html" class="editable-style silex-id-1526973929712-3 html-element" style=""><div class="silex-element-content">
+{{ (site.sections | where: "lang", page.lang | where: "title", "heading" | first).content }}
 
-<style type="text/css">#id_1546357195030_899.share-buttons {list-style: none; padding: 0;}#id_1546357195030_899.share-buttons li {display: inline;}#id_1546357195030_899.share-buttons .sr-only {position: absolute; clip: rect(1px, 1px, 1px, 1px); padding: 0; border: 0; height: 1px; width: 1px; overflow: hidden;}</style>
-</div></div><div data-silex-type="html" class="editable-style silex-id-1526973929712-3 html-element" style=""><div class="silex-element-content"><!-- Begin MailChimp Signup Form -->
+
+<!-- Begin MailChimp Signup Form -->
 <link href="https://cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">#mc_embed_signup {background: #fff; clear: left; font: 14px Helvetica,Arial,sans-serif;}</style>
 <div id="mc_embed_signup">
 <form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=9e9c78059c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="novalidate">
+	{{ (site.sections | where: "lang", page.lang | where: "title", "form" | first).content }}
     <div id="mc_embed_signup_scroll">
-	<p>{{ (site.sections | where: "lang", page.lang | where: "title", "form" | first).content }}</p>
-<div class="mc-field-group">
-	<input value="" name="EMAIL" class="required email" id="mce-EMAIL" aria-required="true" type="email" placeholder="{{ (site.sections | where: &quot;lang&quot;, page.lang | where: &quot;title&quot;, &quot;form&quot; | first).label }}">
-	<input value="{{ page.lang }}" name="lang" class="" id="mce-lang" aria-required="true" type="hidden">
-</div>
-<!--
-<div class="mc-field-group input-group">
-    <strong>Lettre d'info mensuelle </strong>
-    <ul><li><input value="Oui, abonnez-moi" name="MMERGE1" id="mce-MMERGE1-0" type="radio"><label for="mce-MMERGE1-0">Oui, abonnez-moi</label></li>
-<li><input value="Non merci" name="MMERGE1" id="mce-MMERGE1-1" type="radio"><label for="mce-MMERGE1-1">Non merci</label></li>
-</ul>
-</div>
--->
-	<div id="mce-responses" class="clear">
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_3ec1ea212adc44025d91ed004_9e9c78059c" tabindex="-1" value="" type="text"></div>
-    <div class="clear"><input value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit"></div>
+    	<input value="" name="EMAIL" class="required email" id="mce-EMAIL" aria-required="true" type="email" placeholder="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).label="" }}"="">
+    <!--
+    <div class="mc-field-group input-group">
+        <strong>Lettre d'info mensuelle </strong>
+        <ul><li><input value="Oui, abonnez-moi" name="MMERGE1" id="mce-MMERGE1-0" type="radio"><label for="mce-MMERGE1-0">Oui, abonnez-moi</label></li>
+    <li><input value="Non merci" name="MMERGE1" id="mce-MMERGE1-1" type="radio"><label for="mce-MMERGE1-1">Non merci</label></li>
+    </ul>
     </div>
+    -->
+        <input value="{{ (site.sections | where: " lang",="" page.lang="" |="" where:="" "title",="" "form"="" first).button="" }}"="" name="subscribe" id="mc-embedded-subscribe" class="button" type="submit">
+    </div>
+	<input value="{{ page.lang }}" name="lang" class="" id="mce-lang" aria-required="true" type="hidden">
+	<div class="response" id="mce-error-response" style="display:none"></div>
+	<div class="response" id="mce-success-response" style="display:none"></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input name="b_3ec1ea212adc44025d91ed004_9e9c78059c" tabindex="-1" value="" type="text"></div>
 </form>
 </div>
 <script type="text/javascript" src="https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js"></script><script type="text/javascript">(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='MMERGE1';ftypes[1]='radio';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
-<!--End mc_embed_signup--></div></div><div data-silex-type="image" class="editable-style silex-id-1526973896782-2 image-element" style=""><img src="assets/quote.png" class="silex-element-content"></div><div data-silex-type="text" class="editable-style silex-id-1526973763410-1 text-element" style=""><div class="silex-element-content normal">
-      
-      
-        {{ (site.sections | where: "lang", page.lang | where: "title", "quote" | first).content }}<br></div></div></div>
+<!--End mc_embed_signup--></div></div></div>
     </div><div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1478366444112-1 section-element" style="">
         <div data-silex-type="container" class="editable-style silex-element-content silex-id-1478366444112-0 silex-container-content container-element prevent-draggable website-width"><div data-silex-type="text" class="editable-style silex-id-1526974302908-5 text-element white" style=""><div class="silex-element-content normal"><p>{{ (site.sections | where: "lang", page.lang | where: "title", "description1" | first).content }}<br></p></div></div><div data-silex-type="image" class="editable-style silex-id-1526974561648-10 image-element" style=""><img src="assets/tools-clipart-drawing-33.png" class="silex-element-content"></div><div data-silex-type="text" class="editable-style silex-id-1526974382538-9 text-element white-right" style=""><div class="silex-element-content normal"><p></p><p>{{ (site.sections | where: "lang", page.lang | where: "title", "description2" | first).content }}<br></p><p></p></div></div></div>
     </div>
