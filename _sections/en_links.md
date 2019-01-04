@@ -4,6 +4,6 @@ title: links
 ---
 ### Our links
 
-[Corporate website](https://cto-bro.com)
+[Corporate website](https://cto-bro.com).
 
-[Alex Hoyau, founder and CEO](https://www.linkedin.com/in/webappdev/)
+[Alex Hoyau, founder and CEO](https://www.linkedin.com/in/webappdev/).
