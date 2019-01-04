@@ -1,0 +1,5 @@
+Sitemap: https://cto-bro.com/sitemap.xml
+
+User-agent: *
+Disallow: /404.html
+Disallow: /thx.html

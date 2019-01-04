@@ -2,6 +2,9 @@ collections:
   - sections
   - people
 
+plugins:
+  - jekyll-sitemap
+
 #
 ###################################
 # Site wide configuration
