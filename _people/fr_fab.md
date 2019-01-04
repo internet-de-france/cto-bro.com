@@ -7,7 +7,7 @@ title: fab
 
 ### Fred Parisis
 
-Bonjour, je suis FP. J'étais auparavant chez Causes, a fondé AbcdeFg, a publié Hijk, Lmnop et Qrstuv.
+Bonjour, je suis FP. J'étais auparavant chez Causes, j'ai fondé AbcdeFg et publié Hijk, Lmnop et Qrstuv.
 
 Je suis un ingénieur logiciel principal, un photographe et j'adore voyager. Je suis toujours occupé par divers projets, utilisant généralement iOS et Ruby on Rails avec le hack de croissance en tête.
 
