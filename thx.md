@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Contact
+lang: en
 ---
 
 ## Contact request received
