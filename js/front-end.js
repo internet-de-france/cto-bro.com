@@ -52,6 +52,8 @@ $(function() {
           'transform-origin': '0 0',
           'min-width': breakPoint + 'px',
         })
+        // keep the scroll position when resizing,
+        // fixes a bug on mobile when reaching the bottom of page and the broser UI comes back and changes the viewport size
         var scrollTarget = scrollRatio * $body.prop("scrollHeight");
         $body.scrollTop(scrollTarget);
       }
