@@ -5,17 +5,14 @@ title: alex
 ![Alex Hoyau](assets/alex.jpg)
 
 ### Alex Hoyau
+#### 8 ans d’XP comme CTO
 
-Je suis un CTO expérimenté et un développeur senior de Javascript. J'ai d'abord développé mes capacités de leadership dans des environnements de démarrage ainsi que dans des communautés open source. À un niveau plus personnel, je me porte volontaire pour apporter de la diversité aux entreprises de technologie.
+Au cours des 17 dernières années, j'ai été CTO pendant 6 ans et freelance/entrepreneur pendant 8 ans.
 
-J'ai une expérience significative dans le conseil, l'architecture, la planification et le développement de projets critiques pour des entreprises et des startups. Directement engagé en tant que contractant par de grandes entreprises telles que TF1, France Télévisions, BBDO, ...
+Je suis un manager expérimenté et un senior full stack developer. J'ai d'abord développé mes mon leadership dans des environnements de startup ainsi que dans des communautés open source. Sur un plan plus personnel, je suis bénévole pour apporter de la diversité aux entreprises tech avec l’[association Silex Labs](https://www.silexlabs.org/) que j'ai fondée en 2010.
 
-Au cours des 15 dernières années, j'ai été CTO pendant 5 ans et pigiste / entrepreneur pendant 6 ans. Je suis le responsable du constructeur de sites Web open source Silex # 1 et le président de Silex Labs, une organisation à but non lucratif comptant plus de 200 membres.
+J'ai une expérience significative dans le conseil, l'architecture, la planification et le développement de projets critiques pour des entreprises et des startups. 
 
-Je suis ingénieur et j'utilise quotidiennement les technologies et les outils suivants:
+Compétences clés: revue de code, architecture, CI et workflows industriels, recrutement, leadership
 
-* Javascript, node.js, ES suivant, ReactJs
-* React natif, Electron, Cordova
-* Docker, Travis, git
-* API Facebook, API Google
-
+Liens : [linkedin](https://www.linkedin.com/in/webappdev/), [Secret Media on Crunchbase](https://www.crunchbase.com/organization/secret-media-inc), [Altavia on Crunchbase](https://www.crunchbase.com/organization/altavia)

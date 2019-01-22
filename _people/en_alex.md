@@ -5,17 +5,14 @@ title: alex
 ![Alex Hoyau](assets/alex.jpg)
 
 ### Alex Hoyau
+#### 8 years as a CTO
 
-I am an experienced CTO and a senior Javascript full stack developer. I have initially developed my leadership abilities in startup environments as well as in open source communities. At a more personal level, I volunteer to bring diversity to tech companies .
+In the past 17 years I have been a CTO for 6 years and a freelancer/entrepreneur for 8 years. 
 
-I have significant experience in consulting, architecture, planning and development on critical projects for corporations and startups. Directly hired as a contractor by large companies such as TF1, France Télévisions, BBDO, ...
+I am an experienced leader and a senior full stack developer. I have initially developed my leadership abilities in startup environments as well as in open source communities. At a more personal level, I volunteer to bring diversity to tech companies with the foundation I created in 2010, [Silex Labs](https://www.silexlabs.org/).
 
-In the last 15 years I have been a CTO for 5 years and a freelancer/entrepreneur for 6 years. I am the maintainer of Silex #1 open source website builder and the president of Silex Labs non profit organization with 200+ members.
+I have significant experience in consulting, architecture, planning and development on critical projects for corporations and startups. 
 
-I am an engineer, and I use the following technologies and tools on a daily basis for years:
+Skills: code review, architecture, CI and industrial workflows, recruitment, leadership
 
-* Javascript, node.js, ES next, ReactJs
-* React native, Electron, Cordova
-* Docker, Travis, git
-* Facebook APIs, Google APIs
-
+Links: [linkedin](https://www.linkedin.com/in/webappdev/), [Secret Media on Crunchbase](https://www.crunchbase.com/organization/secret-media-inc), [Altavia on Crunchbase](https://www.crunchbase.com/organization/altavia)
