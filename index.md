@@ -1,5 +1,5 @@
 ---
-layout: landing
+layout: coaching-for-the-best-startups
 lang: en
 title: "CTO, bro !"
 description: "Secure your growth with our technical expertise."
