@@ -1,5 +1,5 @@
 ---
-lang: en
+lang: no
 title: Nicolas Theraroz
 ---
 
