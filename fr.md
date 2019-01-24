@@ -1,7 +1,7 @@
 ---
-layout: coaching-for-the-best-startups
+layout: coaching-startups
 lang: fr
-title: "CTO, bro !"
+title: "CTO, bro"
 description: "Sécurisez votre croissance avec notre expertise technique."
 path: /fr
 ---
