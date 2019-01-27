@@ -1,6 +1,7 @@
 Sitemap: https://cto-bro.com/sitemap.xml
 
 User-agent: *
-Disallow: /
+Disallow: /index.html
 Disallow: /404.html
 Disallow: /thx.html
+Disallow: /fr.html
