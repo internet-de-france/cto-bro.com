@@ -1,6 +1,6 @@
 ---
-lang: fr
 title: description3
+lang: fr
 ---
 
 ## Offre spéciale

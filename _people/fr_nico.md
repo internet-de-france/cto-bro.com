@@ -1,6 +1,6 @@
 ---
-lang: no
 title: Nicolas Theraroz
+lang: false
 ---
 
 ![Nicolas Theraroz](assets/nicolas.jpg)

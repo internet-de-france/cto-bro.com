@@ -1,7 +1,8 @@
 ---
-lang: en
 title: alex
+lang: en
 ---
+
 ![Alex Hoyau](assets/alex.jpg)
 
 ### Alex Hoyau

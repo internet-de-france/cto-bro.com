@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Contact
+layout: default
 lang: en
 ---
 

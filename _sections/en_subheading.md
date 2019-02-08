@@ -1,7 +1,8 @@
 ---
-lang: en
 title: subheading
+lang: en
 ---
+
 ## Live mentorship
 
 CTO bro provides **1:1 chat** with experienced **lead devs** and **CTOs**. Choose your bro and meet on a weekly basis.

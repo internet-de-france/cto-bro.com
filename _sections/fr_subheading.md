@@ -1,7 +1,8 @@
 ---
-lang: fr
 title: subheading
+lang: fr
 ---
+
 ## Mentorat en direct
 
 CTO bro c'est du **chat en direct** avec des **lead devs** et des **CTO expérimentés**. Choisissez votre expert et parlez lui régulièrement.

@@ -1,6 +1,7 @@
 ---
-lang: fr
 title: form
-label: "votre.email@example.com"
-button: "Contactez moi!"
+lang: fr
+label: votre.email@example.com
+button: Contactez moi!
 ---
+

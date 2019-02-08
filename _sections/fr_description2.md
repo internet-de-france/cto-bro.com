@@ -1,6 +1,6 @@
 ---
-lang: fr
 title: description2
+lang: fr
 ---
 
 ## Comment ça marche ?

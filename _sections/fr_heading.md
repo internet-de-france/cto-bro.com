@@ -1,6 +1,6 @@
 ---
-lang: fr
 title: heading
+lang: fr
 ---
 
 # Offrez un "bro" à votre CTO !

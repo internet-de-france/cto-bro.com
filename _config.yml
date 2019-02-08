@@ -1,82 +1,72 @@
+---
+title: Cto Bro.Com
+timezone: Europe/Paris
 collections:
-  - sections
-  - people
-
+  people:
+    title: People
+    output: false
+  posts:
+    title: Posts
+    output: true
+  sections:
+    title: Sections
+    output: false
+  uploads:
+    title: Uploads
+    output: true
 plugins:
-  - jekyll-sitemap
-
-#
-###################################
-# Site wide configuration
-####################################
-#
-title: 
-email:
+- jekyll-sitemap
+email: 
 description: 
 url: https://cto-bro.com
 keywords: []
-
-#
-###################################
-# Jekyll configuration
-####################################
-#
-timezone:          Europe/Paris
-markdown:          kramdown
-highlighter:       rouge
-excerpt_separator: <!--more-->
-permalink:         /articles/:year-:month/:title
-
+markdown: kramdown
+highlighter: rouge
+excerpt_separator: "<!--more-->"
+permalink: "/articles/:year-:month/:title"
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-
-#
-###################################
-# Site Owner configuration
-####################################
-#
 owner:
   name: 
   avatar: 
   job: 
   bio: 
-  email:
-  disqus-shortname:
-  twitter: #silexlabs
-  facebook: #username
+  email: 
+  disqus-shortname: 
+  twitter: 
+  facebook: 
   google:
-    plus: #username
-    analytics:
-    verify:
-    ad-client:
-    ad-slot:
-  bing-verify:
-  github: #username
-  gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
-  skype: #username
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  500px: #username
-  codepen: #username
-  reddit: #username
-  telegram: #username
-
+    plus: 
+    analytics: 
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: 
+  gitlab: 
+  stackoverflow: 
+  linkedin: 
+  skype: 
+  xing: 
+  instagram: 
+  lastfm: 
+  tumblr: 
+  pinterest: 
+  foursquare: 
+  steam: 
+  dribbble: 
+  youtube: 
+  soundcloud: 
+  weibo: 
+  flickr: 
+  500px: 
+  codepen: 
+  reddit: 
+  telegram: 
 webrick:
   headers:
     Access-Control-Allow-Origin: "*"

@@ -1,6 +1,6 @@
 ---
-lang: en
 title: Xavier Hausherr
+lang: en
 ---
 
 ![Xavier Hausherr](assets/xavier.jpg)

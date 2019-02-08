@@ -1,7 +1,8 @@
 ---
-lang: fr
 title: contact
+lang: fr
 ---
+
 ### Contact
 
 Tel: +33676683806

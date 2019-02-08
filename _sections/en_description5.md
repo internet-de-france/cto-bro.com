@@ -1,7 +1,8 @@
 ---
-lang: en
 title: description5
+lang: en
 ---
+
 ## Partnerships
 
 If you feel like your customers or your network could benefit our offer, we should team up!
