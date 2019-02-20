@@ -1,5 +1,5 @@
 ---
-title: home-fr
+title: Home FR
 date: 2019-02-20 21:44:00 +01:00
 language: Français
 Hero:
