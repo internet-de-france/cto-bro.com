@@ -5,17 +5,17 @@ permalink: "/fr"
 position: 0
 language: Français
 SEO:
-  Title: 
-  Description: 
-  Tags: 
+  title: 
+  description: 
+  tags: 
 Header: Header FR
 Footer: Footer FR
 Hero:
-  Text: 
+  text: 
   Call To Action: Trial FR
 The offer:
-  Text: 
-  Body:
+  text: 
+  body:
   - 
   Call To Action: 
 Value Proposition:
