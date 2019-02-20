@@ -2,6 +2,9 @@
 title: Cto Bro.Com
 timezone: Europe/Paris
 collections:
+  call-to-action:
+    title: Call To Action
+    output: true
   languages:
     title: Languages
     output: true
