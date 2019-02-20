@@ -6,7 +6,7 @@ collections:
     title: Call To Action
     output: true
   header:
-    title: Header and footer
+    title: Header
     output: true
   languages:
     title: Languages
