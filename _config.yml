@@ -31,7 +31,7 @@ defaults:
     type: page
   values:
     layout: home
-    map:
+    home-fields:
       latitude: 
       longitude: 
 url: https://cto-bro.com
