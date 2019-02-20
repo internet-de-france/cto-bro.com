@@ -2,6 +2,12 @@
 title: Home FR
 date: 2019-02-20 21:44:00 +01:00
 language: Français
+SEO:
+  Title: 
+  Description: 
+  Tags: 
+Header: Header FR
+Footer: Footer FR
 Hero:
   text: 
   Call To Action: Trial FR
