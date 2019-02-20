@@ -1,5 +1,6 @@
 ---
 title: Contact
+position: 2
 layout: default
 lang: en
 ---
