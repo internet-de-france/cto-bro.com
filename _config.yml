@@ -31,7 +31,9 @@ defaults:
     type: page
   values:
     layout: home
-    xxx: aaa
+    map:
+      latitude: 
+      longitude: 
 url: https://cto-bro.com
 description: 
 plugins:
