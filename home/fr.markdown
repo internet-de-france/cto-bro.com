@@ -15,7 +15,7 @@ Hero:
   Call To Action: Trial FR
 The offer:
   Text: 
-  body:
+  Body:
   - 
   Call To Action: 
 Value Proposition:
