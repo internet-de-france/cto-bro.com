@@ -5,7 +5,7 @@ collections:
   call-to-action:
     title: Call To Action
     output: true
-  header-and-footer:
+  header:
     title: Header and footer
     output: true
   languages:
