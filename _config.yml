@@ -31,10 +31,7 @@ defaults:
     type: page
   values:
     layout: home
-    f:
-      latitude: 
-      longitude: 
-    language: 
+    Language: 
     SEO:
       Title: 
       Description: 
@@ -45,6 +42,26 @@ defaults:
       Text: 
       Call To Action: 
     The offer:
+      Text: 
+      Body: 
+      Call To Action:
+    Value Proposition
+      Text: 
+      Body: 
+      Call To Action: 
+    The solution
+      Text: 
+      Body: 
+      Call To Action: 
+Testimonials
+      Text: 
+      Body: 
+      Call To Action: 
+How it works
+      Text: 
+      Body: 
+      Call To Action: 
+Audience
       Text: 
       Body: 
       Call To Action: 
