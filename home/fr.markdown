@@ -40,4 +40,7 @@ Target:
   - 
 ---
 
-Nothing here
+This page has to have
+
+* path: /home/[lang]
+* permalink: /[lang]
