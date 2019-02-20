@@ -5,6 +5,9 @@ collections:
   call-to-action:
     title: Call To Action
     output: true
+  footer:
+    title: Footer
+    output: true
   header:
     title: Header
     output: true
