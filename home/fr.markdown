@@ -3,28 +3,28 @@ title: Home FR
 date: 2019-02-20 21:44:00 +01:00
 permalink: "/fr"
 position: 0
-language: Français
+Language: Français
 SEO:
-  title: 
-  description: 
-  tags: 
+  Title: 
+  Description: 
+  Tags: 
 Header: Header FR
 Footer: Footer FR
 Hero:
-  text: 
+  Text: 
   Call To Action: Trial FR
 The offer:
-  text: 
-  body:
+  Text: 
+  Body:
   - 
   Call To Action: 
 Value Proposition:
-  text: 
-  body:
+  Text: 
+  Body:
   - 
 The solution:
-  text: 
-  body:
+  Text: 
+  Body:
   - 
 Testimonials:
   text: 
