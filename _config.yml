@@ -34,20 +34,20 @@ defaults:
     f:
       latitude: 
       longitude: 
-    language:
+    language: 
     SEO:
-      Title:
-      Description:
-      Tags:
-    Header:
-    Footer:
+      Title: 
+      Description: 
+      Tags: 
+    Header: 
+    Footer: 
     Hero:
-      Text:
-      Call To Action:
+      Text: 
+      Call To Action: 
     The offer:
-      Text:
-      Body:
-      Call To Action:      
+      Text: 
+      Body: 
+      Call To Action: 
 url: https://cto-bro.com
 description: 
 plugins:

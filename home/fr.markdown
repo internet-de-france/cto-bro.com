@@ -11,10 +11,10 @@ SEO:
 Header: Header FR
 Footer: Footer FR
 Hero:
-  text: 
+  Text: 
   Call To Action: Trial FR
 The offer:
-  text: 
+  Text: 
   body:
   - 
   Call To Action: 
