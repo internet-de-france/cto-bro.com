@@ -20,11 +20,10 @@ collections:
   uploads:
     title: Uploads
     output: true
+url: https://cto-bro.com
+description: 
 plugins:
 - jekyll-sitemap
-email: 
-description: 
-url: https://cto-bro.com
 markdown: kramdown
 highlighter: rouge
 excerpt_separator: "<!--more-->"
@@ -35,43 +34,3 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
-owner:
-  name: 
-  avatar: 
-  job: 
-  bio: 
-  email: 
-  disqus-shortname: 
-  twitter: 
-  facebook: 
-  google:
-    plus: 
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
-  github: 
-  gitlab: 
-  stackoverflow: 
-  linkedin: 
-  skype: 
-  xing: 
-  instagram: 
-  lastfm: 
-  tumblr: 
-  pinterest: 
-  foursquare: 
-  steam: 
-  dribbble: 
-  youtube: 
-  soundcloud: 
-  weibo: 
-  flickr: 
-  500px: 
-  codepen: 
-  reddit: 
-  telegram: 
-webrick:
-  headers:
-    Access-Control-Allow-Origin: "*"
