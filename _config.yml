@@ -11,9 +11,6 @@ collections:
   languages:
     title: Languages
     output: true
-  people:
-    title: People
-    output: false
   posts:
     title: Posts
     output: true
