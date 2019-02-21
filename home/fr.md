@@ -102,6 +102,15 @@ Pricing:
       * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: 
+How it works:
+  Text: |
+    Côut: 160€/h HT
+
+    Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
+
+    * Ouverture de canaux de discussion à volonté
+    * Monitoring de l’activité et rapports mensuels
+    * Accès au réseau privé des experts de CTO Bro
 The team:
   Text: |
     ## Meet the team
