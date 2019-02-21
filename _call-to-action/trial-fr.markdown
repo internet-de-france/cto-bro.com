@@ -1,5 +1,5 @@
 ---
-title: Trial 24h FR
+title: Trial FR
 date: 2019-02-20 23:47:00 +01:00
 ---
 
