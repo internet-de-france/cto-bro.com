@@ -173,6 +173,8 @@ The team:
 
     Liens : LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase
   Call To Action: Apply coach FR
+Audience:
+  Text: "## Clients et partenaires\n"
 ---
 
 From README:
