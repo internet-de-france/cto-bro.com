@@ -61,7 +61,18 @@ defaults:
       Body:
       - 
       Call To Action: 
+    Pricing:
+      Text: 
+      Body:
+      - Title: 
+        Text: 
+        Call To Action:
     How it works:
+      Text: 
+      Body:
+      - 
+      Call To Action: 
+    The team:
       Text: 
       Body:
       - 
