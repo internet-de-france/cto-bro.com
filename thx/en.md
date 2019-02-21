@@ -1,6 +1,7 @@
 ---
 title: Thx EN
 date: 2019-02-21 20:31:00 +01:00
+permalink: "/thx-en"
 ---
 
 ## Contact request received
