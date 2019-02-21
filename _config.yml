@@ -43,7 +43,8 @@ defaults:
       Call To Action: 
     The offer:
       Text: 
-      Body: 
+      Body:
+      - 
       Call To Action: 
     Value Proposition:
       Text: 
@@ -52,19 +53,23 @@ defaults:
       Call To Action: 
     The solution:
       Text: 
-      Body: 
+      Body:
+      - 
       Call To Action: 
     Testimonials:
       Text: 
-      Body: 
+      Body:
+      - 
       Call To Action: 
     How it works:
       Text: 
-      Body: 
+      Body:
+      - 
       Call To Action: 
     Audience:
       Text: 
-      Body: 
+      Body:
+      - 
       Call To Action: 
 url: https://cto-bro.com
 description: 
