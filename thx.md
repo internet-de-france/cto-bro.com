@@ -5,7 +5,7 @@ lang: en
 layout: default
 ---
 
-{% include redirect.html search="[BrowserLangName]" %}
+{% include redirect.html hash="[BrowserLangName]" %}
 
 ## Contact request received
 ### English
