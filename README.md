@@ -8,7 +8,7 @@
 Types of pages
 
 * languages are defined in a collection
-* 404: the "not found page" redirects to the translated 404 page depending on the browser language to fr-404
-* home page: 
+* 404: the "not found page" redirects to the translated page depending on the browser language
+* home page: redirects to the translated page depending on the browser language
 * translated home pages: they have to be in located in `/home/[lang].md` (path) with a permalink set to `/[lang]`. This ensures that in **siteleaf CMS** all the new pages have the correct meta data for the editors to fill (see defaults field of [_config.yml](./_config.yml))
 
