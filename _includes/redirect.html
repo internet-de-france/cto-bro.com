@@ -1,6 +1,7 @@
 <script>
     function redirectTo(title, code) {
-        {% for attr in ['pathname', 'hash', 'href'] %}
+        {% assign attributes = 'pathname', 'hash', 'href' %}
+        {% for attr in attributes %}
           var {{ attr }} = '{{ include[attr] }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
           if({{ attr }} != '' && window.location['{{ attr }}'] != {{ attr }}) {
               window.location['{{ attr }}'] = {{ attr }};
