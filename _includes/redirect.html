@@ -1,13 +1,11 @@
 <script>
     function redirectTo(title, code) {
-      var pathname = '{{ include.pathname }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
-      if(pathname != '' && window.location.pathname != pathname) {
-          window.location.pathname = pathname;
-      }
-      var hash = '{{ include.hash }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
-      if(hash != '' && window.location.hash != hash) {
-          window.location.hash = hash;
-      }        
+        {% for attr in ['pathname', 'hash', 'href'] %}
+          var val = '{{ include[attr] }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
+          if(val != '' && window.location['{{ attr }}'] != val) {
+              window.location['{{ attr }}'] = val;
+          }        
+        {% endfor %}
     }
     var userLang = navigator.language || navigator.userLanguage;
     if(false) '';
