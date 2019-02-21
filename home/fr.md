@@ -80,12 +80,12 @@ Testimonials:
   Call To Action: Trial FR
 Pricing:
   Text: |
-    # Meet the team
+    ## Pricing
 
-    Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
+    N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations.
 The team:
   Text: |
-    # Meet the team
+    ## Meet the team
 
     Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
 ---
