@@ -78,7 +78,7 @@ defaults:
       - 
       Call To Action: 
     Audience:
-      Text:
+      Text: 
       Body:
       - Text: 
         Call To Action: 
