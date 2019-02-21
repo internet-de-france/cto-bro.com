@@ -66,7 +66,7 @@ defaults:
       Body:
       - Title: 
         Text: 
-        Call To Action:
+        Call To Action: 
     How it works:
       Text: 
       Body:
