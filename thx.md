@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Thx
 position: 2
 lang: en
 layout: default
