@@ -175,6 +175,11 @@ The team:
   Call To Action: Apply coach FR
 Audience:
   Text: "## Clients et partenaires\n"
+  Body:
+  - Text: |2
+
+      Il est délicat de se lancer dans le dev d’un nouveau produit, de mettre en place une road map, de définir un MVP, d’innover, de recruter, d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques issues de nos échecs et de nos moments les plus glorieux.
+    Call To Action: Trial FR
 ---
 
 From README:
