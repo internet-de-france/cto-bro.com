@@ -83,6 +83,16 @@ Pricing:
     ## Pricing
 
     N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations.
+  Body:
+  - Title: Plan Startup
+    Text: |
+      1h/semaine de coaching, accès à la communauté d’experts.
+
+      * Choisissez un coach en qui vous avez confiance
+      * Planifiez jusqu’à 5 heures par mois de live chat privé avec votre “bro”
+      * Accès au réseau privé des experts de CTO Bro
+
+      Coût: 2200€/mois HT
 The team:
   Text: |
     ## Meet the team
