@@ -78,6 +78,16 @@ Testimonials:
 
     Xavier Hausherr, CTO @ Cozynergy
   Call To Action: Trial FR
+Pricing:
+  Text: |
+    # Meet the team
+
+    Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
+The team:
+  Text: |
+    # Meet the team
+
+    Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
 ---
 
 From README:
