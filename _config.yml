@@ -79,6 +79,7 @@ defaults:
       Call To Action: 
     Audience:
       Text:
+      Body:
       - Text: 
         Call To Action: 
 url: https://cto-bro.com
