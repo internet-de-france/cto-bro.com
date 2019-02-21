@@ -1,8 +1,13 @@
 <script>
     function redirectTo(title, code) {
       var path = '{{ include.target }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
-      if(window.location.pathname != path)
+      if(path != '' && window.location.pathname != path) {
           window.location.pathname = path;
+      }
+      var hash = '{{ include.hash }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
+      if(hash != '' && window.location.hash != hash) {
+          window.location.hash = hash;
+      }        
     }
     var userLang = navigator.language || navigator.userLanguage;
     if(false) '';
