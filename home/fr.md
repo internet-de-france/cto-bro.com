@@ -86,7 +86,7 @@ Pricing:
   Body:
   - Title: Startup
     Text: |
-      ### 2200€/mois HT
+      **2200€/mois HT**
 
       1h/semaine de coaching, accès à la communauté d’experts.
 
