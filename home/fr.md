@@ -172,6 +172,7 @@ The team:
     Compétences clés: revue de code, architecture, dev ops et CI, recrutement, RH, management.
 
     Liens : LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase
+  Call To Action: Apply coach FR
 ---
 
 From README:
