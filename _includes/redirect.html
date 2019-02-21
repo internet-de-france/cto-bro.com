@@ -1,9 +1,9 @@
 <script>
     function redirectTo(title, code) {
         {% for attr in ['pathname', 'hash', 'href'] %}
-          var val = '{{ include[attr] }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
-          if(val != '' && window.location['{{ attr }}'] != val) {
-              window.location['{{ attr }}'] = val;
+          var {{ attr }} = '{{ include[attr] }}'.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
+          if({{ attr }} != '' && window.location['{{ attr }}'] != {{ attr }}) {
+              window.location['{{ attr }}'] = {{ attr }};
           }        
         {% endfor %}
     }
