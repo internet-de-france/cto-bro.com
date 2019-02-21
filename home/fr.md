@@ -93,7 +93,7 @@ Pricing:
       * Choisissez un coach en qui vous avez confiance
       * Planifiez jusqu’à 5 heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
-    Call To Action: 
+    Call To Action: Pay FR
   - Title: Investisseurs
     Text: |
       Côut: 160€/h HT
@@ -103,12 +103,75 @@ Pricing:
       * Ouverture de canaux de discussion à volonté
       * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
-    Call To Action: 
+    Call To Action: Contact Founders FR
+  - Title: "(Feature) Teams"
+    Text: |
+      Côut: 160€/h HT
+
+      Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
+
+      * Mise en place d’une room dédiée pour vos “lead”
+      * Monitoring de l’activité et rapports mensuels
+      * Accès au réseau privé des experts de CTO Bro
+
+      CTA: contact founders
+    Call To Action: Contact Founders FR
+How it works:
+  Text: "## CTO Bro dans la pratique"
+  Body:
+  - "## 100% live chat\n\nL’expérience de chat en “one to one” nous permet d’adresser
+    les problématiques de nos clients, d’apprendre à les connaître pour leur faire
+    profiter d’années d’expérience.\n\nLe fait de passer par l’écrit est une pratique
+    courante chez les devs et CTO d’aujourd’hui, dans les communautés open source,
+    au sein des entreprises “remote” et en général dans les services techniques des
+    entreprises modernes. Cela présente de nombreux avantages:\n\n* Des discussions
+    plus structurées avec plus de réflexion entre les échanges, avec possibilité de
+    transmettre des liens ou de commenter un document ou une phrase en particulier
+    \n* Une traçabilité des échanges, recherche d’infos dans l’historique, monitoring
+    possible de l’activité pour détecter un éventuel dysfonctionnement et suivi de
+    la facturation\n* Une communication plus asynchrone, même si c’est un live chat,
+    on peut répondre à une question IRL ou sur un autre canal sans devoir mettre la
+    réunion en attente\n* Des discussions plus sereines sans le “bruit” lié à l’environnement
+    - bruit dans l’open space mais aussi mauvaises connexions, ordinateur qui rame…\n"
+  - "## Comment ça marche ?\nNous fixons des objectifs ensemble et, selon les besoins,
+    voici ce que nous faisons concrètement :\n\n* Des codes reviews sur des “pull
+    requests”\n* Des réunions d’architecture et de choix techniques\n* Des points
+    réguliers sur la stratégie de recrutement\n* Du conseil en innovation, prototypage,
+    MVP, road map\n\nEt ceci dans des domaines aussi variés que\n\n* Front-end, back-end,
+    dev-ops, bases de données \n* Développement de web apps, plateformes B2B et B2C,
+    APIs\n* UI/UX, product management, organisation agile, leadership, présenter devant
+    une audience\n"
+  Call To Action: Trial FR
 The team:
   Text: |
     ## Meet the team
 
     Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
+  Body:
+  - |-
+    ## Alex Hoyau
+    8 ans d’XP comme CTO
+
+    Au cours des 17 dernières années, j’ai été CTO pendant 6 ans et freelance/entrepreneur pendant 8 ans.
+
+    Je suis un manager expérimenté et un senior full stack developer. J’ai développé mon leadership dans des environnements de startup ainsi que dans des communautés open source. Sur un plan plus personnel, je suis bénévole dans l’association Silex Labs que j’ai fondée en 2010, pour apporter de la diversité aux entreprises tech.
+
+    J’ai une expérience significative dans le conseil, l’architecture, la planification et le développement de projets critiques pour des entreprises et des startups.
+
+    Compétences clés: revue de code, architecture, CI et workflows industriels, recrutement, leadership
+
+    Liens : LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
+  - |
+    ## Xavier Hausherr
+    3 x CTO
+
+    Depuis 2010 je dirige les équipes techniques d’entreprises pour qui la croissance rapide est vitale. Dans mes 3 dernières expériences j’ai dirigé plus de 50 développeu.se.r.s, embauché des dizaines de personnes. Ensemble, nous avons fait évoluer des plateformes délivrant du contenu à plusieurs centaines de millions d’internautes chaque mois.
+
+    Développeur avant tout, j’ai tout appris par moi même et je reste au fait de la technologie. J’aime faire des code reviews autant que des entretiens d’embauche, mettre en place la CI autant que la stratégie de recrutement ou planifier une road map. Et par dessus tout j’aime partager et progresser avec mes collègues.
+
+    Compétences clés: revue de code, architecture, dev ops et CI, recrutement, RH, management.
+
+    Liens : LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase
 ---
 
 From README:
