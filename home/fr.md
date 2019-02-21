@@ -176,10 +176,51 @@ The team:
 Audience:
   Text: "## Clients et partenaires\n"
   Body:
-  - Text: |2
-
-      Il est délicat de se lancer dans le dev d’un nouveau produit, de mettre en place une road map, de définir un MVP, d’innover, de recruter, d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques issues de nos échecs et de nos moments les plus glorieux.
+  - Text: "### Startups\nNotre expérience et notre “formule” CTO Bro nous permettent
+      de répondre aux attentes de nos clients dans les meilleures conditions de manière
+      très personnelle. \n\nIl est délicat de se lancer dans le dev d’un nouveau produit,
+      de mettre en place une road map, de définir un MVP, d’innover, de recruter,
+      d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques
+      issues de nos échecs et de nos moments les plus glorieux.\n\nContactez nous
+      pour vous lancer dans l’aventure ou testez gratuitement CTO Bro.\n"
     Call To Action: Trial FR
+  - Text: "### Equipes de dev, département innovation\n\nEn tant que CTOs et lead
+      expérimentés nous sommes à même de vous aider à penser “out of the box”, à fluidifier
+      votre organisation et le développement de vos produits. \n\nVous maintenez et
+      faites évoluer le produit qui paie les salaires de toute la boite? Nous vous
+      offrons l’expérience ultime pour booster vos feature teams : chaque lead ou
+      product owner se voit attribuer un rôle dans une chat room commune à vos équipes.
+      Des coachs CTO Bro animent les discussions et les alimentent d’exemples concrets,
+      de questions pertinentes et de suggestions qui vous feront gagner beaucoup d’énergie.\n
+      \nContactez nous pour établir un devis adapté ou lancez vous dans l’aventure
+      et testez gratuitement CTO Bro.\n"
+    Call To Action: Trial FR
+  - Text: "### Investisseurs, VCs, incubateurs\nCTO Bro vous donne accès à une expérience
+      cumulée extrêmement vaste, dans des domaines très variés, au moment où vous
+      en avez besoin !\n\nVous pouvez utiliser tout ou partie de cette expertise,
+      au bon moment et selon vos besoins:\n\n* En amont d’un investissement, pour
+      aider vos équipes à évaluer les options techniques retenues par les cibles potentielles\n*
+      Lors de deep dives pour aider vos startups en portefeuille à upgrader leurs
+      technologies ou à franchir le cap de déploiement ou de pivots critiques\n* En
+      accompagnement sur le long terme, de type coaching, des équipes techniques de
+      vos startups en portefeuille - nous sommes les garants du bon déroulement de
+      la road map établie, et des lanceurs d'alerte en cas de problème technique non
+      adressé\n \nContactez les founders pour établir un devis adapté à vos besoins.\n"
+    Call To Action: Contact Founders FR
+  - Text: "### CTOs, Rejoignez-nous !\n\nDevenez un “Bro” pour lancer la prochaine
+      vague de makers !\n\nRappelez-vous vos débuts, quel bonheur si vous aviez eu
+      une relation particulière avec un profil comme le vôtre aujourd’hui. Quel impact
+      cela aurait-il eu sur votre motivation, sur vos projets?\n\nEn plus de votre
+      travail actuel, investissez-vous dans de nouveaux projets innovants. Ayez un
+      réel impact sur votre écosystème. Rejoignez notre communauté d’experts reconnus
+      à temps partiel, et faites de nombreux contacts passionnants. \n\nVotre temps
+      est précieux et nous mettons tout en oeuvre pour que vos interventions soient
+      le plus efficaces possibles. Tous les échanges se font par écrit depuis votre
+      desktop ou mobile au moment qui vous arrange.\n\nLe process d’embauche prend
+      4 heures, ce qui nous permet de comprendre qui vous êtes et quel projet vous
+      conviendra le mieux. Et la rémunération est conséquente, même si ce n’est probablement
+      pas votre priorité aujourd’hui.\n"
+    Call To Action: Apply coach FR
 ---
 
 From README:
