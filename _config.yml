@@ -45,9 +45,10 @@ defaults:
       Text: 
       Body: 
       Call To Action: 
-    Value Propositionx:
+    Value Proposition:
       Text: 
-      Bodyxx: 
+      Body:
+      - 
       Call To Action: 
     The solution:
       Text: 
