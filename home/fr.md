@@ -3,6 +3,11 @@ title: Home FR
 date: 2019-02-21 01:13:00 +01:00
 permalink: "/fr"
 Language: Français
+SEO:
+  Title: CTO, bro - Coaching startups
+  Description: Sécurisez votre croissance avec notre expertise technique. Offrez vous
+    un CTO expérimenté pour du coaching en recrutement, management, architecture et
+    bien plus.
 Header: Header FR
 Footer: Footer FR
 Hero:
