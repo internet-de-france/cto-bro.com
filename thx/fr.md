@@ -6,5 +6,4 @@ permalink: "/thx-fr"
 
 ## Demande de contact reçue
 
-
 Merci de votre intérêt, nous vous contacterons dans les 24h. Vous pouvez aussi [appeler Alex Hoyau (06 76 68 38 06)](tél.: +33676683806) ou [lui écrire (alex@cto-bro.com)](mailto: alex@cto-bro.com).
