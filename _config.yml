@@ -48,8 +48,8 @@ defaults:
     Value Propositionx:
       Text: 
       Body:
-        - a
-        - b
+      - a
+      - b
       Call To Action: 
     The solution:
       Text: 
