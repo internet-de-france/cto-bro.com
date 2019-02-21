@@ -77,6 +77,7 @@ Testimonials:
     > Les grands mentors vont au-delà des questions, ils inspirent. CTO Bro est une solution qui apporte autant aux mentors qu’aux mentorés dans la mise en relation et le développement des compétences.
 
     Xavier Hausherr, CTO @ Cozynergy
+  Call To Action: Trial FR
 ---
 
 From README:
