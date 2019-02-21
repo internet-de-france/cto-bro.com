@@ -1,6 +1,6 @@
 <script>
     function redirectTo(title, code) {
-      var path = window.location.pathname.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
+      var path = include.target.replace('[BrowserLangName]', title).replace('[BrowserLangCode]', code);
       if(window.location.pathname != path)
           window.location.pathname = path;
     }
