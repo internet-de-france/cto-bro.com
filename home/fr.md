@@ -11,9 +11,22 @@ SEO:
 Header: Header FR
 Footer: Footer FR
 Hero:
-  Text: |-
-    # Offrez un “bro” à votre CTO !
-    ## Sécurisez votre croissance avec notre expertise technique
+  Text: "# Offrez un “bro” à votre CTO !\n## Sécurisez votre croissance avec notre
+    expertise technique\n\n<!-- Begin Mailchimp Signup Form -->\n<link href=\"//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css\"
+    rel=\"stylesheet\" type=\"text/css\">\n<style type=\"text/css\">\n\t#mc_embed_signup{background:#fff;
+    clear:left; font:14px Helvetica,Arial,sans-serif; width:100%;}\n\t/* Add your
+    own Mailchimp form style overrides in your site stylesheet or in this style block.\n\t
+    \  We recommend moving this block and the preceding CSS link to the HEAD of your
+    HTML file. */\n</style>\n<div id=\"mc_embed_signup\">\n<form action=\"https://cto-bro.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=e58b03ab6c\"
+    method=\"post\" id=\"mc-embedded-subscribe-form\" name=\"mc-embedded-subscribe-form\"
+    class=\"validate\" target=\"_blank\" novalidate>\n    <div id=\"mc_embed_signup_scroll\">\n\t\n\t<input
+    type=\"email\" value=\"\" name=\"EMAIL\" class=\"email\" id=\"mce-EMAIL\" placeholder=\"email
+    address\" required>\n    <!-- real people should not fill this in and expect good
+    things - do not remove this or risk form bot signups-->\n    <div style=\"position:
+    absolute; left: -5000px;\" aria-hidden=\"true\"><input type=\"text\" name=\"b_3ec1ea212adc44025d91ed004_e58b03ab6c\"
+    tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\"
+    value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n
+    \   </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->"
   Call To Action: Trial FR
 The offer:
   Body:
