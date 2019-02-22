@@ -188,7 +188,7 @@ Audience:
       d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques
       issues de nos échecs et de nos moments les plus glorieux.\n\nContactez nous
       pour vous lancer dans l’aventure ou testez gratuitement CTO Bro.\n"
-    Call To Action: Trial FR
+    Call To Action: 
   - Text: "### Equipes de dev, département innovation\n\nEn tant que CTOs et lead
       expérimentés nous sommes à même de vous aider à penser “out of the box”, à fluidifier
       votre organisation et le développement de vos produits. \n\nVous maintenez et
@@ -199,7 +199,7 @@ Audience:
       de questions pertinentes et de suggestions qui vous feront gagner beaucoup d’énergie.\n
       \nContactez nous pour établir un devis adapté ou lancez vous dans l’aventure
       et testez gratuitement CTO Bro.\n"
-    Call To Action: Trial FR
+    Call To Action: 
   - Text: "### Investisseurs, VCs, incubateurs\nCTO Bro vous donne accès à une expérience
       cumulée extrêmement vaste, dans des domaines très variés, au moment où vous
       en avez besoin !\n\nVous pouvez utiliser tout ou partie de cette expertise,
