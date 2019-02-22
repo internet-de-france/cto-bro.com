@@ -26,6 +26,12 @@ defaults:
     type: page
   values:
     layout: default
+    Language: 
+    SEO:
+      Title: 
+      Description: 
+    Header: 
+    Footer: 
 - scope:
     path: home
     type: page
