@@ -27,4 +27,4 @@ date: 2019-02-20 23:47:00 +01:00
 
 __[Déja membre?](https://cto-bro.slack.com/)__
 
-Des questions: **[Par mail](mailto:sales@cto-bro.com)** **[Par WhatsApp](tel:+33676683806)**
+Des questions: **[Mail](mailto:sales@cto-bro.com)** ou **[WhatsApp](tel:+33676683806)**
