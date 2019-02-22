@@ -14,7 +14,7 @@ Credits Text: 'Powered by [Silex](https://www.silex.me), [Jekyll](https://jekyll
 '
 ---
 
-## A propos de nous
+### A propos de nous
 
 Nous aidons les leaders de demain à prendre leur place dans un univers professionnel passionnant, forts d’un total de 10 créations d’entreprises, de 20 ans en tant que CTO, de 18 ans en tant que freelances
 
