@@ -167,6 +167,7 @@ The team:
 
     Liens : LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
   - |
+    ![Xavier Hausherr CTO](/uploads/xavier.jpg)
     ## Xavier Hausherr
     3 x CTO
 
