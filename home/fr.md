@@ -153,7 +153,7 @@ The team:
     Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
   Body:
   - |-
-    ![alex.jpg](/uploads/alex.jpg)
+    ![alex hoyau cto](/uploads/alex.jpg)
     ## Alex Hoyau
     8 ans d’XP comme CTO
 
