@@ -27,7 +27,6 @@ Hero:
     tabindex=\"-1\" value=\"\"></div>\n    <div class=\"clear\"><input type=\"submit\"
     value=\"Subscribe\" name=\"subscribe\" id=\"mc-embedded-subscribe\" class=\"button\"></div>\n
     \   </div>\n</form>\n</div>\n\n<!--End mc_embed_signup-->"
-  Call To Action: Trial FR
 The offer:
   Body:
   - |-
