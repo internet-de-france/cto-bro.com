@@ -37,18 +37,17 @@ The offer:
 Value Proposition:
   Text: "## Pourquoi les startups choisissent CTO Bro?"
   Body:
-  - "## CTO Bro, des années d’avance\nLe monde du numérique évolue vite - la technologie,
+  - "### CTO Bro, des années d’avance\nLe monde du numérique évolue vite - la technologie,
     les pratiques, les entreprises et surtout nous, les gens. Dans ce domaine la réussite
     est directement liée à la capacité d‘évoluer rapidement.\n\n1 seule solution pour
     réussir : trouver les bonnes sources d’information, sentir ce qui mérite du temps
     et de l’attention. C’est un instinct qui s’acquiert avec du travail et de l’expérience. "
-  - " \n## Les Bros, des Pros !\nNous recrutons pour vous des CTOs et lead devs référents
+  - "### Les Bros, des Pros !\nNous recrutons pour vous des CTOs et lead devs référents
     dans leurs domaines. Ce ne sont pas des consultants mais des mentors. \n\nNos
     coachs évoluent dans le même cadre que le vôtre, ils sont à plein temps sur un
     projet ambitieux qui repose sur eux, sur leurs compétences techniques et humaines."
-  - |2-
-
-    ## Gagnez du temps, laissez vous guider
+  - |-
+    ### Gagnez du temps, laissez vous guider
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. Peu importe la méthode, nous voulons votre réussite.
 
     Dans tous les cas nous vous assurons une relation riche et personnelle.
