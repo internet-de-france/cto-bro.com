@@ -8,6 +8,10 @@ Links Text: |
   Site web
   LinkedIn
   Liens internes
+Credits Text: 'Powered by [Silex](https://www.silex.me), [Jekyll](https://jekyllrb.com/)
+  and [Siteleaf](https://www.siteleaf.com/)
+
+'
 ---
 
 ## A propos de nous
