@@ -2,6 +2,9 @@
 title: Thx FR
 date: 2019-02-21 20:31:00 +01:00
 permalink: "/thx-fr"
+Language: Français
+SEO:
+  Title: Demande de contact reçue
 ---
 
 ## Demande de contact reçue
