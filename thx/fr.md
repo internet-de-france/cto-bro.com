@@ -5,6 +5,8 @@ permalink: "/thx-fr"
 Language: Français
 SEO:
   Title: Demande de contact reçue
+Header: Header FR
+Footer: Footer FR
 ---
 
 ## Demande de contact reçue
