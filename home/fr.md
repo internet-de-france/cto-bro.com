@@ -56,18 +56,17 @@ The solution:
   Text: "## La Solution CTO Bro"
   Body:
   - |-
-    ## Profitez de l’expérience de vos pairs
+    ### Profitez de l’expérience de vos pairs
 
     Nos années d’expérience comme lead dev ou CTO nous permettent de vous faire profiter d’un point de vue extérieur intéressant, de contacts et d’idées qui font sens.
-  - "## Mentoring sur mesure\nNous choisissons avec vous l’expertise ultime dans votre
-    domaine, pour des informations et des contacts utiles concrètement et immédiatement.
+  - "### Mentoring sur mesure\nNous choisissons avec vous l’expertise ultime dans
+    votre domaine, pour des informations et des contacts utiles concrètement et immédiatement.
     \n"
-  - |2
-
-    ## Votre succès, rien que ça
+  - |
+    ### Votre succès, rien que ça
     Toutes vos questions trouveront une réponse, rapidement et sans limite du nombre de question ou de complexité. Les “bro” sont là pour être challengés !
   - |-
-    ## Personnalisez votre expérience
+    ### Personnalisez votre expérience
     Vous avez le choix du mode de coaching - code reviews, brainstorming, pear programming, daily meeting, group chat entre plusieurs experts et vos collaborateurs.
   Call To Action: Trial FR
 Testimonials:
@@ -124,7 +123,7 @@ Pricing:
 How it works:
   Text: "## CTO Bro dans la pratique"
   Body:
-  - "## 100% live chat\n\nL’expérience de chat en “one to one” nous permet d’adresser
+  - "### 100% live chat\n\nL’expérience de chat en “one to one” nous permet d’adresser
     les problématiques de nos clients, d’apprendre à les connaître pour leur faire
     profiter d’années d’expérience.\n\nLe fait de passer par l’écrit est une pratique
     courante chez les devs et CTO d’aujourd’hui, dans les communautés open source,
@@ -138,7 +137,7 @@ How it works:
     on peut répondre à une question IRL ou sur un autre canal sans devoir mettre la
     réunion en attente\n* Des discussions plus sereines sans le “bruit” lié à l’environnement
     - bruit dans l’open space mais aussi mauvaises connexions, ordinateur qui rame…\n"
-  - "## Comment ça marche ?\nNous fixons des objectifs ensemble et, selon les besoins,
+  - "### Comment ça marche ?\nNous fixons des objectifs ensemble et, selon les besoins,
     voici ce que nous faisons concrètement :\n\n* Des codes reviews sur des “pull
     requests”\n* Des réunions d’architecture et de choix techniques\n* Des points
     réguliers sur la stratégie de recrutement\n* Du conseil en innovation, prototypage,
