@@ -25,4 +25,4 @@ date: 2019-02-20 23:47:00 +01:00
 <!--End mc_embed_signup-->
 7 jours gratuits, accès illimité à la communauté des coachs
 
-__[Déja membre?](https://cto-bro.slack.com/)__                Des questions: **[Mail](mailto:sales@cto-bro.com)** ou **[WhatsApp](tel:+33676683806)**
+[Déja membre?](https://cto-bro.slack.com/) Des questions? **[Mail](mailto:sales@cto-bro.com)** ou **[WhatsApp](tel:+33676683806)**
