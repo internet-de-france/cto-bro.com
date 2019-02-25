@@ -18,57 +18,35 @@ Footer: Footer FR
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://cto-bro.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=e58b03ab6c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=076428e065" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
 </label>
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-MMERGE1">First Name </label>
-	<input type="text" value="" name="MMERGE1" class="" id="mce-MMERGE1">
+	<label for="mce-FNAME">First Name </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-MMERGE2">Last Name </label>
-	<input type="text" value="" name="MMERGE2" class="" id="mce-MMERGE2">
+	<label for="mce-LNAME">Last Name </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-MMERGE3">Company </label>
-	<input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3">
+	<label for="mce-COMPANY">Company </label>
+	<input type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
 	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3ec1ea212adc44025d91ed004_e58b03ab6c" tabindex="-1" value=""></div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_3ec1ea212adc44025d91ed004_076428e065" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='MMERGE1';ftypes[1]='text';fnames[2]='MMERGE2';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='text'; /*
- * Translated default messages for the $ validation plugin.
- * Locale: FR
- */
-$.extend($.validator.messages, {
-        required: "Ce champ est requis.",
-        remote: "Veuillez remplir ce champ pour continuer.",
-        email: "Veuillez entrer une adresse email valide.",
-        url: "Veuillez entrer une URL valide.",
-        date: "Veuillez entrer une date valide.",
-        dateISO: "Veuillez entrer une date valide (ISO).",
-        number: "Veuillez entrer un nombre valide.",
-        digits: "Veuillez entrer (seulement) une valeur numérique.",
-        creditcard: "Veuillez entrer un numéro de carte de crédit valide.",
-        equalTo: "Veuillez entrer une nouvelle fois la même valeur.",
-        accept: "Veuillez entrer une valeur avec une extension valide.",
-        maxlength: $.validator.format("Veuillez ne pas entrer plus de {0} caractères."),
-        minlength: $.validator.format("Veuillez entrer au moins {0} caractères."),
-        rangelength: $.validator.format("Veuillez entrer entre {0} et {1} caractères."),
-        range: $.validator.format("Veuillez entrer une valeur entre {0} et {1}."),
-        max: $.validator.format("Veuillez entrer une valeur inférieure ou égale à {0}."),
-        min: $.validator.format("Veuillez entrer une valeur supérieure ou égale à {0}.")
-});}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='COMPANY';ftypes[3]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
