@@ -22,6 +22,6 @@ date: 2019-02-20 23:47:00 +01:00
 </form>
 </div>
 <!--End mc_embed_signup-->
-7 jours gratuits, accès illimité à la communauté des coachs
+24h accès gratuit illimité à la communauté des coachs
 
 [Déja membre ?](https://cto-bro.slack.com/) • [Des questions ?](mailto:sales@cto-bro.com)
