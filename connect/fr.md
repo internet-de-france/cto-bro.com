@@ -28,15 +28,15 @@ Footer: Footer FR
 	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
+	<label for="mce-FNAME">Prénom </label>
 	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
+	<label for="mce-LNAME">Nom de famille </label>
 	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-COMPANY">Company </label>
+	<label for="mce-COMPANY">Nom de votre entreprise </label>
 	<input type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
