@@ -13,7 +13,7 @@ collections:
     output: false
   languages:
     title: Languages
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
