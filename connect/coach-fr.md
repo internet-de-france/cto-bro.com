@@ -11,5 +11,6 @@ Header: Header FR
 Footer: Footer FR
 ---
 
+Merci pour votre intérêt et bienvenue dans notre communauté d'experts. 
 
-Immédiatement après avoir rempli ce questionnaire, vous aurez un accès gratuit illimité à la communauté des coachs. Pendant 24h vous pourez poser des questions techniques ou non, utiles pour votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre 
+Immédiatement après avoir rempli ce questionnaire, vous aurez accès gratuit illimité à la communauté des coachs. Pendant 24h vous pourez poser des questions techniques ou non, utiles pour votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre 
