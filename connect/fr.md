@@ -12,6 +12,7 @@ Footer: Footer FR
 
 # Essayez CTO Bro
 
+Immédiatement après avoir rempli ce questionnaire, vous aurez un accès gratuit illimité à la communauté des coachs.
 
 
 <!-- Begin Mailchimp Signup Form -->
