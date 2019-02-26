@@ -25,7 +25,7 @@ The offer:
 
     Nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
 
-    ![slack3.png](/uploads/slack3.png)
+    ![slack3.png](uploads/slack3.png)
   - |
     ## Réseau privé d’experts
 
