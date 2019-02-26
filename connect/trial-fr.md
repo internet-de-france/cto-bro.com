@@ -13,7 +13,7 @@ Footer: Footer FR
 
 # Essayez CTO Bro
 
-Immédiatement après avoir rempli ce questionnaire, vous recevrez un accès gratuit illimité à la communauté des coachs. Pendant 24h vous pourez poser des questions techniques ou non, utiles pour votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre 
+Immédiatement après avoir rempli ce questionnaire, vous recevrez un accès gratuit illimité à la communauté des coachs. Pendant 24h vous pourez poser des questions techniques ou non, utiles pour votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre coach.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
