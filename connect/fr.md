@@ -1,5 +1,5 @@
 ---
-title: Mailchimp FR
+title: Trial FR
 date: 2019-02-25 23:37:00 +01:00
 permalink: connect-fr
 Language: Français
@@ -9,6 +9,10 @@ SEO:
 Header: Header FR
 Footer: Footer FR
 ---
+
+# Essayez CTO Bro
+
+
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
