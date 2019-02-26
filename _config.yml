@@ -7,7 +7,7 @@ collections:
     output: false
   footer:
     title: Footer
-    output: true
+    output: false
   header:
     title: Header
     output: true
