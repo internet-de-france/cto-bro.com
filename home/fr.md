@@ -88,7 +88,7 @@ Testimonials:
   Call To Action: Trial FR
 Pricing:
   Text: |
-    ## Pricing
+    ## Tarifs
 
     N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations.
   Body:
