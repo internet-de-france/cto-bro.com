@@ -7,6 +7,8 @@ SEO:
   Title: Devenez mentor, faites les makers de demain
   Description: Devenez mentor CTO Bro, et aidez les jeunes pousses à devenir les makers
     de demain.
+Header: Header FR
+Footer: Footer FR
 ---
 
 
