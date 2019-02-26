@@ -104,7 +104,7 @@ Pricing:
     Call To Action: Pay FR
   - Title: Investisseurs
     Text: |
-      Côut: 160€/h HT
+      __**160**€/h HT__
 
       Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
