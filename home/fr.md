@@ -18,14 +18,14 @@ Hero:
   Call To Action: Trial FR
 The offer:
   Body:
-  - |-
+  - |
     ## Mentorat en direct
 
     CTO Bro c’est du **chat en direct** avec des **lead devs** et **CTOs expérimentés**. Choisissez votre coach et faites le point deux fois par semaine.
 
     Nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
 
-    ![CTO Bro chat](uploads/slack3.png)
+    ![coaching-channel.png](uploads/coaching-channel.png)
   - |
     ## Réseau privé d’experts
 
