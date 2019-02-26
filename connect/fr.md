@@ -5,7 +5,8 @@ permalink: connect-fr
 Language: Français
 SEO:
   Title: Essayer CTO Bro
-  Description: Essayer CTO Bro gratuitement pendant 24h
+  Description: Essayer CTO Bro gratuitement pendant 24h. Pour du coaching ou du mentoring,
+    100% live avec des mentors d'exception.
 Header: Header FR
 Footer: Footer FR
 ---
