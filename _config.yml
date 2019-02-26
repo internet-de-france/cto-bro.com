@@ -2,9 +2,6 @@
 title: Cto Bro.Com
 timezone: Europe/Paris
 collections:
-  posts:
-    title: "?"
-    output: true
   call-to-action:
     title: Call To Action
     output: false
@@ -16,6 +13,9 @@ collections:
     output: true
   languages:
     title: Languages
+    output: true
+  posts:
+    title: Posts
     output: true
   uploads:
     title: Uploads
