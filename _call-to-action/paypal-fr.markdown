@@ -3,4 +3,4 @@ title: Pay FR
 date: 2019-02-21 19:32:00 +01:00
 ---
 
-**[Souscrire](pay-fr)**
+**[Souscrire](founder-plan-fr)**
