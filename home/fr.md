@@ -92,7 +92,7 @@ Pricing:
 
     N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations.
   Body:
-  - Title: Startup
+  - Title: Founder
     Text: |
       **2200€/mois HT**
 
