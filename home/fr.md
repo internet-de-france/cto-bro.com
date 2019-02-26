@@ -5,9 +5,9 @@ permalink: "/fr"
 Language: Français
 SEO:
   Title: CTO, bro - Coaching startups
-  Description: Sécurisez votre croissance avec notre expertise technique. Offrez vous
-    un CTO expérimenté pour du coaching en recrutement, management, architecture et
-    bien plus.
+  Description: |-
+    Sécurisez votre croissance avec notre expertise technique. Offrez vous un CTO expérimenté pour du coaching en recrutement, management, architecture et bien plus.
+    ---
 Header: Header FR
 Footer: Footer FR
 Hero:
