@@ -1,7 +1,7 @@
 ---
 title: Trial FR
 date: 2019-02-25 23:37:00 +01:00
-permalink: connect-fr
+permalink: trial-fr
 Language: Français
 SEO:
   Title: Essayer CTO Bro
