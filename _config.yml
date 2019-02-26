@@ -7,7 +7,7 @@ collections:
     output: true
   call-to-action:
     title: Call To Action
-    output: true
+    output: false
   footer:
     title: Footer
     output: true
