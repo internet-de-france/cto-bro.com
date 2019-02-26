@@ -10,7 +10,7 @@ collections:
     output: false
   header:
     title: Header
-    output: true
+    output: false
   languages:
     title: Languages
     output: true
