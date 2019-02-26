@@ -90,11 +90,11 @@ Pricing:
   Text: |
     ## Tarifs
 
-    N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations.
+    N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations. Les prix ci-dessous sont HT (TVA non incluse).
   Body:
   - Title: Founder
     Text: |
-      __**2200**€/mois HT__
+      __**2200**€/mois__
 
       1h/semaine de coaching, accès à la communauté d’experts.
 
@@ -104,7 +104,7 @@ Pricing:
     Call To Action: Pay FR
   - Title: Investisseurs
     Text: |
-      __**160**€/h HT__
+      __**160**€/h__
 
       Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
