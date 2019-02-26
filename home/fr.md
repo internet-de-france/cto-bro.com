@@ -21,7 +21,7 @@ The offer:
   - |
     ## Mentorat en direct
 
-    CTO Bro c’est du chat en direct avec des lead devs et des CTO expérimentés. Choisissez votre coach et faites le point deux fois par semaine.
+    CTO Bro c’est du **chat en direct** avec des **lead devs** et **CTOs expérimentés**. Choisissez votre coach et faites le point deux fois par semaine.
 
     Nous soutenons des CTO et lead developers pour le recrutement, le management, l’industrialisation de code et bien plus. Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
   - |
