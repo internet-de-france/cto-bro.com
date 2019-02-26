@@ -25,7 +25,7 @@ The offer:
 
     Nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
 
-    ![slack3.png](uploads/slack3.png)
+    ![CTO Bro chat](uploads/slack3.png)
   - |
     ## Réseau privé d’experts
 
@@ -157,7 +157,7 @@ The team:
     Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
   Body:
   - |-
-    ![alex hoyau cto](/uploads/alex.jpg)
+    ![alex hoyau cto](uploads/alex.jpg)
     ## Alex Hoyau
     8 ans d’XP comme CTO
 
@@ -171,7 +171,7 @@ The team:
 
     Liens : LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
   - |
-    ![Xavier Hausherr CTO](/uploads/xavier.jpg)
+    ![Xavier Hausherr CTO](uploads/xavier.jpg)
     ## Xavier Hausherr
     3 x CTO
 
