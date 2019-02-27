@@ -145,7 +145,7 @@ How it works:
     en particulier \n* ![Reporting for coaching sessions](uploads/iconfinder_2438288.png)\n
     \ Une traçabilité des échanges, recherche d’infos dans l’historique, monitoring
     possible de l’activité pour détecter un éventuel dysfonctionnement et suivi de
-    la facturation\n* ![2951044-512.png](uploads/2951044-512.png)\n  Une communication
+    la facturation\n* ![Asynchrone mentoring](uploads/2951044-512.png)\n  Une communication
     plus asynchrone, même si c’est un live chat, on peut répondre à une question IRL
     ou sur un autre canal sans devoir mettre la réunion en attente\n* Des discussions
     plus sereines sans le “bruit” lié à l’environnement - bruit dans l’open space
