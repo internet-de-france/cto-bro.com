@@ -33,7 +33,7 @@ The offer:
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors la discussion est ouverte et les opinions tranchées se confrontent au service de votre produit.
 
-    ![experts.png](/uploads/experts.png)
+    ![experts.png](uploads/experts.png)
   - |-
     ## En équipe, vos leads et nous
 
@@ -41,7 +41,7 @@ The offer:
 
     Dans la confidentialité de votre chat room, tous les points de vue se confrontent ouvertement, et nos experts sont là pour apporter leur expérience et alimenter les débats d’éléments concrets qui assureront à vos équipes une évolution rapide.
 
-    ![team.png](/uploads/team.png)
+    ![team.png](uploads/team.png)
   Call To Action: Trial FR
 Value Proposition:
   Text: "## Pourquoi les startups choisissent CTO Bro?"
@@ -60,6 +60,7 @@ Value Proposition:
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. Peu importe la méthode, nous voulons votre réussite.
 
     Dans tous les cas nous vous assurons une relation riche et personnelle.
+  Call To Action: Trial FR
 The solution:
   Text: "## La Solution CTO Bro"
   Body:
@@ -76,7 +77,6 @@ The solution:
   - |-
     ### Personnalisez votre expérience
     Vous avez le choix du mode de coaching - code reviews, brainstorming, pear programming, daily meeting, group chat entre plusieurs experts et vos collaborateurs.
-  Call To Action: Trial FR
 Testimonials:
   Text: "## Ce qu’ils disent de nous"
   Body:
@@ -89,7 +89,6 @@ Testimonials:
     > Les grands mentors vont au-delà des questions, ils inspirent. CTO Bro est une solution qui apporte autant aux mentors qu’aux mentorés dans la mise en relation et le développement des compétences.
 
     Xavier Hausherr, CTO @ Cozynergy
-  Call To Action: Trial FR
 Pricing:
   Text: |
     ## Tarifs
