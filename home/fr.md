@@ -127,7 +127,7 @@ Pricing:
 
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
-      * Mise en place d’une room dédiée pour vos “lead”
+      * Mise en place d’une room dédiée pour vos “lead” animée par un expert
       * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Contact Founders FR
