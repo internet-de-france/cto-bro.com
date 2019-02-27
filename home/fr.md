@@ -117,7 +117,7 @@ Pricing:
 
       Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
-      * Ouverture de canaux de discussion à volonté
+      * Ouverture de canaux de discussion privés à volonté
       * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Contact Founders FR
