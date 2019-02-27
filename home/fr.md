@@ -33,7 +33,7 @@ The offer:
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors la discussion est ouverte et les opinions tranchées se confrontent au service de votre produit.
 
-    ![team.png](uploads/team.png)
+    ![CTO Bro team](uploads/team2.png)
   - |-
     ## En équipe, vos leads et nous
 
