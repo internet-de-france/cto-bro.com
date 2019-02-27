@@ -113,7 +113,7 @@ Pricing:
     Call To Action: Pay FR
   - Title: Investisseurs
     Text: |-
-      <div class="price"><div class="value">330</div>€/h</div>
+      <div class="price"><div class="value">299</div>€/h</div>
 
       Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
@@ -123,7 +123,7 @@ Pricing:
     Call To Action: Contact Founders FR
   - Title: "(Feature) Teams"
     Text: |-
-      <div class="price"><div class="value">330</div>€/h</div>
+      <div class="price"><div class="value">299</div>€/h</div>
 
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
