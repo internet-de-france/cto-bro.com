@@ -58,6 +58,7 @@ Value Proposition:
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. Peu importe la méthode, nous voulons votre réussite.
 
     Dans tous les cas nous vous assurons une relation riche et personnelle.
+  Call To Action: Trial FR
 The solution:
   Text: "## La Solution CTO Bro"
   Body:
@@ -74,7 +75,6 @@ The solution:
   - |-
     ### Personnalisez votre expérience
     Vous avez le choix du mode de coaching - code reviews, brainstorming, pear programming, daily meeting, group chat entre plusieurs experts et vos collaborateurs.
-  Call To Action: Trial FR
 Testimonials:
   Text: "## Ce qu’ils disent de nous"
   Body:
@@ -87,7 +87,6 @@ Testimonials:
     > Les grands mentors vont au-delà des questions, ils inspirent. CTO Bro est une solution qui apporte autant aux mentors qu’aux mentorés dans la mise en relation et le développement des compétences.
 
     Xavier Hausherr, CTO @ Cozynergy
-  Call To Action: Trial FR
 Pricing:
   Text: |
     ## Tarifs
