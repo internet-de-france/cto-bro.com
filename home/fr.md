@@ -72,6 +72,8 @@ The solution:
     choisissons avec vous l’expertise ultime dans votre domaine, pour des informations
     et des contacts utiles concrètement et immédiatement. \n"
   - |
+    ![Success by CTO Bro](/uploads/4099564-512.png)
+
     ### Votre succès, rien que ça
     Toutes vos questions trouveront une réponse, rapidement et sans limite du nombre de question ou de complexité. Les “bro” sont là pour être challengés !
   - |-
