@@ -188,13 +188,14 @@ The team:
 Audience:
   Text: "## Clients et partenaires\n"
   Body:
-  - Text: "### Startups\nNotre expérience et notre “formule” CTO Bro nous permettent
-      de répondre aux attentes de nos clients dans les meilleures conditions de manière
-      très personnelle. \n\nIl est délicat de se lancer dans le dev d’un nouveau produit,
-      de mettre en place une road map, de définir un MVP, d’innover, de recruter,
-      d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques
-      issues de nos échecs et de nos moments les plus glorieux.\n\nContactez nous
-      pour vous lancer dans l’aventure ou testez gratuitement CTO Bro.\n"
+  - Text: |
+      ### Startups
+
+      Notre expérience et notre offre "founder" nous permettent de répondre de manière très personnelle aux CTO créateurs de startups.
+
+      Il est délicat de se lancer dans le dev d’un nouveau produit, de mettre en place une road map, de définir un MVP, d’innover, de recruter, d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques issues de nos échecs et de nos moments les plus glorieux.
+
+      Contactez nous pour vous lancer dans l’aventure ou testez gratuitement CTO Bro.
     Call To Action: 
   - Text: "### Equipes de dev, département innovation\n\nEn tant que CTOs et lead
       expérimentés nous sommes à même de vous aider à penser “out of the box”, à fluidifier
