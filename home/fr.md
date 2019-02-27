@@ -123,6 +123,7 @@ Pricing:
 
       CTA: contact founders
     Call To Action: Contact Founders FR
+    Price Text: __160__€/h
 How it works:
   Text: "## CTO Bro dans la pratique"
   Body:
