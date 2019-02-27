@@ -76,7 +76,6 @@ The solution:
     ### Personnalisez votre expérience
     Vous avez le choix du mode de coaching - code reviews, brainstorming, pear programming, daily meeting, group chat entre plusieurs experts et vos collaborateurs.
 Testimonials:
-  Text: "## Ce qu’ils disent de nous"
   Body:
   - "> Ce que j’ai le plus apprécié, c’est de pouvoir poser des questions très spécifiques
     sur mes situations réelles et d’obtenir des solutions concrètes ainsi que des
