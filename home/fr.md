@@ -218,7 +218,7 @@ Audience:
       accompagnement sur le long terme, de type coaching, des équipes techniques de
       vos startups en portefeuille - nous sommes les garants du bon déroulement de
       la road map établie, et des lanceurs d'alerte en cas de problème technique non
-      adressé\n \nContactez les founders pour établir un devis adapté à vos besoins.\n"
+      adressé\n \nContactez nous pour établir un devis adapté à vos besoins.\n"
     Call To Action: Contact Founders FR
   - Text: "### CTOs, Rejoignez-nous !\n\nDevenez un “Bro” pour lancer la prochaine
       vague de makers !\n\nRappelez-vous vos débuts, quel bonheur si vous aviez eu
