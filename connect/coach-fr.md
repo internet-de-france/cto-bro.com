@@ -11,7 +11,7 @@ Header: Header FR
 Footer: Footer FR
 ---
 
-# Coacher les leaders de demain
+# Coachez les leaders de demain
 
 Merci pour votre intérêt et bienvenue dans notre communauté d'experts. 
 
