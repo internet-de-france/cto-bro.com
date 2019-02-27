@@ -168,7 +168,7 @@ The team:
   Text: |
     ## A propos de nous, les founders
 
-    Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
+    En tant que fondateurs de CTO Bro nous assurons le recrutement des coachs, et nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
   Body:
   - |-
     ![alex hoyau cto](uploads/alex.jpg)
