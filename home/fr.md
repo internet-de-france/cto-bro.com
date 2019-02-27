@@ -60,7 +60,7 @@ Value Proposition:
     Dans tous les cas nous vous assurons une relation riche et personnelle.
   Call To Action: Trial FR
 The solution:
-  Text: "## La Solution CTO Bro"
+  Text: "## La solution CTO Bro"
   Body:
   - |-
     ![iconfinder_182_3390092.png](uploads/iconfinder_182_3390092.png)
