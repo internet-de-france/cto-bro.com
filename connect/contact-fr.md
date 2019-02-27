@@ -15,11 +15,13 @@ Footer: Footer FR
 
 # Contacter CTO Bro
 
-Une question en rapport avec coaching des startups ou PME? Vous êtes un partenaire potentiel? Un client?
+Vous avez une question en rapport avec le coaching ? Vous êtes un partenaire potentiel ? Un client ?
 
-Contactez CTO Bro !
+Parlons-en !
 
-Remplissez le formulaire ci-dessous, nous pourrons chater sur la plateforme elle-même ou bien contactez nous
+Remplissez le formulaire ci-dessous, vous recevrez un accès temporaire à la plateforme de chat. 
+
+Vous pouvez aussi nous contactez par des biais plus traditionnels :
 
 * [Par mail](mailto:founders@cto-bro.com)
 * [Par WhatsApp](tel:+33676683806)
