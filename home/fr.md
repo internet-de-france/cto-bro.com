@@ -103,7 +103,7 @@ Pricing:
   Body:
   - Title: Founder
     Text: |-
-      <div class="price"><div class="value">2200</div>€/mois</div>
+      <div class="price"><div class="value">2299</div>€/mois</div>
 
       1 à 2h/semaine de coaching, accès à la communauté d’experts.
 
