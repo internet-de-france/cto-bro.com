@@ -115,7 +115,7 @@ Pricing:
     Text: |-
       <div class="price"><div class="value">299</div>€/h</div>
 
-      Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
+      Live chat 1:1 + accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
       * Ouverture de canaux de discussion privés à volonté
       * Monitoring de l’activité et rapports mensuels
