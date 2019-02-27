@@ -108,7 +108,7 @@ Pricing:
       1 à 2h/semaine de coaching, accès à la communauté d’experts.
 
       * Choisissez un coach en qui vous avez confiance
-      * Planifiez jusqu’à 5 heures par mois de live chat privé avec votre “bro”
+      * Planifiez jusqu’à 8 heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
   - Title: Investisseurs
