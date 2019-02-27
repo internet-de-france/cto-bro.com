@@ -26,12 +26,13 @@ The offer:
     Nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
 
     ![computer_with_tea.png](uploads/computer_with_tea.png)
-  - |
+  - |-
     ## Réseau privé d’experts
 
     Nos meilleurs mentors vous répondent **24 heures sur 24**. Posez une question et obtenez la **réponse en quelques minutes**, ou un jour ouvré au plus.
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors la discussion est ouverte et les opinions tranchées se confrontent au service de votre produit.
+    ![267448-512.png](uploads/267448-512.png)
   - |
     ## En équipe, vos leads et nous
 
