@@ -118,8 +118,8 @@ Pricing:
       Live chat 1:1 + accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
       * Ouverture de canaux de discussion privés à volonté
-      * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
+      * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
   - Title: "(Feature) Teams"
     Text: |-
@@ -128,8 +128,8 @@ Pricing:
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
       * Mise en place d’une room dédiée pour vos “lead” animée par un expert
-      * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
+      * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
 How it works:
   Text: "## CTO Bro dans la pratique"
