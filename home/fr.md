@@ -95,7 +95,7 @@ Pricing:
   Body:
   - Title: Founder
     Text: |
-      __ **2200** €/mois__
+      __2200__ €/mois
 
       1h/semaine de coaching, accès à la communauté d’experts.
 
