@@ -86,8 +86,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
     </ul>
     </div>
-    <div class="list runtime">
-      {{ (site.header | where: 'title', page['Header'] | first)['Hamburger Text'] }}
+    <div class="list runtime">aaa
+      {{ (site.header | where: 'title', page['Header'] | first)['Hamburger Text'] | markdownify }}
     </div>
   </div>
 </nav>
