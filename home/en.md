@@ -20,22 +20,29 @@ The offer:
   Body:
   - |-
     ## Mentorat en direct
-    CTO Bro c’est du chat en direct avec des lead devs et des CTO expérimentés. Choisissez votre coach et faites le point deux fois par semaine.
 
-    CTO, nous vous soutenons pour le recrutement, le management, l’industrialisation de code et bien plus. Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
-  - |
+    CTO Bro c’est du **chat en direct** avec des **lead devs** et **CTOs expérimentés**. Choisissez votre coach et faites le point deux fois par semaine.
+
+    Nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
+
+    ![computer_with_tea.png](uploads/computer_with_tea.png)
+  - |-
     ## Réseau privé d’experts
-    Nos meilleurs mentors vous répondent 24 heures sur 24. Posez une question et obtenez la réponse en quelques minutes, au maximum à un jour ouvré maximum.
+
+    Nos meilleurs mentors vous répondent **24 heures sur 24**. Posez une question et obtenez la **réponse en quelques minutes**, ou un jour ouvré au plus.
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors la discussion est ouverte et les opinions tranchées se confrontent au service de votre produit.
-  - |
+
+    ![CTO Bro team](uploads/team2.png)
+  - |-
     ## En équipe, vos leads et nous
-    Pour les équipes déjà structurées, nous offrons une chat room dédiée qui permet à vos “lead dev” et architectes de discuter librement avec notre réseau d’experts.
+
+    Pour les équipes déjà structurées, nous offrons une **chat room dédiée** qui permet à vos “lead dev” et architectes de discuter librement avec notre **réseau d’experts**.
 
     Dans la confidentialité de votre chat room, tous les points de vue se confrontent ouvertement, et nos experts sont là pour apporter leur expérience et alimenter les débats d’éléments concrets qui assureront à vos équipes une évolution rapide.
   Call To Action: Trial FR
 Value Proposition:
-  Text: "## Pourquoi les startups choisissent CTO Bro?"
+  Text: "## Pourquoi choisir le mentoring CTO Bro?"
   Body:
   - "### CTO Bro, des années d’avance\nLe monde du numérique évolue vite - la technologie,
     les pratiques, les entreprises et surtout nous, les gens. Dans ce domaine la réussite
@@ -51,73 +58,78 @@ Value Proposition:
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. Peu importe la méthode, nous voulons votre réussite.
 
     Dans tous les cas nous vous assurons une relation riche et personnelle.
+  Call To Action: Trial FR
 The solution:
-  Text: "## La Solution CTO Bro"
+  Text: "## La solution CTO Bro"
   Body:
   - |-
+    ![iconfinder_182_3390092.png](uploads/iconfinder_182_3390092.png)
+
     ### Profitez de l’expérience de vos pairs
 
     Nos années d’expérience comme lead dev ou CTO nous permettent de vous faire profiter d’un point de vue extérieur intéressant, de contacts et d’idées qui font sens.
-  - "### Mentoring sur mesure\nNous choisissons avec vous l’expertise ultime dans
-    votre domaine, pour des informations et des contacts utiles concrètement et immédiatement.
-    \n"
+  - "![Mentoring by CTO Bro](uploads/1422524-512.png)\n\n### Mentoring sur mesure\n\nNous
+    choisissons avec vous l’expertise ultime dans votre domaine, pour des informations
+    et des contacts utiles concrètement et immédiatement. \n"
   - |
+    ![Success by CTO Bro](uploads/4099564-512.png)
+
     ### Votre succès, rien que ça
+
     Toutes vos questions trouveront une réponse, rapidement et sans limite du nombre de question ou de complexité. Les “bro” sont là pour être challengés !
   - |-
+    ![1 to 1 chat by CTO Bro](uploads/3650555-512.png)
+
     ### Personnalisez votre expérience
+
     Vous avez le choix du mode de coaching - code reviews, brainstorming, pear programming, daily meeting, group chat entre plusieurs experts et vos collaborateurs.
-  Call To Action: Trial FR
 Testimonials:
-  Text: "## Ce qu’ils disent de nous"
   Body:
-  - "> Ce que j’ai le plus apprécié, c’est de pouvoir poser des questions très spécifiques
-    sur mes situations réelles et d’obtenir des solutions concrètes ainsi que des
-    recommandations sur les outils et ressources les plus adaptés. \n\nJean-Baptiste
-    Richardet, CTO @ cameo"
-  - |2-
+  - "![jb.jpg](uploads/jb.jpg)\n\n> Ce que j’ai le plus apprécié, c’est de pouvoir
+    poser des questions très spécifiques sur mes situations réelles et d’obtenir des
+    solutions concrètes ainsi que des recommandations sur les outils et ressources
+    les plus adaptés. \n\nJean-Baptiste Richardet, CTO @ cameo"
+  - |-
+    ![christophe.jpg](uploads/christophe.jpg)
 
     > Les grands mentors vont au-delà des questions, ils inspirent. CTO Bro est une solution qui apporte autant aux mentors qu’aux mentorés dans la mise en relation et le développement des compétences.
 
-    Xavier Hausherr, CTO @ Cozynergy
-  Call To Action: Trial FR
+    Christophe Hébert, CEO @ Bluecoders
 Pricing:
   Text: |
-    ## Pricing
+    ## Tarifs
 
-    N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations.
+    N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations. Les prix ci-dessous sont HT (TVA non incluse).
   Body:
-  - Title: Startup
-    Text: |
-      **2200€/mois HT**
+  - Title: Founder
+    Text: |-
+      <div class="price"><div class="value">2299</div>€/mois</div>
 
-      1h/semaine de coaching, accès à la communauté d’experts.
+      1h/semaine de coaching + accès à la communauté d’experts.
 
       * Choisissez un coach en qui vous avez confiance
-      * Planifiez jusqu’à 5 heures par mois de live chat privé avec votre “bro”
+      * Planifiez jusqu’à 6 heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
   - Title: Investisseurs
-    Text: |
-      Côut: 160€/h HT
+    Text: |-
+      <div class="price"><div class="value">299</div>€/h</div>
 
-      Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
+      Live chat 1:1 + accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
-      * Ouverture de canaux de discussion à volonté
-      * Monitoring de l’activité et rapports mensuels
+      * Ouverture de canaux de discussion privés à volonté
       * Accès au réseau privé des experts de CTO Bro
+      * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
   - Title: "(Feature) Teams"
-    Text: |
-      Côut: 160€/h HT
+    Text: |-
+      <div class="price"><div class="value">299</div>€/h</div>
 
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
-      * Mise en place d’une room dédiée pour vos “lead”
-      * Monitoring de l’activité et rapports mensuels
+      * Mise en place d’une room dédiée pour vos “lead” animée par un expert
       * Accès au réseau privé des experts de CTO Bro
-
-      CTA: contact founders
+      * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
 How it works:
   Text: "## CTO Bro dans la pratique"
@@ -127,32 +139,39 @@ How it works:
     profiter d’années d’expérience.\n\nLe fait de passer par l’écrit est une pratique
     courante chez les devs et CTO d’aujourd’hui, dans les communautés open source,
     au sein des entreprises “remote” et en général dans les services techniques des
-    entreprises modernes. Cela présente de nombreux avantages:\n\n* Des discussions
-    plus structurées avec plus de réflexion entre les échanges, avec possibilité de
-    transmettre des liens ou de commenter un document ou une phrase en particulier
-    \n* Une traçabilité des échanges, recherche d’infos dans l’historique, monitoring
+    entreprises modernes. Cela présente de nombreux avantages:\n\n* ![Structured mentoring](uploads/2640826-512-e24cb2.png)\n\n
+    \ Des discussions plus structurées avec plus de réflexion entre les échanges,
+    avec possibilité de transmettre des liens ou de commenter un document ou une phrase
+    en particulier \n* ![Reporting for coaching sessions](uploads/2438288-512.png)\n
+    \ \n  Une traçabilité des échanges, recherche d’infos dans l’historique, monitoring
     possible de l’activité pour détecter un éventuel dysfonctionnement et suivi de
-    la facturation\n* Une communication plus asynchrone, même si c’est un live chat,
-    on peut répondre à une question IRL ou sur un autre canal sans devoir mettre la
-    réunion en attente\n* Des discussions plus sereines sans le “bruit” lié à l’environnement
-    - bruit dans l’open space mais aussi mauvaises connexions, ordinateur qui rame…\n"
-  - "### Comment ça marche ?\nNous fixons des objectifs ensemble et, selon les besoins,
-    voici ce que nous faisons concrètement :\n\n* Des codes reviews sur des “pull
-    requests”\n* Des réunions d’architecture et de choix techniques\n* Des points
-    réguliers sur la stratégie de recrutement\n* Du conseil en innovation, prototypage,
-    MVP, road map\n\nEt ceci dans des domaines aussi variés que\n\n* Front-end, back-end,
-    dev-ops, bases de données \n* Développement de web apps, plateformes B2B et B2C,
-    APIs\n* UI/UX, product management, organisation agile, leadership, présenter devant
+    la facturation\n* ![Asynchrone mentoring](uploads/2951044-512.png)\n  \n  Une
+    communication plus asynchrone, même si c’est un live chat, on peut répondre à
+    une question IRL ou sur un autre canal sans devoir mettre la réunion en attente\n*
+    ![CTO mentoring coaching](uploads/2068825-512.png)\n\n  Des discussions plus sereines
+    sans le “bruit” lié à l’environnement - bruit dans l’open space mais aussi mauvaises
+    connexions, ordinateur qui rame…\n"
+  - |-
+    ### Comment ça marche ?
+    Nous fixons des objectifs ensemble et, selon les besoins, voici ce que nous faisons concrètement :
+
+    * Des codes reviews sur des “pull requests”
+    * Des réunions d’architecture et de choix techniques
+    * Des points réguliers sur la stratégie de recrutement
+    * Du conseil en innovation, prototypage, MVP, road map
+  - "### Et ceci dans des domaines aussi variés que\n\n* Front-end, back-end, dev-ops,
+    bases de données \n* Développement de web apps, plateformes B2B et B2C, APIs\n*
+    UI/UX, product management, organisation agile\n* leadership, présenter devant
     une audience\n"
   Call To Action: Trial FR
 The team:
   Text: |
-    ## Meet the team
+    ## A propos de nous, les founders
 
     Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
   Body:
   - |-
-    ![alex hoyau cto](/uploads/alex.jpg)
+    ![alex hoyau cto](uploads/alex.jpg)
     ## Alex Hoyau
     8 ans d’XP comme CTO
 
@@ -166,7 +185,7 @@ The team:
 
     Liens : LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
   - |
-    ![Xavier Hausherr CTO](/uploads/xavier.jpg)
+    ![Xavier Hausherr CTO](uploads/xavier.jpg)
     ## Xavier Hausherr
     3 x CTO
 
@@ -177,17 +196,18 @@ The team:
     Compétences clés: revue de code, architecture, dev ops et CI, recrutement, RH, management.
 
     Liens : LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase
-  Call To Action: Apply coach FR
+  Call To Action: Contact Founders FR
 Audience:
   Text: "## Clients et partenaires\n"
   Body:
-  - Text: "### Startups\nNotre expérience et notre “formule” CTO Bro nous permettent
-      de répondre aux attentes de nos clients dans les meilleures conditions de manière
-      très personnelle. \n\nIl est délicat de se lancer dans le dev d’un nouveau produit,
-      de mettre en place une road map, de définir un MVP, d’innover, de recruter,
-      d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques
-      issues de nos échecs et de nos moments les plus glorieux.\n\nContactez nous
-      pour vous lancer dans l’aventure ou testez gratuitement CTO Bro.\n"
+  - Text: |
+      ### Startups
+
+      Notre expérience et notre offre "founder" nous permettent de répondre de manière très personnelle aux CTO créateurs de startups.
+
+      Il est délicat de se lancer dans le dev d’un nouveau produit, de mettre en place une road map, de définir un MVP, d’innover, de recruter, d’industrialiser et faire évoluer un code base. Pour cela nous avons des techniques issues de nos échecs et de nos moments les plus glorieux.
+
+      Contactez nous pour vous lancer dans l’aventure ou testez gratuitement CTO Bro.
     Call To Action: 
   - Text: "### Equipes de dev, département innovation\n\nEn tant que CTOs et lead
       expérimentés nous sommes à même de vous aider à penser “out of the box”, à fluidifier
@@ -210,7 +230,7 @@ Audience:
       accompagnement sur le long terme, de type coaching, des équipes techniques de
       vos startups en portefeuille - nous sommes les garants du bon déroulement de
       la road map établie, et des lanceurs d'alerte en cas de problème technique non
-      adressé\n \nContactez les founders pour établir un devis adapté à vos besoins.\n"
+      adressé\n \nContactez nous pour établir un devis adapté à vos besoins.\n"
     Call To Action: Contact Founders FR
   - Text: "### CTOs, Rejoignez-nous !\n\nDevenez un “Bro” pour lancer la prochaine
       vague de makers !\n\nRappelez-vous vos débuts, quel bonheur si vous aviez eu
