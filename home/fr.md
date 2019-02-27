@@ -105,7 +105,7 @@ Pricing:
     Text: |-
       <div class="price"><div class="value">2200</div>€/mois</div>
 
-      1h/semaine de coaching, accès à la communauté d’experts.
+      1 à 2h/semaine de coaching, accès à la communauté d’experts.
 
       * Choisissez un coach en qui vous avez confiance
       * Planifiez jusqu’à 5 heures par mois de live chat privé avec votre “bro”
