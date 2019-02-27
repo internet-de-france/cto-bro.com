@@ -11,6 +11,8 @@ Header: Header FR
 Footer: Footer FR
 ---
 
+## Coacher les futurs tech leaders
+
 Merci pour votre intérêt et bienvenue dans notre communauté d'experts. 
 
 Immédiatement après avoir rempli ce questionnaire, vous aurez accès à notre plateforme slack. Nous pourrons communiquer pour vous connaître et pour que vous puissiez rejoindre rapidement CTO Bro.
