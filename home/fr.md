@@ -95,24 +95,22 @@ Pricing:
   Body:
   - Title: Founder
     Text: |
-      __2200__ €/mois
-
       1h/semaine de coaching, accès à la communauté d’experts.
 
       * Choisissez un coach en qui vous avez confiance
       * Planifiez jusqu’à 5 heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
+    Price Text: __2200__€/mois
   - Title: Investisseurs
     Text: |
-      __**160**€/h__
-
       Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
       * Ouverture de canaux de discussion à volonté
       * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Contact Founders FR
+    Price Text: __160__€/h
   - Title: "(Feature) Teams"
     Text: |
       __**160**€/h__
