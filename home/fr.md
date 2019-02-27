@@ -32,14 +32,14 @@ The offer:
     Nos meilleurs mentors vous répondent **24 heures sur 24**. Posez une question et obtenez la **réponse en quelques minutes**, ou un jour ouvré au plus.
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors la discussion est ouverte et les opinions tranchées se confrontent au service de votre produit.
-    ![experts.png](/uploads/experts.png)
+    ![experts.png](uploads/experts.png)
   - |-
     ## En équipe, vos leads et nous
 
     Pour les équipes déjà structurées, nous offrons une **chat room dédiée** qui permet à vos “lead dev” et architectes de discuter librement avec notre **réseau d’experts**.
 
     Dans la confidentialité de votre chat room, tous les points de vue se confrontent ouvertement, et nos experts sont là pour apporter leur expérience et alimenter les débats d’éléments concrets qui assureront à vos équipes une évolution rapide.
-    ![team.png](/uploads/team.png)
+    ![team.png](uploads/team.png)
   Call To Action: Trial FR
 Value Proposition:
   Text: "## Pourquoi les startups choisissent CTO Bro?"
