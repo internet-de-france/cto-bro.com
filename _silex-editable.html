@@ -87,7 +87,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     </ul>
     </div>
     <div class="list runtime">
-      {{ (site.header | where: 'title', page['Header'] | first)['Hamburger Text'] | markdownify }}
+aaa      {{ (site.header | where: 'title', page['Header'] | first | jsonify) }}
+bbb      {{ (site.header | where: 'title', page['Header'] | first)['Hamburger Text'] | jsonify }}
+ccc      {{ (site.header | where: 'title', page['Header'] | first)['Hamburger Text'] }}
+ddd      {{ (site.header | where: 'title', page['Header'] | first)['Hamburger Text'] | markdownify }}
     </div>
   </div>
 </nav>
