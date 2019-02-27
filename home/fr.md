@@ -85,15 +85,16 @@ The solution:
     Vous avez le choix du mode de coaching - code reviews, brainstorming, pear programming, daily meeting, group chat entre plusieurs experts et vos collaborateurs.
 Testimonials:
   Body:
-  - "> Ce que j’ai le plus apprécié, c’est de pouvoir poser des questions très spécifiques
-    sur mes situations réelles et d’obtenir des solutions concrètes ainsi que des
-    recommandations sur les outils et ressources les plus adaptés. \n\nJean-Baptiste
-    Richardet, CTO @ cameo"
-  - |2-
+  - "![jb.jpg](uploads/jb.jpg)\n\n> Ce que j’ai le plus apprécié, c’est de pouvoir
+    poser des questions très spécifiques sur mes situations réelles et d’obtenir des
+    solutions concrètes ainsi que des recommandations sur les outils et ressources
+    les plus adaptés. \n\nJean-Baptiste Richardet, CTO @ cameo"
+  - |-
+    ![christophe.jpg](uploads/christophe.jpg)
 
     > Les grands mentors vont au-delà des questions, ils inspirent. CTO Bro est une solution qui apporte autant aux mentors qu’aux mentorés dans la mise en relation et le développement des compétences.
 
-    Xavier Hausherr, CTO @ Cozynergy
+    Christophe Hébert, CEO @ Bluecoders
 Pricing:
   Text: |
     ## Tarifs
