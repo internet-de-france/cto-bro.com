@@ -21,13 +21,13 @@ body {scroll-behavior: smooth;}.silex-runtime .fixed {position: fixed; z-index: 
 .silex-runtime .columns.price-table .silex-element-content>ul>li h3 {color: #041E42;}.silex-runtime .columns.price-table .price {font-weight: bold; color: #041E42;}.silex-runtime .columns.price-table ul {color: #1D428A;}.silex-runtime .columns.price-table .price .value {display: inline; font-weight: 600; font-size: 30px; text-align: center;}@media only screen and (max-width: 480px), only screen and (max-device-width: 480px) {.silex-runtime .columns.price-table .silex-element-content>ul>li {width: auto;}.silex-runtime .columns .silex-element-content>ul>li {margin-right: 0;}}</style>
     <script type="text/javascript" class="silex-script">$(function() {
     console.log('AAA')
-    $('*').scroll(function() {
+    $('html').scroll(function() {
         console.log('bbb')
         var scroll = $('body').scrollTop();
         console.log('scoll', scroll)
     })
     
-$( "*" ).scroll(function() {
+$( "html" ).scroll(function() {
         console.log('ccc')
 });
 
