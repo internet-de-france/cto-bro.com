@@ -94,7 +94,7 @@ Pricing:
     N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations. Les prix ci-dessous sont HT (TVA non incluse).
   Body:
   - Title: Founder
-    Text: |
+    Text: |-
       <div class="price"><div class="value">2200</div>€/mois</div>
 
       1h/semaine de coaching, accès à la communauté d’experts.
@@ -104,7 +104,7 @@ Pricing:
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
   - Title: Investisseurs
-    Text: |
+    Text: |-
       <div class="price"><div class="value">160</div>€/h</div>
 
       Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
@@ -114,7 +114,7 @@ Pricing:
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Contact Founders FR
   - Title: "(Feature) Teams"
-    Text: |
+    Text: |-
       <div class="price"><div class="value">160</div>€/h</div>
 
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
@@ -122,8 +122,6 @@ Pricing:
       * Mise en place d’une room dédiée pour vos “lead”
       * Monitoring de l’activité et rapports mensuels
       * Accès au réseau privé des experts de CTO Bro
-
-      CTA: contact founders
     Call To Action: Contact Founders FR
 How it works:
   Text: "## CTO Bro dans la pratique"
