@@ -73,7 +73,6 @@ height="0" width="0" style="display:none;visibility:hidden"&amp;amp;amp;amp;amp;
     Too bad the menu has to be inside of the button
     but hey, it's pure CSS magic.
     -->
-{{ site['header'] | where: 'title', page['Header'] }}
     <ul id="menu" class="preview">
       <a href="#"><li>Home</li></a>
       <a href="#"><li>About</li></a>
@@ -81,6 +80,7 @@ height="0" width="0" style="display:none;visibility:hidden"&amp;amp;amp;amp;amp;
       <a href="#"><li>Contact</li></a>
       <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
     </ul>
+    {{ site['header'] | where: 'title', page['Header'] }}
   </div>
 </nav>
 </div></div></div><div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1474394621033-3 section-element paged-element page-home" data-silex-id="silex-id-1474394621033-3" style="">
