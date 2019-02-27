@@ -68,7 +68,7 @@ height="0" width="0" style="display:none;visibility:hidden"&amp;amp;amp;amp;amp;
     </ul>
     </div>
     <div class="list runtime">
-      {{ site['header'] | where: 'title', page['Header'] }}
+      {{ (site['header'] | where: 'title', page['Header'] | first)[Hamburger Text] }}
     </div>
   </div>
 </nav>
