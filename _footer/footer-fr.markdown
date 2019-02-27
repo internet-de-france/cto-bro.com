@@ -6,7 +6,9 @@ Links Text: |
   ### Quelques liens
 
   [Site web](https://cto-bro.com/)
+
   [LinkedIn](https://www.linkedin.com/company/cto-bro/)
+
   [Tarifs](fr#tarifs)
 Credits Text: Powered by [Silex](https://www.silex.me), [Jekyll](https://jekyllrb.com/)
   and [Siteleaf](https://www.siteleaf.com/)
