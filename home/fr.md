@@ -63,12 +63,14 @@ The solution:
   Text: "## La Solution CTO Bro"
   Body:
   - |-
+    ![iconfinder_182_3390092.png](uploads/iconfinder_182_3390092.png)
+
     ### Profitez de l’expérience de vos pairs
 
     Nos années d’expérience comme lead dev ou CTO nous permettent de vous faire profiter d’un point de vue extérieur intéressant, de contacts et d’idées qui font sens.
-  - "### Mentoring sur mesure\nNous choisissons avec vous l’expertise ultime dans
-    votre domaine, pour des informations et des contacts utiles concrètement et immédiatement.
-    \n"
+  - "![Mentoring by CTO Bro](uploads/1422524-512.png)\n\n### Mentoring sur mesure\n\nNous
+    choisissons avec vous l’expertise ultime dans votre domaine, pour des informations
+    et des contacts utiles concrètement et immédiatement. \n"
   - |
     ### Votre succès, rien que ça
     Toutes vos questions trouveront une réponse, rapidement et sans limite du nombre de question ou de complexité. Les “bro” sont là pour être challengés !
