@@ -105,10 +105,10 @@ Pricing:
     Text: |-
       <div class="price"><div class="value">2299</div>€/mois</div>
 
-      1 à 2h/semaine de coaching, accès à la communauté d’experts.
+      1h/semaine de coaching, accès à la communauté d’experts.
 
       * Choisissez un coach en qui vous avez confiance
-      * Planifiez jusqu’à 8 heures par mois de live chat privé avec votre “bro”
+      * Planifiez jusqu’à 6 heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
   - Title: Investisseurs
