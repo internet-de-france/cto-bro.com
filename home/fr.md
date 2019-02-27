@@ -166,7 +166,7 @@ How it works:
   Call To Action: Trial FR
 The team:
   Text: |
-    ## Meet the team
+    ## A propos de nous, les founders
 
     Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
   Body:
