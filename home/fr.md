@@ -49,10 +49,13 @@ Value Proposition:
     est directement liée à la capacité d‘évoluer rapidement.\n\n1 seule solution pour
     réussir : trouver les bonnes sources d’information, sentir ce qui mérite du temps
     et de l’attention. C’est un instinct qui s’acquiert avec du travail et de l’expérience. "
-  - "### Les Bros, des Pros !\nNous recrutons pour vous des CTOs et lead devs référents
-    dans leurs domaines. Ce ne sont pas des consultants mais des mentors. \n\nNos
-    coachs évoluent dans le même cadre que le vôtre, ils sont à plein temps sur un
-    projet ambitieux qui repose sur eux, sur leurs compétences techniques et humaines."
+  - |-
+    ### Les Bros, des Pros !
+    Nous recrutons pour vous des CTOs et lead devs référents dans leurs domaines. Ce ne sont pas des consultants, ce sont des mentors.
+
+    Nos coachs évoluent dans le même cadre que le vôtre, ils sont à plein temps sur un projet ambitieux qui repose sur eux, sur leurs compétences techniques et humaines.
+
+    En plus d'un accord de confidentialité (NDA) vous pouvez leur faire une confiance aveugle, chaque coach ne suit qu'une seule startup.
   - |-
     ### Gagnez du temps, laissez vous guider
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. Peu importe la méthode, nous voulons votre réussite.
