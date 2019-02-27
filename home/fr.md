@@ -150,8 +150,8 @@ How it works:
     * Du conseil en innovation, prototypage, MVP, road map
   - "### Et ceci dans des domaines aussi variés que\n\n* Front-end, back-end, dev-ops,
     bases de données \n* Développement de web apps, plateformes B2B et B2C, APIs\n*
-    UI/UX, product management, organisation agile, leadership, présenter devant une
-    audience\n"
+    UI/UX, product management, organisation agile\n* leadership, présenter devant
+    une audience\n"
   Call To Action: Trial FR
 The team:
   Text: |
