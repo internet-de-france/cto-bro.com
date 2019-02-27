@@ -113,7 +113,7 @@ Pricing:
     Call To Action: Pay FR
   - Title: Investisseurs
     Text: |-
-      <div class="price"><div class="value">160</div>€/h</div>
+      <div class="price"><div class="value">330</div>€/h</div>
 
       Live chat et accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
