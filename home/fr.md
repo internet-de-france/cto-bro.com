@@ -123,7 +123,7 @@ Pricing:
     Call To Action: Contact Founders FR
   - Title: "(Feature) Teams"
     Text: |-
-      <div class="price"><div class="value">160</div>€/h</div>
+      <div class="price"><div class="value">330</div>€/h</div>
 
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
