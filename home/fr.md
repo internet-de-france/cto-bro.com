@@ -148,8 +148,9 @@ How it works:
     la facturation\n* ![Asynchrone mentoring](uploads/2951044-512.png)\n  \n  Une
     communication plus asynchrone, même si c’est un live chat, on peut répondre à
     une question IRL ou sur un autre canal sans devoir mettre la réunion en attente\n*
-    Des discussions plus sereines sans le “bruit” lié à l’environnement - bruit dans
-    l’open space mais aussi mauvaises connexions, ordinateur qui rame…\n"
+    ![CTO mentoring coaching](uploads/2068825-512.png)\n\n  Des discussions plus sereines
+    sans le “bruit” lié à l’environnement - bruit dans l’open space mais aussi mauvaises
+    connexions, ordinateur qui rame…\n"
   - |-
     ### Comment ça marche ?
     Nous fixons des objectifs ensemble et, selon les besoins, voici ce que nous faisons concrètement :
