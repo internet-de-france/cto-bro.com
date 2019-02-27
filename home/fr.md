@@ -140,14 +140,18 @@ How it works:
     on peut répondre à une question IRL ou sur un autre canal sans devoir mettre la
     réunion en attente\n* Des discussions plus sereines sans le “bruit” lié à l’environnement
     - bruit dans l’open space mais aussi mauvaises connexions, ordinateur qui rame…\n"
-  - "### Comment ça marche ?\nNous fixons des objectifs ensemble et, selon les besoins,
-    voici ce que nous faisons concrètement :\n\n* Des codes reviews sur des “pull
-    requests”\n* Des réunions d’architecture et de choix techniques\n* Des points
-    réguliers sur la stratégie de recrutement\n* Du conseil en innovation, prototypage,
-    MVP, road map\n\nEt ceci dans des domaines aussi variés que\n\n* Front-end, back-end,
-    dev-ops, bases de données \n* Développement de web apps, plateformes B2B et B2C,
-    APIs\n* UI/UX, product management, organisation agile, leadership, présenter devant
-    une audience\n"
+  - |-
+    ### Comment ça marche ?
+    Nous fixons des objectifs ensemble et, selon les besoins, voici ce que nous faisons concrètement :
+
+    * Des codes reviews sur des “pull requests”
+    * Des réunions d’architecture et de choix techniques
+    * Des points réguliers sur la stratégie de recrutement
+    * Du conseil en innovation, prototypage, MVP, road map
+  - "### Et ceci dans des domaines aussi variés que\n\n* Front-end, back-end, dev-ops,
+    bases de données \n* Développement de web apps, plateformes B2B et B2C, APIs\n*
+    UI/UX, product management, organisation agile, leadership, présenter devant une
+    audience\n"
   Call To Action: Trial FR
 The team:
   Text: |
