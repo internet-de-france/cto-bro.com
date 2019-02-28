@@ -76,8 +76,8 @@ The solution:
 Testimonials:
   Body:
   - "![Jb.jpg](uploads/jb.jpg) \n\n> What I value the most is to obtain concrete recommendations
-    on the most appropriate tools and resources when I ask very specific questions
-    about my actual use case. \n\nJean-Baptiste Richardet, CTO @ cameo"
+    and appropriate tools and resources when I ask very specific questions about my
+    actual use case. \n\nJean-Baptiste Richardet, CTO @ cameo"
   - "![Christophe.jpg](uploads/christophe.jpg) \n\n> Great mentors go beyond questions,
     they inspire. CTO Bro is a solution that provides both mentors and mentors with
     connections and skills development. \n\nChristophe Hébert, CEO @ Bluecoders"
