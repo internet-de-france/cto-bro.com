@@ -92,12 +92,10 @@ Pricing:
       to the private network of CTO Bro experts\n"
     Call To Action: Pay EN
   - Title: Investors
-    Text: |-
-      <div class="price">$<div class="value">299</div>USD/h</div>
-
-      Live chat 1: 1 + access to the community of experts in unlimited. Pay-per-use.
-
-      * Open private chat channels at will * Access to the private network of CTO Bro experts * Activity monitoring and monthly reports
+    Text: "<div class=\"price\">$<div class=\"value\">299</div>USD/h</div>\n\nPerfect
+      for VCs, \n\nLive chat 1: 1 + access to the community of experts in unlimited.
+      Pay-per-use.\n\n* Open private chat channels at will * Access to the private
+      network of CTO Bro experts * Activity monitoring and monthly reports"
     Call To Action: Contact Founders EN
   - Title: "(Feature) Teams"
     Text: |-
@@ -171,7 +169,7 @@ Audience:
       us to set a suitable quote or get started on the adventure and test CTO Bro
       for free. "
     Call To Action: 
-  - Text: "### Investors, VCs, incubators CTO Bro gives you access to an extremely
+  - Text: "### Investors, VCs, incubators\n\nCTO Bro gives you access to an extremely
       vast cumulative experience, in a wide variety of fields, when you need it!\nYou
       can use all or part of this expertise, at the right time and according to your
       needs:\n* Before an investment, to help your teams evaluate the technical options
