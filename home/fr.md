@@ -144,7 +144,7 @@ Pricing:
 How it works:
   Text: "## CTO Bro dans la pratique"
   Body:
-  - "### 100% live chat\n\nL’expérience de chat en “one to one” nous permet d’adresser
+  - "### 100% live chat\n\nL’expérience du chat en “one to one” nous permet d’adresser
     les problématiques de nos clients, d’apprendre à les connaître pour leur faire
     profiter d’années d’expérience.\n\nLe fait de passer par l’écrit est une pratique
     courante chez les devs et CTO d’aujourd’hui, dans les communautés open source,
