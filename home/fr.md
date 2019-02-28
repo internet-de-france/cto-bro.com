@@ -121,6 +121,8 @@ Pricing:
     Text: |-
       <div class="price"><div class="value">290</div>€/h</div>
 
+      Parfait pour les VC et les incubateurs. Notre expertise lorsque vos startups en ont besoin.
+
       Live chat 1:1 + accès à la communauté d’experts en illimité. Facturation à l’utilisation.
 
       * Ouverture de canaux de discussion privés
