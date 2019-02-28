@@ -5,7 +5,7 @@ Call To Action: Contact Founders FR
 Links Text: |
   ### Quelques liens
 
-  [Site web](https://cto-bro.com/)
+  [Site web](https://cto-bro.com/fr)
 
   [LinkedIn](https://www.linkedin.com/company/cto-bro/)
 

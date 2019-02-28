@@ -3,9 +3,9 @@ title: Footer EN
 date: 2019-02-21 00:00:00 +01:00
 Call To Action: Contact Founders EN
 Links Text: |
-  ### Quelques liens
+  ### Links
 
-  [Site web](https://cto-bro.com/)
+  [Website](https://cto-bro.com/en)
 
   [LinkedIn](https://www.linkedin.com/company/cto-bro/)
 
