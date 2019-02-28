@@ -68,7 +68,7 @@ The solution:
     ROI."
   - "![Success by CTO Bro](uploads/4099564-512.png) \n\n### Your success, nothing
     else\n\nAll your questions will find an answer, quickly and without limits in
-    the number of questions or their complexity. The \"Bro\" are here to be challenged!"
+    the number of questions or their complexity. The \"Bro\" loves to be challenged!"
   - "![1 to 1 chat by CTO Bro](uploads/3650555-512.png) \n\n### Personalize your experience
     \n\nYou have the choice of the mode of coaching - code reviews, brainstorming,
     pear programming, daily meeting, group chat between several experts and your collaborators."
