@@ -82,7 +82,7 @@ The solution:
 
     ### Votre succès, rien que ça
 
-    Toutes vos questions trouveront une réponse, rapidement et sans limite du nombre de question ou de complexité. Les “bro” sont là pour être challengés !
+    Toutes vos questions trouveront une réponse, rapidement et sans limite du nombre de question ou de complexité. Les “Bro” adorent être challengés !
   - |-
     ![1 to 1 chat by CTO Bro](uploads/3650555-512.png)
 
