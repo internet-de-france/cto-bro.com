@@ -85,7 +85,7 @@ Testimonials:
 Pricing:
   Text: "## Prices \n\nDo not hesitate to [contact us for more information](contact-en)."
   Body:
-  - Title: Founder
+  - Title: CTO Founder
     Text: "<div class=\"price\">$<div class=\"value\">2,690</div>USD/month</div>\n\n1h/week
       of coaching + access to the community of experts.\n\n* Choose a coach you trust\n*
       Plan up to 6 hours per month of live private chat with your \"bro\" \n* Access
