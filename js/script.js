@@ -1,7 +1,7 @@
 
 function testScroll() {
     var scroll = $('html').scrollTop();
-    if(scroll > 200) {
+    if(scroll > 100) {
         document.body.classList.add('scrolled');
         document.body.classList.remove('not-scrolled');
     }
@@ -9,6 +9,8 @@ function testScroll() {
         document.body.classList.remove('scrolled');
         document.body.classList.add('not-scrolled');
     }
+    // close the menu
+    $('#hamburger-check').attr('checked', false);
 }
 $(function() {
     window.addEventListener('scroll', testScroll);
