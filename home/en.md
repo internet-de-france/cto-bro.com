@@ -57,7 +57,7 @@ Value Proposition:
     In all cases this will be a rich and personal relationship.
   Call To Action: Trial EN
 The solution:
-  Text: "## Our solution"
+  Text: "## Solution"
   Body:
   - "![Iconfinder_182_3390092.png](uploads/iconfinder_182_3390092.png) \n\n### Take
     advantage of your peers' experience \n\nOur years of experience as lead dev or
