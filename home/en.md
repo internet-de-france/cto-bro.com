@@ -101,6 +101,9 @@ Pricing:
   - Title: Teams
     Text: |-
       <div class="price"><div class="value"> 299 </div> €/h </div>
+
+      Fits the needs of dev teams or in-house innovation department
+
       Open discussions as part of a chat room dedicated to your teams. Billing in use.
 
       * Set up a dedicated room for your "lead" led by an expert * Access to the private network of CTO Bro experts * Activity monitoring and monthly reports
