@@ -60,8 +60,8 @@ The solution:
   Text: "## Our solution"
   Body:
   - "![Peers are there for you](uploads/iconfinder_182_3390092.png) \n\n### Take advantage
-    of your peers' experience \n\nOur years of experience as lead dev or CTO allow
-    us to make you enjoy an interesting outside point of view, contacts and ideas
+    of your peers' experience \n\nOur years of experience as lead developers and CTOs
+    allow us to make you enjoy interesting point of views, relevant contacts and ideas
     that make sense."
   - "![Mentoring by CTO Bro](uploads/1422524-512.png) \n\n### Custom Mentoring \n\nWe
     choose with you the ultimate expertise in your field, for useful information and
