@@ -35,7 +35,7 @@ The offer:
     evolution."
   Call To Action: Trial EN
 Value Proposition:
-  Text: "## Why choose CTO Bro mentoring?"
+  Text: "## Why choose CTO Bro mentoring?\n"
   Body:
   - |-
     ### CTO Bro, years in advance The digital world is changing fast - technology, practices, businesses and especially us, people. In this area, success is directly linked to the ability to evolve rapidly.
