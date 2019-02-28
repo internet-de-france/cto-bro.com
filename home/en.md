@@ -94,7 +94,7 @@ Pricing:
   - Title: Investors
     Text: "<div class=\"price\">$<div class=\"value\">299</div>USD/h</div>\n\nPerfect
       for VCs and incubators. Our expertise when and where your startups need it.
-      \n\nLive chat 1: 1 + access to the community of experts in unlimited. Pay-per-use.\n\n*
+      \n\n1:1 live chat + access to the community of experts in unlimited. Pay-per-use.\n\n*
       Open private chat channels at will \n* Access to the private network of CTO
       Bro experts \n* Activity monitoring and monthly reports\n"
     Call To Action: Contact Founders EN
