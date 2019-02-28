@@ -83,7 +83,7 @@ Testimonials:
     networking, ideas and it help them both with skills development.\n\nChristophe
     Hébert, CEO @ Bluecoders"
 Pricing:
-  Text: "## Prices \n\nDo not hesitate to [contact us](contact-en) for more information.
+  Text: "## Prices \n\nDo not hesitate to [contact us for more information](contact-en).
     The prices below are exclusive of VAT (VAT not included). "
   Body:
   - Title: Founder
