@@ -18,13 +18,13 @@ Hero:
 The offer:
   Body:
   - |-
-    ## Mentorat en direct
+    ## Live Mentoring
 
-    CTO Bro c’est du **chat en direct** avec des **lead devs** et **CTOs expérimentés**. Choisissez votre coach et faites le point deux fois par semaine.
+    CTO Bro is **live chat** with **lead devs** and **experienced CTOs**. Choose your coach and take stock twice a week.
 
-    En toute confidentialité, nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
+    In all confidentiality, we support the leaders of tomorrow for their recruitment strategy, management, code industrialization [and more](#how-it-works-). Set your goals together and get live mentoring in your private chat room.
 
-    ![computer_with_tea.png](uploads/computer_with_tea.png)
+    ![Computer_with_tea.png](uploads/computer_with_tea.png)
   - |-
     ## Réseau privé d’experts
 
