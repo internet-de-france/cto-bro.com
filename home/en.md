@@ -37,12 +37,12 @@ The offer:
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
   Body:
-  - |-
-    ### CTO Bro makes time
-
-    The digital world is changing fast - technology, practices, businesses and especially us, people. In this area, success is directly linked to the ability to evolve rapidly.
-
-    The only way to succeed is to find the right sources of information, to feel what matters and deserves your time and attention. It is an instinct that is acquired with work and experience.
+  - "### CTO Bro makes time\n\nThe digital world is changing fast - technology, practices,
+    businesses and especially us, people. In this area, success is directly linked
+    to the ability to evolve rapidly.\n\nThe only way to succeed is to find the right
+    sources of information, to feel what matters and deserves your time and attention.
+    It is an instinct that is acquired with work and experience. \n\nWe offer you
+    no more than this: you bring the what and we challenge the how."
   - |-
     ### The Bros, Pros! We recruit for you CTOs and lead devs referent in their fields. They are not consultants, they are mentors.
     Our coaches evolve in the same frame as yours, they are full time on an ambitious project which is based on them, on their technical and human skills.
