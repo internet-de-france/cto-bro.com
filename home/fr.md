@@ -51,7 +51,7 @@ Value Proposition:
     pour réussir : trouver les bonnes sources d’information, sentir ce qui mérite
     du temps et de l’attention. C’est un instinct qui s’acquiert avec du travail et
     de l’expérience. \n\nNous ne vous offrons rien de plus que cela: vous apportez
-    le quoi et nous défions le comment."
+    le quoi et nous challengons le comment."
   - |-
     ### Les Bros, des Pros !
     Nous recrutons pour vous des CTOs et lead devs référents dans leurs domaines. Ce ne sont pas des consultants, ce sont des mentors.
