@@ -102,7 +102,7 @@ Pricing:
   Text: |
     ## Tarifs
 
-    N’hésitez pas à [nous contacter](mailto:sales@cto-bro.com) pour plus d’informations. Les prix ci-dessous sont HT (TVA non incluse).
+    N’hésitez pas à [nous contacter](contact-fr) pour plus d’informations. Les prix ci-dessous sont HT (TVA non incluse).
   Body:
   - Title: Founder
     Text: |-
@@ -124,9 +124,9 @@ Pricing:
       * Accès au réseau d'experts de CTO Bro
       * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
-  - Title: "(Feature) Teams"
+  - Title: Teams
     Text: |-
-      <div class="price"><div class="value">299</div>€/h</div>
+      <div class="price"><div class="value">290</div>€/h</div>
 
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
