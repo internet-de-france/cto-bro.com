@@ -43,10 +43,11 @@ Value Proposition:
     sources of information, to feel what matters and deserves your time and attention.
     It is an instinct that is acquired with work and experience. \n\nWe offer you
     no more than this: you bring the what and we challenge the how."
-  - |-
-    ### The Bros, Pros! We recruit for you CTOs and lead devs referent in their fields. They are not consultants, they are mentors.
-    Our coaches evolve in the same frame as yours, they are full time on an ambitious project which is based on them, on their technical and human skills.
-    In addition to a confidentiality agreement (NDA) you can trust them blindly, each coach follows only one startup.
+  - "### The Bros, the pros! \n\nWe recruit for you CTOs and lead devs referent in
+    their fields. They are not consultants, they are mentors.\nOur coaches evolve
+    in the same frame as yours, they are full time on an ambitious project which is
+    based on them, on their technical and human skills.\nIn addition to a confidentiality
+    agreement (NDA) you can trust them blindly, each coach follows only one startup."
   - |-
     ### Save time, let yourself be guided Mentors make you benefit from their expertise, in groups or individually, occasionally or daily. No matter the method, we want your success.
     In all cases we assure you a rich and personal relationship.
