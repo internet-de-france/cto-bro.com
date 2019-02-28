@@ -46,9 +46,9 @@ Value Proposition:
   - "### The Bros, the pros! \n\nWe recruit for you CTOs and lead devs who are recognized
     experts in their fields. They are not consultants, **they are mentors**.\n\nOur
     coaches evolve in the same environment as yours, they are full time on their ambitious
-    project which relies on them, on their technical and human skills.\nIn addition
-    to a confidentiality agreement (NDA) you can trust them blindly, each coach follows
-    only one startup."
+    project which relies on them, on their technical and human skills. Just like you
+    do.\n\nIn addition to a confidentiality agreement (NDA) you can trust them blindly,
+    each coach follows only one startup."
   - |-
     ### Save time, let yourself be guided Mentors make you benefit from their expertise, in groups or individually, occasionally or daily. No matter the method, we want your success.
     In all cases we assure you a rich and personal relationship.
