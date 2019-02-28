@@ -87,7 +87,7 @@ Pricing:
   Body:
   - Title: Founder
     Text: |-
-      <div class="price"><div class="value">2690</div>$/month</div>
+      <div class="price">$<div class="value">2690</div>/month</div>
       1h/week of coaching + access to the community of experts.
       * Choose a coach you trust * Plan up to 6 hours per month of live private chat with your "bro" * Access to the private network of CTO Bro experts
     Call To Action: Pay EN
