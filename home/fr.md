@@ -91,10 +91,10 @@ The solution:
     Vous avez le choix du mode de coaching: code reviews, brainstorming, pear programming, daily meeting, group chat entre plusieurs experts et vos collaborateurs. Ne prenez que ce dont vous avez besoin.
 Testimonials:
   Body:
-  - "![jb.jpg](uploads/jb.jpg)\n\n> Ce que j’ai le plus apprécié, c’est de pouvoir
-    poser des questions très spécifiques sur mes situations réelles et d’obtenir des
-    solutions concrètes ainsi que des recommandations sur les outils et ressources
-    les plus adaptés. \n\nJean-Baptiste Richardet, CTO @ cameo"
+  - "![jb.jpg](uploads/jb.jpg)\n\n> Ce que j’apprécie le plus, c’est de pouvoir poser
+    des questions très spécifiques sur mes situations réelles et d’obtenir des solutions
+    concrètes ainsi que des recommandations sur les outils et ressources les plus
+    adaptés. \n\nJean-Baptiste Richardet, CTO @ cameo"
   - |-
     ![christophe.jpg](uploads/christophe.jpg)
 
