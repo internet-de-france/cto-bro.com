@@ -80,7 +80,7 @@ Testimonials:
     actual use case. \n\nJean-Baptiste Richardet, CTO @ cameo"
   - "![Christophe.jpg](uploads/christophe.jpg) \n\n> Great mentors go beyond questions,
     they inspire. CTO Bro is a solution that provides both the mentor and the client
-    with networking, ideas and it help them with skills development.\n\nChristophe
+    with networking, ideas and it help them both with skills development.\n\nChristophe
     Hébert, CEO @ Bluecoders"
 Pricing:
   Text: "## Prices \n\nDo not hesitate to contact us (mailto: sales@cto-bro.com) for
