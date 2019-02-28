@@ -23,7 +23,7 @@ The offer:
 
     CTO Bro c’est du **chat en direct** avec des **lead devs** et **CTOs expérimentés**. Choisissez votre coach et faites le point deux fois par semaine.
 
-    Nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
+    En toute confidentialité, nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
 
     ![computer_with_tea.png](uploads/computer_with_tea.png)
   - |-
@@ -39,7 +39,7 @@ The offer:
 
     Pour les équipes déjà structurées, nous offrons une **chat room dédiée** qui permet à vos “lead dev” et architectes de discuter librement avec notre **réseau d’experts**.
 
-    Dans la confidentialité de votre chat room, tous les points de vue se confrontent ouvertement, et nos experts sont là pour apporter leur expérience et alimenter les débats d’éléments concrets qui assureront à vos équipes une évolution rapide.
+    Dans la confidentialité de votre chat room, tous les points de vue se discutent ouvertement, et nos experts sont là pour apporter leur expérience et alimenter les débats d’éléments concrets qui assureront à vos équipes une évolution rapide.
   Call To Action: Trial FR
 Value Proposition:
   Text: "## Pourquoi choisir le mentoring CTO Bro?"
@@ -49,10 +49,13 @@ Value Proposition:
     est directement liée à la capacité d‘évoluer rapidement.\n\n1 seule solution pour
     réussir : trouver les bonnes sources d’information, sentir ce qui mérite du temps
     et de l’attention. C’est un instinct qui s’acquiert avec du travail et de l’expérience. "
-  - "### Les Bros, des Pros !\nNous recrutons pour vous des CTOs et lead devs référents
-    dans leurs domaines. Ce ne sont pas des consultants mais des mentors. \n\nNos
-    coachs évoluent dans le même cadre que le vôtre, ils sont à plein temps sur un
-    projet ambitieux qui repose sur eux, sur leurs compétences techniques et humaines."
+  - |-
+    ### Les Bros, des Pros !
+    Nous recrutons pour vous des CTOs et lead devs référents dans leurs domaines. Ce ne sont pas des consultants, ce sont des mentors.
+
+    Nos coachs évoluent dans le même cadre que le vôtre, ils sont à plein temps sur un projet ambitieux qui repose sur eux, sur leurs compétences techniques et humaines.
+
+    En plus d'un accord de confidentialité (NDA) vous pouvez leur faire une confiance aveugle, chaque coach ne suit qu'une seule startup.
   - |-
     ### Gagnez du temps, laissez vous guider
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. Peu importe la méthode, nous voulons votre réussite.
@@ -168,7 +171,7 @@ The team:
   Text: |
     ## A propos de nous, les founders
 
-    Les fondateurs assurent le recrutement des coachs, nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
+    En tant que fondateurs de CTO Bro nous assurons le recrutement des coachs, et nous vous garantissons une expérience humaine qui sera décisive dans votre réussite.
   Body:
   - |-
     ![alex hoyau cto](uploads/alex.jpg)
