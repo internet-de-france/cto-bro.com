@@ -13,8 +13,7 @@ Footer: Footer EN
 Hero:
   Text: |+
     # Get your CTO a Bro!
-    ## 
-Secure your growth with our technical expertise.
+    ## Secure your growth with our technical expertise.
 
   Call To Action: Trial EN
 The offer:
