@@ -98,7 +98,7 @@ Pricing:
       Open private chat channels at will \n* Access to the private network of CTO
       Bro experts \n* Activity monitoring and monthly reports\n"
     Call To Action: Contact Founders EN
-  - Title: "(Feature) Teams"
+  - Title: Teams
     Text: |-
       <div class="price"><div class="value"> 299 </div> €/h </div>
       Open discussions as part of a chat room dedicated to your teams. Billing in use.
