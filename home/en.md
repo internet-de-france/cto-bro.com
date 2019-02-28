@@ -104,7 +104,7 @@ Pricing:
 
       Fits the needs of dev teams and in-house innovation departments.
 
-      Open discussions as part of a chat room dedicated to your teams. Billing in use.
+      Open discussions as part of a chat room dedicated to your teams. Pay-per-use.
 
       * Set up a dedicated room for your "lead" led by an expert * Access to the private network of CTO Bro experts * Activity monitoring and monthly reports
     Call To Action: Contact Founders EN
