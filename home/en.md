@@ -112,7 +112,7 @@ How it works:
     the issues of our customers, to get to know them to share their years of experience.\n\nThe
     use of writing is a common practice among today's devs and CTOs, in open source
     communities, in remote companies and in general in the technical departments of
-    modern companies. This has many advantages:\n*![Structured mentoring](uploads/2640826-512-e24cb2.png)\n\nMore
+    modern companies. This has many advantages:\n\n*![Structured mentoring](uploads/2640826-512-e24cb2.png)\n\nMore
     structured discussions with more reflection between exchanges, with the possibility
     of transmitting links or commenting on a particular document or sentence *![Reporting
     for coaching sessions](uploads/2438288-512.png)\nA traceability of the exchanges,
