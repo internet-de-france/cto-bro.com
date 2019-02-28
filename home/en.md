@@ -175,8 +175,7 @@ How it works:
     sentence 
     *![Reporting for coaching sessions](uploads/2438288-512.png) 
     
-    A
-    traceability of the exchanges, search of information in the history, possible
+    A traceability of the exchanges, search of information in the history, possible
     monitoring of the activity to detect a possible dysfunction and follow-up of the
     invoicing 
     *![Asynchronous mentoring](uploads/2951044-512.png) 
@@ -191,7 +190,7 @@ How it works:
     - noise in the open space but also bad connections, computer rowing ... 
     "
   - "### How it works ? 
-  We set objectives together and, depending on the needs,
+    We set objectives together and, depending on the needs,
     here's what we do concretely: 
     
     * Codes reviews on \"pull requests\" 
@@ -218,9 +217,9 @@ The team:
     
   Body:
   - "![alex hoyau cto](uploads/alex.jpg) 
-  ## Alex Hoyau 
-  8 years of XP as CTO <br
-    />
+    ## Alex Hoyau 
+    8 years of XP as CTO 
+
     In the last 17 years I have been a CTO for 6 years and a freelance/entrepreneur
     for 8 years. 
     
@@ -239,9 +238,9 @@ The team:
     Links: LinkedIn,
     Secret Media on Crunchbase, Altavia on Crunchbase"
   - "![Xavier Hausherr CTO](uploads/xavier.jpg) 
-  ## Xavier Hausherr 
-  3 x CTO <br
-    />
+    ## Xavier Hausherr 
+    3 x CTO 
+
     Since 2010 I lead the technical teams of companies for whom rapid growth is
     vital. In my last 3 experiences I have managed more than 50 developers, hired
     dozens of people. Together, we have evolved platforms delivering content to hundreds
