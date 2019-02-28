@@ -107,7 +107,7 @@ Pricing:
 
     N’hésitez pas à [nous contacter pour plus d’informations](contact-fr). Les prix ci-dessous sont HT (TVA non incluse).
   Body:
-  - Title: Founder
+  - Title: Founder & CTO
     Text: |-
       <div class="price"><div class="value">2290</div>€/mois</div>
 
