@@ -3,8 +3,11 @@ title: Header FR
 date: 2019-02-20 23:56:00 +01:00
 Hamburger Text: |-
   * [Home](fr#offrez-un-bro-à-votre-cto-)
+  * [Pourquoi CTO Bro](fr#pourquoi-choisir-le-mentoring-cto-bro)
   * [La solution](fr#la-solution-cto-bro)
   * [Tarifs](fr#tarifs)
+  * [L'équipe](fr#a-propos-de-nous-les-founders)
+  * [Nos clients et partenaires](fr#clients-et-partenaires)
   * [Contact](contact-fr)
   * [Connexion](https://cto-bro.slack.com/)
 ---
