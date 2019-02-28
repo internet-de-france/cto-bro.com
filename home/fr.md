@@ -133,6 +133,8 @@ Pricing:
     Text: |-
       <div class="price"><div class="value">290</div>€/h</div>
 
+      Convient aux équipes de dev et aux départements "innovation".
+
       Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
       * Mise en place d’un canal de discussion dédié à vos “lead” et animé par un expert
