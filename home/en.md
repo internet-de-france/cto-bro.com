@@ -5,17 +5,18 @@ permalink: "/en"
 Language: English
 SEO:
   Title: CTO, bro - Coaching startups
-  Description: Sécurisez votre croissance avec notre expertise technique. Offrez vous
-    un CTO expérimenté pour du coaching en recrutement, management, architecture et
-    bien plus.
-Header: Header FR
-Footer: Footer FR
+  Description: Secure your growth with our technical expertise. Bring in
+    an experienced CTO for helping with recruitment, management, architecture and
+    Much more.
+Header: Header EN
+Footer: Footer EN
 Hero:
   Text: |+
-    # Offrez un “bro” à votre CTO !
-    ## Sécurisez votre croissance avec notre expertise technique
+    # Get your CTO a Bro!
+    ## 
+Secure your growth with our technical expertise.
 
-  Call To Action: Trial FR
+  Call To Action: Trial EN
 The offer:
   Body:
   - |-
