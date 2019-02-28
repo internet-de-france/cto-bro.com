@@ -75,8 +75,8 @@ The solution:
 
     Nos années d’expérience comme lead dev ou CTO nous permettent de vous faire profiter d’un point de vue extérieur intéressant, de contacts et d’idées qui font sens.
   - "![Mentoring by CTO Bro](uploads/1422524-512.png)\n\n### Mentoring sur mesure\n\nNous
-    choisissons avec vous l’expertise ultime dans votre domaine, pour des informations
-    et des contacts utiles concrètement et immédiatement. \n"
+    choisissons avec vous la personne qui a l’expertise dont vous avez besoin, pour
+    un ROI immédiat. \n"
   - |
     ![Success by CTO Bro](uploads/4099564-512.png)
 
