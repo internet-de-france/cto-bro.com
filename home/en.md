@@ -71,7 +71,8 @@ The solution:
     the number of questions or their complexity. The \"Bro\" loves to be challenged!"
   - "![1 to 1 chat by CTO Bro](uploads/3650555-512.png) \n\n### Personalize your experience
     \n\nYou have the choice of the coaching style: code reviews, brainstorming, pear
-    programming, daily meeting, group chat between several experts and your collaborators."
+    programming, daily meeting, group chat between several experts and your collaborators.
+    Take only what you need."
 Testimonials:
   Body:
   - "![Jb.jpg](uploads/jb.jpg) \n\n> What I most appreciated is to be able to ask
