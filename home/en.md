@@ -87,9 +87,9 @@ Pricing:
   Body:
   - Title: CTO Founder
     Text: "<div class=\"price\">$<div class=\"value\">2,690</div>USD/month</div>\n\n1h/week
-      of coaching + access to the community of experts.\n\n* Choose a coach you trust\n*
-      Plan up to 6 hours per month of live private chat with your \"bro\" \n* Access
-      to the private network of CTO Bro experts\n"
+      of coaching + unlimited access to the community of experts.\n\n* Choose a coach
+      you trust\n* Plan up to 6 hours per month of live private chat with your \"bro\"
+      \n* Access to the private network of CTO Bro experts\n"
     Call To Action: Pay EN
   - Title: Investors
     Text: "<div class=\"price\">$<div class=\"value\">299</div>USD/h</div>\n\nPerfect
