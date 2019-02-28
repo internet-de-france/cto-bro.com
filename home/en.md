@@ -102,7 +102,7 @@ Pricing:
     Text: |-
       <div class="price"><div class="value"> 299 </div> €/h </div>
 
-      Fits the needs of dev teams or in-house innovation department
+      Fits the needs of dev teams or in-house innovation departments.
 
       Open discussions as part of a chat room dedicated to your teams. Billing in use.
 
