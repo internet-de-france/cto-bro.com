@@ -11,8 +11,9 @@ Header: Header EN
 Footer: Footer EN
 Hero:
   Text: |-
-    # Offer a "bro" to your CTO! <br />
-    ## Secure your growth with our technical expertise <br /><br />
+    # Get your CTO a bro !
+
+    ## Secure your growth with our technical expertise
   Call To Action: Trial EN
 The offer:
   Body:
