@@ -43,23 +43,30 @@ The offer:
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?"
   Body:
-  - "### CTO Bro, years in advance \nThe digital world is changing fast - technology,
+  - "### CTO Bro, years in advance 
+  The digital world is changing fast - technology,
     practices, businesses and especially us, people. In this area, success is directly
     linked to the ability to evolve rapidly. 
-    \nThe only way to succeed: to find
+    
+    The only way to succeed: to find
     the right sources of information, to feel what deserves time and attention. It
     is an instinct that is acquired with work and experience."
-  - "### The Bros, Pros! \nWe recruit for you CTOs and lead devs referent in their
+  - "### The Bros, Pros! 
+  We recruit for you CTOs and lead devs referent in their
     fields. They are not consultants, they are mentors. 
-    \nOur coaches evolve
+    
+    Our coaches evolve
     in the same frame as yours, they are full time on an ambitious project which is
     based on them, on their technical and human skills. 
-    \nIn addition to a confidentiality
+    
+    In addition to a confidentiality
     agreement (NDA) you can trust them blindly, each coach follows only one startup."
-  - "### Save time, let yourself be guided \nMentors make you benefit from their expertise,
+  - "### Save time, let yourself be guided 
+  Mentors make you benefit from their expertise,
     in groups or individually, occasionally or daily. No matter the method, we want
     your success. 
-    \nIn all cases we assure you a rich and personal relationship."
+    
+    In all cases we assure you a rich and personal relationship."
   Call To Action: Trial EN
 The solution:
   Text: "## The CTO Bro solution"
@@ -112,64 +119,95 @@ Pricing:
     
   Body:
   - Title: Founder
-    Text: "<div class=\"price\"><div class=\"value\"> 2299 </div> €/month </div><br
-      />\n1h/week of coaching + access to the community of experts. 
-      \n* Choose
-      a coach you trust \n* Plan up to 6 hours per month of live private chat with
-      your \"bro\" \n* Access to the private network of CTO Bro experts"
+    Text: "<div class=\"price\"><div class=\"value\"> 2299 </div> €/month </div>
+    
+    1h/week of coaching + access to the community of experts. 
+      
+      * Choose
+      a coach you trust 
+      * Plan up to 6 hours per month of live private chat with
+      your \"bro\" 
+      * Access to the private network of CTO Bro experts"
     Call To Action: Pay EN
   - Title: investors
     Text: "<div class=\"price\"><div class=\"value\"> 299 </div> €/h </div>
-    \nLive
+    
+    Live
       chat 1: 1 + access to the community of experts in unlimited. Billing in use.
       
-      \n* Open private chat channels at will \n* Access to the private network
-      of CTO Bro experts \n* Activity monitoring and monthly reports"
+      
+      * Open private chat channels at will 
+      * Access to the private network
+      of CTO Bro experts 
+      * Activity monitoring and monthly reports"
     Call To Action: Contact Founders EN
   - Title: "(Feature) Teams"
     Text: "<div class=\"price\"><div class=\"value\"> 299 </div> €/h </div>
-    \nOpen
+    
+    Open
       discussions as part of a chat room dedicated to your teams. Billing in use.
       
-      \n* Set up a dedicated room for your \"lead\" led by an expert \n* Access
-      to the private network of CTO Bro experts \n* Activity monitoring and monthly
+      
+      * Set up a dedicated room for your \"lead\" led by an expert 
+      * Access
+      to the private network of CTO Bro experts 
+      * Activity monitoring and monthly
       reports"
     Call To Action: Contact Founders EN
 How it works:
   Text: "## CTO Bro in practice"
   Body:
   - "### 100% live chat 
-  \nThe \"one to one\" chat experience allows us to address
+  
+  The \"one to one\" chat experience allows us to address
     the issues of our customers, to get to know them to share their years of experience.
     
-    \nThe use of writing is a common practice among today's devs and CTOs, in
+    
+    The use of writing is a common practice among today's devs and CTOs, in
     open source communities, in remote companies and in general in the technical departments
     of modern companies. This has many advantages: 
-    \n*![Structured mentoring](uploads/2640826-512-e24cb2.png)
     
-    \nMore structured discussions with more reflection between exchanges, with
+    *![Structured mentoring](uploads/2640826-512-e24cb2.png)
+    
+    
+    More structured discussions with more reflection between exchanges, with
     the possibility of transmitting links or commenting on a particular document or
-    sentence \n*![Reporting for coaching sessions](uploads/2438288-512.png) 
-    \nA
+    sentence 
+    *![Reporting for coaching sessions](uploads/2438288-512.png) 
+    
+    A
     traceability of the exchanges, search of information in the history, possible
     monitoring of the activity to detect a possible dysfunction and follow-up of the
-    invoicing \n*![Asynchronous mentoring](uploads/2951044-512.png) 
-    \nMore asynchronous
-    communication, even if it's a live chat, you can answer an IRL question or another
-    channel without having to put the meeting on hold \n*![CTO mentoring coaching](uploads/2068825-512.png)
+    invoicing 
+    *![Asynchronous mentoring](uploads/2951044-512.png) 
     
-    \nMore serene discussions without the \"noise\" related to the environment
+    More asynchronous
+    communication, even if it's a live chat, you can answer an IRL question or another
+    channel without having to put the meeting on hold 
+    *![CTO mentoring coaching](uploads/2068825-512.png)
+    
+    
+    More serene discussions without the \"noise\" related to the environment
     - noise in the open space but also bad connections, computer rowing ... 
     "
-  - "### How it works ? \nWe set objectives together and, depending on the needs,
+  - "### How it works ? 
+  We set objectives together and, depending on the needs,
     here's what we do concretely: 
-    \n* Codes reviews on \"pull requests\" \n*
-    Architectural meetings and technical choices \n* Regular points on the recruitment
-    strategy \n* Innovation consulting, prototyping, MVP, road map"
+    
+    * Codes reviews on \"pull requests\" 
+    *
+    Architectural meetings and technical choices 
+    * Regular points on the recruitment
+    strategy 
+    * Innovation consulting, prototyping, MVP, road map"
   - "### And this in areas as diverse as 
-  \n* Front-end, back-end, dev-ops, databases
-    \n* Development of web apps, B2B and B2C platforms, APIs \n* UI/UX, product management,
-    agile organization \n* leadership, presenting to an audience 
+  
+  * Front-end, back-end, dev-ops, databases
+    
+    * Development of web apps, B2B and B2C platforms, APIs 
+    * UI/UX, product management,
+    agile organization 
+    * leadership, presenting to an audience 
     "
   Call To Action: Trial EN
 The team:
@@ -179,33 +217,46 @@ The team:
     As founders of CTO Bro we ensure the recruitment of coaches, and we guarantee you a human experience that will be decisive in your success. 
     
   Body:
-  - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau \n8 years of XP as CTO <br
-    />\nIn the last 17 years I have been a CTO for 6 years and a freelance/entrepreneur
+  - "![alex hoyau cto](uploads/alex.jpg) 
+  ## Alex Hoyau 
+  8 years of XP as CTO <br
+    />
+    In the last 17 years I have been a CTO for 6 years and a freelance/entrepreneur
     for 8 years. 
-    \nI am an experienced manager and a senior full stack developer.
+    
+    I am an experienced manager and a senior full stack developer.
     I developed my leadership in startup environments as well as in open source communities.
     On a more personal level, I am a volunteer in the Silex Labs association that
     I founded in 2010 to bring diversity to tech companies. 
-    \nI have significant
+    
+    I have significant
     experience in consulting, architecture, planning and development of critical projects
     for companies and startups. 
-    \nKey Competencies: Code Review, Architecture,
+    
+    Key Competencies: Code Review, Architecture,
     CI and Industrial Workflows, Recruitment, Leadership 
-    \nLinks: LinkedIn,
+    
+    Links: LinkedIn,
     Secret Media on Crunchbase, Altavia on Crunchbase"
-  - "![Xavier Hausherr CTO](uploads/xavier.jpg) \n## Xavier Hausherr \n3 x CTO <br
-    />\nSince 2010 I lead the technical teams of companies for whom rapid growth is
+  - "![Xavier Hausherr CTO](uploads/xavier.jpg) 
+  ## Xavier Hausherr 
+  3 x CTO <br
+    />
+    Since 2010 I lead the technical teams of companies for whom rapid growth is
     vital. In my last 3 experiences I have managed more than 50 developers, hired
     dozens of people. Together, we have evolved platforms delivering content to hundreds
     of millions of users every month. 
-    \nDeveloper first and foremost, I learned
+    
+    Developer first and foremost, I learned
     everything by myself and I stay on top of technology. I like to do code reviews
     as much as job interviews, set up the IC as much as the recruitment strategy or
     plan a road map. And above all, I like to share and progress with my colleagues.
     
-    \nKey skills: code review, architecture, dev ops and CI, recruitment, HR,
+    
+    Key skills: code review, architecture, dev ops and CI, recruitment, HR,
     management. 
-    \nLinks: LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase
+    
+    Links: LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase
     
     "
   Call To Action: Contact Founders EN
@@ -233,18 +284,24 @@ Audience:
       Contact us to set a suitable quote or get started on the adventure and test CTO Bro for free. 
       
     Call To Action: 
-  - Text: "### Investors, VCs, incubators \nCTO Bro gives you access to an extremely
-      vast cumulative experience, in a wide variety of fields, when you need it! <br
-      />\nYou can use all or part of this expertise, at the right time and according
+  - Text: "### Investors, VCs, incubators 
+  CTO Bro gives you access to an extremely
+      vast cumulative experience, in a wide variety of fields, when you need it! 
+      
+      You can use all or part of this expertise, at the right time and according
       to your needs: 
-      \n* Before an investment, to help your teams evaluate the
-      technical options chosen by potential targets \n* During deep dives to help
+      
+      * Before an investment, to help your teams evaluate the
+      technical options chosen by potential targets 
+      * During deep dives to help
       your startups in the portfolio to upgrade their technologies or cross the deployment
-      or critical pivots \n* Long-term support, coaching type, technical teams of
+      or critical pivots 
+      * Long-term support, coaching type, technical teams of
       your startups portfolio - we are the guarantors of the smooth running of the
       established road map, and whistleblowers in case of unaddressed technical problem
       
-      \nContact us to create an estimate adapted to your needs. 
+      
+      Contact us to create an estimate adapted to your needs. 
       "
     Call To Action: Contact Founders EN
   - Text: |-
