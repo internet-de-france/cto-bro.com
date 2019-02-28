@@ -45,8 +45,8 @@ Value Proposition:
     no more than this: you bring the what and we challenge the how."
   - "### The Bros, the pros! \n\nWe recruit for you CTOs and lead devs who are recognized
     experts in their fields. They are not consultants, **they are mentors**.\n\nOur
-    coaches evolve in the same frame as yours, they are full time on an ambitious
-    project which is based on them, on their technical and human skills.\nIn addition
+    coaches evolve in the same environment as yours, they are full time on their ambitious
+    project which relies on them, on their technical and human skills.\nIn addition
     to a confidentiality agreement (NDA) you can trust them blindly, each coach follows
     only one startup."
   - |-
