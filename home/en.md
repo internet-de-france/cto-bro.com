@@ -92,7 +92,7 @@ Pricing:
       \n* Access to the private network of CTO Bro experts\n"
     Call To Action: Pay EN
   - Title: Investors
-    Text: "<div class=\"price\">$<div class=\"value\">299</div>USD/h</div>\n\nPerfect
+    Text: "<div class=\"price\">$<div class=\"value\">390</div>USD/h</div>\n\nPerfect
       for VCs and incubators. Our expertise when and where your startups need it.
       \n\n1:1 live chat + unlimited access to the community of experts. Pay-per-use.\n\n*
       Open private chat channels at will \n* Access to the private network of CTO
