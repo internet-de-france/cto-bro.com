@@ -77,7 +77,7 @@ Testimonials:
   Body:
   - "![Jb.jpg](uploads/jb.jpg) \n\n> What I value the most is to obtain concrete solutions
     as well as recommendations on the most appropriate tools and resources when I
-    ask very specific questions about my real use case. \n\nJean-Baptiste Richardet,
+    ask very specific questions about my actual use case. \n\nJean-Baptiste Richardet,
     CTO @ cameo"
   - "![Christophe.jpg](uploads/christophe.jpg) \n\n> Great mentors go beyond questions,
     they inspire. CTO Bro is a solution that provides both mentors and mentors with
