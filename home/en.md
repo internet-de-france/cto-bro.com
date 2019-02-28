@@ -91,7 +91,7 @@ Pricing:
       Plan up to 6 hours per month of live private chat with your \"bro\" \n* Access
       to the private network of CTO Bro experts\n"
     Call To Action: Pay EN
-  - Title: investors
+  - Title: Investors
     Text: |-
       <div class="price"><div class="value"> 299 </div> €/h </div>
       Live chat 1: 1 + access to the community of experts in unlimited. Billing in use.
