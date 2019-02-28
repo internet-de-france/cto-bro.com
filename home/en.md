@@ -75,10 +75,10 @@ The solution:
     Take only what you need."
 Testimonials:
   Body:
-  - "![Jb.jpg](uploads/jb.jpg) \n\n> What I appreciate the most is to be able to ask
-    very specific questions about my real situations and to obtain concrete solutions
-    as well as recommendations on the most appropriate tools and resources. \n\nJean-Baptiste
-    Richardet, CTO @ cameo"
+  - "![Jb.jpg](uploads/jb.jpg) \n\n> What I value the most is to obtain concrete solutions
+    as well as recommendations on the most appropriate tools and resources when I
+    ask very specific questions about my real situations. \n\nJean-Baptiste Richardet,
+    CTO @ cameo"
   - "![Christophe.jpg](uploads/christophe.jpg) \n\n> Great mentors go beyond questions,
     they inspire. CTO Bro is a solution that provides both mentors and mentors with
     connections and skills development. \n\nChristophe Hébert, CEO @ Bluecoders"
