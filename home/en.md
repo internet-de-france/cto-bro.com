@@ -83,8 +83,8 @@ Testimonials:
     networking, ideas and it help them both with skills development.\n\nChristophe
     Hébert, CEO @ Bluecoders"
 Pricing:
-  Text: "## Prices \n\nDo not hesitate to contact us (mailto: sales@cto-bro.com) for
-    more information. The prices below are exclusive of VAT (VAT not included). "
+  Text: "## Prices \n\nDo not hesitate to [contact us](contact-en) for more information.
+    The prices below are exclusive of VAT (VAT not included). "
   Body:
   - Title: Founder
     Text: |-
