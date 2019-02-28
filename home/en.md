@@ -5,9 +5,8 @@ permalink: "/en"
 Language: English
 SEO:
   Title: CTO, bro - Coaching startups
-  Description: Secure your growth with our technical expertise. Bring in
-    an experienced CTO for helping with recruitment, management, architecture and
-    Much more.
+  Description: Secure your growth with our technical expertise. Bring in an experienced
+    CTO for helping with recruitment, management, architecture and Much more.
 Header: Header EN
 Footer: Footer EN
 Hero:
