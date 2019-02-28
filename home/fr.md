@@ -105,7 +105,7 @@ Pricing:
   Text: |
     ## Tarifs
 
-    N’hésitez pas à [nous contacter](contact-fr) pour plus d’informations. Les prix ci-dessous sont HT (TVA non incluse).
+    N’hésitez pas à [nous contacter pour plus d’informations](contact-fr). Les prix ci-dessous sont HT (TVA non incluse).
   Body:
   - Title: Founder
     Text: |-
