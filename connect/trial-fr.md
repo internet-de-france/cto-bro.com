@@ -4,7 +4,7 @@ date: 2019-02-25 23:37:00 +01:00
 permalink: trial-fr
 Language: Français
 SEO:
-  Title: Essayer CTO Bro
+  Title: Essayer CTO Bro gratuitement
   Description: Essayer CTO Bro gratuitement pendant 24h. Pour du coaching ou du mentoring,
     100% live avec des mentors d'exception.
 Header: Header FR

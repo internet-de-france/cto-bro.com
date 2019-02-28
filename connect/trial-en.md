@@ -5,8 +5,8 @@ permalink: trial-en
 Language: English
 SEO:
   Title: Try CTO Bro for free
-  Description: Try CTO Bro for free for 24h. For coaching or mentoring,
-    100% live with exceptional mentors.
+  Description: Try CTO Bro for free for 24h. For coaching or mentoring, 100% live
+    with exceptional mentors.
 Header: Header EN
 Footer: Footer EN
 ---
