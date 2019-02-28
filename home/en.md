@@ -64,8 +64,8 @@ The solution:
     allow us to make you enjoy interesting point of views, relevant contacts and new
     ideas that make sense."
   - "![Mentoring by CTO Bro](uploads/1422524-512.png) \n\n### Custom Mentoring \n\nWe
-    choose with you the ultimate expertise in your field, for useful information and
-    contacts immediately and concretely. "
+    choose with you the person with ultimate expertise in your field, for useful information
+    and contacts immediately and concretely."
   - "![Success by CTO Bro](uploads/4099564-512.png) \n\n### Your success, nothing
     else \n\nAll your questions will find an answer, quickly and without limit of
     the number of question or complexity. The \"bro\" are there to be challenged! "
