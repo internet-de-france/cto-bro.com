@@ -27,7 +27,7 @@ The offer:
     are passionate about development, growth management, leadership... When a question
     pops in the chat the discussion starts, opinions are expressed and confronted
     for the benefits of your product.\n\n![CTO Bro team](uploads/team2.png)"
-  - "## As a team, your team leads and us \n\nFor teams already structured, we offer
+  - "## As a team, your team leads with us \n\nFor teams already structured, we offer
     a dedicated chat room that allows your \"lead dev\" and architects to discuss
     freely with our network of experts. \n\nIn the privacy of your chat room, all
     points of view are discussed openly, and our experts are there to bring their
