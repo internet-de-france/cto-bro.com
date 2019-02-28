@@ -93,7 +93,8 @@ Pricing:
     Call To Action: Pay EN
   - Title: Investors
     Text: |-
-      <div class="price">$<div class="value">299</div>USD/h </div>
+      <div class="price">$<div class="value">299</div>USD/h</div>
+
       Live chat 1: 1 + access to the community of experts in unlimited. Billing in use.
 
       * Open private chat channels at will * Access to the private network of CTO Bro experts * Activity monitoring and monthly reports
