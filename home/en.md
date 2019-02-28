@@ -108,21 +108,21 @@ Pricing:
 How it works:
   Text: "## CTO Bro in practice"
   Body:
-  - "### 100% live chat\n\nThe \"one to one\" chat experience allows us to address
-    the challenges of our customers. We get to know them and share years of experience.\n\nWritten
-    communication is a common practice among today's devs and CTOs, in open source
-    communities, in remote companies and in general in the technical departments of
-    modern companies. This has many advantages:\n\n*![Structured mentoring](uploads/2640826-512-e24cb2.png)\n\nMore
-    structured discussions with more reflection between exchanges, with the possibility
-    of transmitting links or commenting on a particular document or sentence *![Reporting
-    for coaching sessions](uploads/2438288-512.png)\nA traceability of the exchanges,
-    search of information in the history, possible monitoring of the activity to detect
-    a possible dysfunction and follow-up of the invoicing *![Asynchronous mentoring](uploads/2951044-512.png)\nMore
-    asynchronous communication, even if it's a live chat, you can answer an IRL question
-    or another channel without having to put the meeting on hold *![CTO mentoring
-    coaching](uploads/2068825-512.png)\n\nMore serene discussions without the \"noise\"
-    related to the environment - noise in the open space but also bad connections,
-    computer rowing ... "
+  - "### 100% live chat\n\nThe \"one to one\" chat experience is our way to address
+    the challenges of our customers, we use it to get to know them and share years
+    of experience.\n\nWritten communication is a common practice among today's devs
+    and CTOs, in open source communities, in remote companies and in general in the
+    technical departments of modern companies. This has many advantages:\n\n*![Structured
+    mentoring](uploads/2640826-512-e24cb2.png)\n\nMore structured discussions with
+    more reflection between exchanges, with the possibility of transmitting links
+    or commenting on a particular document or sentence *![Reporting for coaching sessions](uploads/2438288-512.png)\nA
+    traceability of the exchanges, search of information in the history, possible
+    monitoring of the activity to detect a possible dysfunction and follow-up of the
+    invoicing *![Asynchronous mentoring](uploads/2951044-512.png)\nMore asynchronous
+    communication, even if it's a live chat, you can answer an IRL question or another
+    channel without having to put the meeting on hold *![CTO mentoring coaching](uploads/2068825-512.png)\n\nMore
+    serene discussions without the \"noise\" related to the environment - noise in
+    the open space but also bad connections, computer rowing ... "
   - |-
     ### How it works ? We set objectives together and, depending on the needs, here's what we do concretely:
     * Codes reviews on "pull requests" * Architectural meetings and technical choices * Regular points on the recruitment strategy * Innovation consulting, prototyping, MVP, road map
