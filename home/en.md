@@ -99,14 +99,11 @@ Pricing:
       Bro experts \n* Activity monitoring and monthly reports\n"
     Call To Action: Contact Founders EN
   - Title: Teams
-    Text: |-
-      <div class="price"><div class="value"> 299 </div> €/h </div>
-
-      Fits the needs of dev teams and in-house innovation departments.
-
-      Open discussions as part of a chat room dedicated to your teams. Pay-per-use.
-
-      * Set up a dedicated room for your "lead" led by an expert * Access to the private network of CTO Bro experts * Activity monitoring and monthly reports
+    Text: "<div class=\"price\"><div class=\"value\"> 299 </div> €/h </div>\n\nFits
+      the needs of dev teams and in-house innovation departments.\n\nOpen discussions
+      as part of a chat room dedicated to your teams. Pay-per-use.\n\n* Set up a dedicated
+      room for your \"lead\" led by an expert \n* Access to the private network of
+      CTO Bro experts \n* Activity monitoring and monthly reports\n"
     Call To Action: Contact Founders EN
 How it works:
   Text: "## CTO Bro in practice"
