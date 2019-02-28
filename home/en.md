@@ -38,7 +38,7 @@ Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
   Body:
   - |-
-    ### CTO Bro, years in advance
+    ### CTO Bro makes time
 
     The digital world is changing fast - technology, practices, businesses and especially us, people. In this area, success is directly linked to the ability to evolve rapidly.
     The only way to succeed: to find the right sources of information, to feel what deserves time and attention. It is an instinct that is acquired with work and experience.
