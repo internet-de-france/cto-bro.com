@@ -69,7 +69,7 @@ The solution:
   Text: "## La solution CTO Bro"
   Body:
   - |-
-    ![iconfinder_182_3390092.png](uploads/iconfinder_182_3390092.png)
+    ![Vos pairs sont là pour vous](uploads/iconfinder_182_3390092.png)
 
     ### Profitez de l’expérience de vos pairs
 
