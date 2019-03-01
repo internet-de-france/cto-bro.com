@@ -107,8 +107,7 @@ Pricing:
 
     N’hésitez pas à [nous contacter pour plus d’informations](contact-fr). Les prix ci-dessous sont HT (TVA non incluse).
   Body:
-  - Title: 
-    Text: |-
+  - Text: |-
       ### CTO Founder
 
       <div class="price"><div class="value">2290</div>€/mois</div>
@@ -121,8 +120,7 @@ Pricing:
       * Planifiez jusqu'à 4h heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
-  - Title: 
-    Text: |
+  - Text: |
       ### Teams
 
       <div class="price"><div class="value">Bientôt disponible</div></div>
