@@ -188,9 +188,7 @@ The team:
     Compétences clés: revue de code, architecture, dev ops et CI, recrutement, RH, management.
 
     Liens : [LinkedIn](https://www.linkedin.com/in/xavier-hausherr-74977932/), [AlloCiné on Crunchbase](https://www.crunchbase.com/organization/allocine), [Overblog on Crunchbase](https://www.crunchbase.com/organization/overblog)
-  Call To Action: Contact Founders FR
 Audience:
-  Text: "## Clients et partenaires\n"
   Body:
   - Text: |
       ### Startups
