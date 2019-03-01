@@ -127,7 +127,7 @@ Pricing:
 
       Convient aux **équipes de dev** et aux départements innovation.
 
-      1 expert dédié à votre équipe pour du **Live chat 1:1** et des discussions de groupe dans **votre chat room**.
+      1 Bro dédié à votre équipe pour du **Live chat 1:1** et des discussions de groupe dans **votre chat room**.
 
       * Canal de discussion dédié à vos “lead” et animé par un expert
       * Ouverture de canaux de discussion privés
