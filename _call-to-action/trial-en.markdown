@@ -6,4 +6,4 @@ position: 0
 
 <div class="btn-cta"><a href="trial-en">Ask your 1st question!</a></div>
 
-24h free unlimited access to the coach community
+24h free access to the coach community
