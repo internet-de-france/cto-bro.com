@@ -37,56 +37,6 @@ defaults:
     type: page
   values:
     layout: home
-    Language: 
-    SEO:
-      Title: 
-      Description: 
-    Header: 
-    Footer: 
-    Hero:
-      Text: 
-      Call To Action: 
-    The offer:
-      Text: 
-      Body:
-      - 
-      Call To Action: 
-    Value Proposition:
-      Text: 
-      Body:
-      - 
-      Call To Action: 
-    The solution:
-      Text: 
-      Body:
-      - 
-      Call To Action: 
-    Testimonials:
-      Text: 
-      Body:
-      - 
-      Call To Action: 
-    Pricing:
-      Text: 
-      Body:
-      - Title: 
-        Text: 
-        Call To Action: 
-    How it works:
-      Text: 
-      Body:
-      - 
-      Call To Action: 
-    The team:
-      Text: 
-      Body:
-      - 
-      Call To Action: 
-    Audience:
-      Text: 
-      Body:
-      - Text: 
-        Call To Action: 
 url: https://cto-bro.com
 description: 
 plugins:
