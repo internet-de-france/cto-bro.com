@@ -121,7 +121,7 @@ Pricing:
     Call To Action: Pay FR
   - Title: Teams
     Text: |
-      <div class="price"><div class="value">290</div>€/h</div>
+      <div class="price"><div class="value">Bientôt disponible</div></div>
 
       Convient aux équipes de dev et aux départements "innovation".
 
