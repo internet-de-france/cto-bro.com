@@ -125,7 +125,7 @@ Pricing:
 
       <div class="price"><div class="value">Bientôt disponible</div></div>
 
-      Convient aux **équipes de dev** et aux départements "innovation".
+      Convient aux **équipes de dev** et aux départements innovation.
 
       **Live chat 1:1** + discussions libres dans le cadre d’une **chat room dédiée à votre équipe**. Facturation à l’utilisation.
 
