@@ -127,7 +127,7 @@ Pricing:
 
       Convient aux **équipes de dev** et aux départements innovation.
 
-      **Live chat 1:1** + discussions libres dans le cadre d’une **chat room dédiée à votre équipe**. Facturation à l’utilisation.
+      1 expert dédié à votre équipe, **Live chat 1:1** + discussions libres dans **votre chat room dédiée**. Facturation à l’utilisation.
 
       * Canal de discussion dédié à vos “lead” et animé par un expert
       * Ouverture de canaux de discussion privés
