@@ -88,15 +88,14 @@ Pricing:
 
     Do not hesitate to [contact us for more information](contact-en).
   Body:
-  - Title: CTO Founder
-    Text: "<div class=\"price\">$<div class=\"value\">2,690</div>USD/month</div>\n\nFor
+  - Text: "### CTO Founder\n\n<div class=\"price\">$<div class=\"value\">2,690</div>USD/month</div>\n\nFor
       **CTO co-founders**, who have to create a product and set up a team.\n\n**1h/week**
       of coaching + access to the **community of experts**.\n\n* Choose a coach you
       trust\n* Plan up to 6 hours per month of live private chat with your \"bro\"
       \n* Access to the private network of CTO Bro experts\n"
     Call To Action: Pay EN
-  - Title: Teams
-    Text: "<div class=\"price\"><div class=\"value\">Soon Available</div></div>\n\nFits
+  - Title: 
+    Text: "### Teams\n\n<div class=\"price\"><div class=\"value\">Soon Available</div></div>\n\nFits
       the needs of **dev teams** and in-house innovation departments.\n\n**Live 1:1
       chat** + open discussions as part of a **chat room dedicated to your team**.
       Pay-per-use.\n\n* Set up a dedicated room for your \"lead\" led by an expert
