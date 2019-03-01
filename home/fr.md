@@ -119,8 +119,10 @@ Pricing:
       * Planifiez jusqu'à 4h heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
-  - Title: Teams
+  - Title: 
     Text: |
+      ### Teams
+
       <div class="price"><div class="value">Bientôt disponible</div></div>
 
       Convient aux **équipes de dev** et aux départements "innovation".
