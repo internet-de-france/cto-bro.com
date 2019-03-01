@@ -40,11 +40,11 @@ For privacy reasons, all fields except email are optional. We understand that yo
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<input placeholder="Pope" type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMPANY">Company </label>
-	<input type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
+	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
