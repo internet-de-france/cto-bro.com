@@ -32,7 +32,7 @@ Pour des raisons de confidentialité, tous les champs excepté l'email sont opti
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
 </label>
-	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input placeholder="email@company.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">Prénom </label>
