@@ -119,7 +119,7 @@ Pricing:
     Call To Action: Pay FR
   - Title: Investisseurs
     Text: |-
-      <div class="price"><div class="value">290</div>€/h</div>
+      <div class="price">Bientôt displonible</div>
 
       Parfait pour les VC et les incubateurs. Notre expertise où et quand vos startups en ont besoin.
 
