@@ -17,7 +17,6 @@ Thank you for your interest and welcome to our community of experts.
 
 Immediately after completing this questionnaire, you will have access to our slack platform. There we can get to know you so you can quickly become a Bro.
 
-
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
