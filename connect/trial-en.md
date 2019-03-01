@@ -15,7 +15,7 @@ Footer: Footer EN
 
 Immediately after filling out this questionnaire, you will receive unlimited free access to the coach community. During 24h you can ask questions useful for your business or to understand CTO Bro. Take the opportunity to get to know the coaches, in order to choose your coach if you [subscribe to the plan "Founder"](en#pricing).
 
-For privacy reasons, all fields except email are optional. We understand that you may wish to sign a NDA before disclosing information about yourself.
+For privacy reasons, all fields except email are optional. 
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
