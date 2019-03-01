@@ -40,7 +40,7 @@ Immédiatement après avoir rempli ce questionnaire, vous aurez accès à notre 
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<input placeholder="Olivia Pope" type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMPANY">Company </label>

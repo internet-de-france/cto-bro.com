@@ -45,7 +45,7 @@ Vous pouvez aussi nous contactez par des biais plus traditionnels :
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">Prénom </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<input placeholder="Olivia Pope" type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Nom de famille </label>
