@@ -132,13 +132,9 @@ The team:
     of coaches, and we guarantee you a human experience that will be decisive in your
     success. "
   Body:
-  - |-
-    ![alex hoyau cto](uploads/alex.jpg) ## Alex Hoyau 8 years of XP as CTO
-    In the last 17 years I have been a CTO for 6 years and a freelance/entrepreneur for 8 years.
-    I am an experienced manager and a senior full stack developer. I developed my leadership in startup environments as well as in open source communities. On a more personal level, I am a volunteer in the Silex Labs association that I founded in 2010 to bring diversity to tech companies.
-    I have significant experience in consulting, architecture, planning and development of critical projects for companies and startups.
-    Key Competencies: Code Review, Architecture, CI and Industrial Workflows, Recruitment, Leadership
-    Links: LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
+  - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau\n8 years of XP as CTO\n\nKey
+    Competencies: Code Review, Architecture, CI and Industrial Workflows, Recruitment,
+    Leadership\n\nLinks: LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase"
   - |
     ![Xavier Hausherr CTO](uploads/xavier.jpg) ## Xavier Hausherr 3 x CTO
     Since 2010 I lead the technical teams of companies for whom rapid growth is vital. In my last 3 experiences I have managed more than 50 developers, hired dozens of people. Together, we have evolved platforms delivering content to hundreds of millions of users every month.
