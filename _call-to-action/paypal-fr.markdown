@@ -1,7 +1,7 @@
 ---
 title: Pay FR
 date: 2019-02-21 19:32:00 +01:00
-position: 6
+position: 5
 ---
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
