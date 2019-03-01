@@ -177,12 +177,6 @@ The team:
     ## Alex Hoyau
     8 ans d’XP comme CTO
 
-    Au cours des 17 dernières années, j’ai été CTO pendant 6 ans et freelance/entrepreneur pendant 8 ans.
-
-    Je suis un manager expérimenté et un senior full stack developer. J’ai développé mon leadership dans des environnements de startup ainsi que dans des communautés open source. Sur un plan plus personnel, je suis bénévole dans l’association Silex Labs que j’ai fondée en 2010, pour apporter de la diversité aux entreprises tech.
-
-    J’ai une expérience significative dans le conseil, l’architecture, la planification et le développement de projets critiques pour des entreprises et des startups.
-
     Compétences clés: revue de code, architecture, CI et workflows industriels, recrutement, leadership
 
     Liens : LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
