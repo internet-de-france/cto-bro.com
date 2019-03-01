@@ -36,7 +36,7 @@ Pour des raisons de confidentialité, tous les champs excepté l'email sont opti
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">Prénom </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<input placeholder="Olivia" type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Nom de famille </label>
