@@ -6,4 +6,4 @@ position: 1
 
 <div class="btn-cta"><a href="trial-fr">Posez votre 1ère question !</a></div>
 
-24h accès gratuit illimité à la communauté des coachs
+24h accès gratuit à la communauté des coachs
