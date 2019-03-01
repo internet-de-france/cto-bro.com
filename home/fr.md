@@ -111,9 +111,9 @@ Pricing:
     Text: |-
       <div class="price"><div class="value">2290</div>€/mois</div>
 
-      Pour les CTO qui sont aussi co-founder, qui doivent créer un produit et mettre en place une équipe.
+      Pour les **CTO co-founder**, qui doivent créer un produit et mettre en place une équipe.
 
-      1h/semaine de coaching + accès à la communauté d’experts.
+      **1h/semaine** de coaching + accès à la communauté d’experts.
 
       * Choisissez un coach en qui vous avez confiance
       * Planifiez jusqu'à 4h heures par mois de live chat privé avec votre “bro”
