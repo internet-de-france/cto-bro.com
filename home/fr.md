@@ -177,7 +177,7 @@ The team:
     ## Alex Hoyau
     8 ans d’XP comme CTO
 
-    Compétences clés: revue de code, architecture, CI et workflows industriels, recrutement, leadership
+    Compétences clés: architecture, industrialisation de code, recrutement, leadership
 
     Liens : LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
   - |
