@@ -12,4 +12,4 @@ Hamburger Text: |-
   * [Connexion](https://cto-bro.slack.com/)
 ---
 
-__[La solution](fr#la-solution-cto-bro)__ __[Tarifs](fr#tarifs)__ __[Contact](contact-fr)__ __[Connexion](https://cto-bro.slack.com/)__
+__[La solution](fr#la-solution-cto-bro)__ __[Tarifs](fr#tarifs)__ __[Contact](contact-fr)__ __[Connexion](https://cto-bro.slack.com/)__ [Devenir Coach](coach-fr)
