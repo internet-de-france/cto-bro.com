@@ -40,7 +40,7 @@ Pour des raisons de confidentialité, tous les champs excepté l'email sont opti
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Nom de famille </label>
-	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<input placeholder="Pope" type="text" value="" name="LNAME" class="" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMPANY">Nom de votre entreprise </label>
