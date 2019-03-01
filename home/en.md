@@ -98,9 +98,9 @@ Pricing:
       the needs of **dev teams** and in-house innovation departments.\n\n**Live 1:1
       chat** + open discussions as part of a **chat room dedicated to your team**.
       Pay-per-use.\n\n1 Bro dedicated to your team for **Live 1:1 chat** and group
-      discussions in **your chat room**.\n\n* Set up a dedicated room for your \"leads\"
-      led by an expert \n* Open private channels\n* Activity monitoring and monthly
-      reports\n"
+      discussions in **your chat room**.\n\n* Dedicated room for your \"leads\" led
+      by an expert \n* Open private channels when needed\n* Activity monitoring and
+      monthly reports\n"
     Call To Action: Contact Founders EN
 How it works:
   Text: "## CTO Bro in practice"
