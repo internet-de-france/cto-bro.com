@@ -140,7 +140,6 @@ The team:
     code reviews, architecture, dev ops and CI, recruitment, HR, management.\n\nLinks:
     [LinkedIn](https://www.linkedin.com/in/xavier-hausherr-74977932/), [AlloCiné on
     Crunchbase](https://www.crunchbase.com/organization/allocine), [Overblog on Crunchbase](https://www.crunchbase.com/organization/overblog)\n"
-  Call To Action: Contact Founders EN
 Audience:
   Text: "## Customers and partners "
   Body:
