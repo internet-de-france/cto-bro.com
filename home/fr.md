@@ -107,8 +107,10 @@ Pricing:
 
     N’hésitez pas à [nous contacter pour plus d’informations](contact-fr). Les prix ci-dessous sont HT (TVA non incluse).
   Body:
-  - Title: CTO Founder
+  - Title: 
     Text: |-
+      ### CTO Founder
+
       <div class="price"><div class="value">2290</div>€/mois</div>
 
       Pour les **CTO co-founders**, qui doivent créer un produit, mettre en place une équipe.
