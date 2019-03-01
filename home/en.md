@@ -133,8 +133,9 @@ The team:
     success. "
   Body:
   - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau\n8 years of XP as a CTO\n\nSkills:
-    Architecture, Code industrialisation, Recruitment, Leadership\n\nLinks: LinkedIn,
-    Secret Media on Crunchbase, Altavia on Crunchbase"
+    Architecture, Code industrialisation, Recruitment, Leadership\n\nLinks: [LinkedIn](https://www.linkedin.com/in/webappdev/),
+    [Secret Media on Crunchbase](https://www.crunchbase.com/organization/secret-media-inc),
+    [Altavia on Crunchbase](https://www.crunchbase.com/organization/altavia)"
   - "![Xavier Hausherr CTO](uploads/xavier.jpg) \n## Xavier Hausherr\n3 x CTO\n\nSkills:
     code reviews, architecture, dev ops and CI, recruitment, HR, management.\n\nLinks:
     LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase\n"

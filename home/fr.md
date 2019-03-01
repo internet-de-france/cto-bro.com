@@ -179,7 +179,7 @@ The team:
 
     Compétences clés: architecture, industrialisation de code, recrutement, leadership
 
-    Liens : LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase
+    Liens : [LinkedIn](https://www.linkedin.com/in/webappdev/), [Secret Media on Crunchbase](https://www.crunchbase.com/organization/secret-media-inc), [Altavia on Crunchbase](https://www.crunchbase.com/organization/altavia)
   - |
     ![Xavier Hausherr CTO](uploads/xavier.jpg)
     ## Xavier Hausherr
