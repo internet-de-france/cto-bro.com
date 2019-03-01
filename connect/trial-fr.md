@@ -44,7 +44,7 @@ Pour des raisons de confidentialité, tous les champs excepté l'email sont opti
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMPANY">Nom de votre entreprise </label>
-	<input type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
+	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>

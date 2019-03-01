@@ -53,7 +53,7 @@ Vous pouvez aussi nous contactez par des biais plus traditionnels :
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMPANY">Nom de votre entreprise </label>
-	<input type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
+	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>

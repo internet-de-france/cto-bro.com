@@ -44,7 +44,7 @@ Immédiatement après avoir rempli ce questionnaire, vous aurez accès à notre 
 </div>
 <div class="mc-field-group">
 	<label for="mce-COMPANY">Company </label>
-	<input type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
+	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
