@@ -133,10 +133,10 @@ The team:
     success. "
   Body:
   - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau\n8 years of XP as a CTO\n\nSkills:
-    Architecture, CI and Industrial Workflows, Recruitment, Leadership\n\nLinks: LinkedIn,
+    Architecture, Code industrialisation, Recruitment, Leadership\n\nLinks: LinkedIn,
     Secret Media on Crunchbase, Altavia on Crunchbase"
   - "![Xavier Hausherr CTO](uploads/xavier.jpg) \n## Xavier Hausherr\n3 x CTO\n\nSkills:
-    code review, architecture, dev ops and CI, recruitment, HR, management.\n\nLinks:
+    code reviews, architecture, dev ops and CI, recruitment, HR, management.\n\nLinks:
     LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase\n"
   Call To Action: Contact Founders EN
 Audience:
