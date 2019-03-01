@@ -135,13 +135,9 @@ The team:
   - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau\n8 years of XP as CTO\n\nKey
     Competencies: Code Review, Architecture, CI and Industrial Workflows, Recruitment,
     Leadership\n\nLinks: LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase"
-  - |
-    ![Xavier Hausherr CTO](uploads/xavier.jpg) ## Xavier Hausherr 3 x CTO
-    Since 2010 I lead the technical teams of companies for whom rapid growth is vital. In my last 3 experiences I have managed more than 50 developers, hired dozens of people. Together, we have evolved platforms delivering content to hundreds of millions of users every month.
-    Developer first and foremost, I learned everything by myself and I stay on top of technology. I like to do code reviews as much as job interviews, set up the IC as much as the recruitment strategy or plan a road map. And above all, I like to share and progress with my colleagues.
-
-    Key skills: code review, architecture, dev ops and CI, recruitment, HR, management.
-    Links: LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase
+  - "![Xavier Hausherr CTO](uploads/xavier.jpg) \n## Xavier Hausherr\n3 x CTO\n\nKey
+    skills: code review, architecture, dev ops and CI, recruitment, HR, management.\n\nLinks:
+    LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase\n"
   Call To Action: Contact Founders EN
 Audience:
   Text: "## Customers and partners "
