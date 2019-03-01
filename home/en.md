@@ -83,10 +83,14 @@ Testimonials:
     networking, ideas and it help them both with skills development.\n\nChristophe
     Hébert, CEO @ Bluecoders"
 Pricing:
-  Text: "## Prices \n\nDo not hesitate to [contact us for more information](contact-en)."
+  Text: |-
+    ## Pricing
+
+    Do not hesitate to [contact us for more information](contact-en).
   Body:
   - Title: CTO Founder
-    Text: "<div class=\"price\">$<div class=\"value\">2,690</div>USD/month</div>\n\n1h/week
+    Text: "<div class=\"price\">$<div class=\"value\">2,690</div>USD/month</div>\n\nFor
+      CTO who are also co-founder, who have to create a product and set up a team.\n\n1h/week
       of coaching + unlimited access to the community of experts.\n\n* Choose a coach
       you trust\n* Plan up to 6 hours per month of live private chat with your \"bro\"
       \n* Access to the private network of CTO Bro experts\n"
