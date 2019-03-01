@@ -99,8 +99,8 @@ Pricing:
       chat** + open discussions as part of a **chat room dedicated to your team**.
       Pay-per-use.\n\n1 Bro dedicated to your team for **Live 1:1 chat** and group
       discussions in **your chat room**.\n\n* Dedicated room for your \"leads\" managed
-      by a Bro \n* Open private channels when needed\n* Activity monitoring and monthly
-      reports\n"
+      by your Bro \n* Open private channels when needed\n* Activity monitoring and
+      monthly reports\n"
     Call To Action: Contact Founders EN
 How it works:
   Text: "## CTO Bro in practice"
