@@ -117,25 +117,17 @@ Pricing:
       * Planifiez jusqu'à 4h heures par mois de live chat privé avec votre “bro”
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
-  - Title: Investisseurs
-    Text: |-
-      <div class="price">Bientôt displonible</div>
-
-      Parfait pour les VC et les incubateurs. Notre expertise où et quand vos startups en ont besoin.
-
-      Live chat 1:1 + accès à la communauté d’experts en illimité. Facturation à l’utilisation.
-
-      * Ouverture de canaux de discussion privés
-      * Accès au réseau d'experts de CTO Bro
-      * Monitoring de l’activité et rapports mensuels
-    Call To Action: Contact Founders FR
   - Title: Teams
     Text: |-
       <div class="price"><div class="value">290</div>€/h</div>
 
       Convient aux équipes de dev et aux départements "innovation".
 
-      Discussions ouvertes dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
+      Live chat 1:1 + discussions libres dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
+
+      * Ouverture de canaux de discussion privés
+      * Accès au réseau d'experts de CTO Bro
+      * Monitoring de l’activité et rapports mensuels
 
       * Mise en place d’un canal de discussion dédié à vos “lead” et animé par un expert
       * Accès au réseau d'experts de CTO Bro
