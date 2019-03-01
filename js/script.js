@@ -15,6 +15,8 @@ function testScroll() {
 $(function() {
     window.addEventListener('scroll', testScroll);
     testScroll();
+    var lang = $('html').attr('lang');
+    $('body').addClass('page-lang-' + lang);
 })
 (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],

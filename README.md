@@ -12,3 +12,9 @@ Types of pages
 * home page: redirects to the translated page depending on the browser language
 * translated home pages: they have to be in located in `/home/[lang].md` (path) with a permalink set to `/[lang]`. This ensures that in **siteleaf CMS** all the new pages have the correct meta data for the editors to fill (see defaults field of [_config.yml](./_config.yml))
 
+Colors
+
+* dark blue #041E42
+* light blue #1D428A
+* yellow #ECAF1D
+* green #759620
