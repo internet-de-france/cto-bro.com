@@ -12,7 +12,7 @@ Header: Header FR
 Footer: Footer FR
 Hero:
   Text: |+
-    # Offrez un “bro” à votre CTO !
+    # Offrez un “bro” à votre CTO!
 
     ## Sécurisez votre croissance avec notre expertise technique
 
