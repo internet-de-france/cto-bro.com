@@ -118,18 +118,15 @@ Pricing:
       * Accès au réseau privé des experts de CTO Bro
     Call To Action: Pay FR
   - Title: Teams
-    Text: |-
+    Text: |
       <div class="price"><div class="value">290</div>€/h</div>
 
       Convient aux équipes de dev et aux départements "innovation".
 
       Live chat 1:1 + discussions libres dans le cadre d’une chat room dédiée à vos équipes. Facturation à l’utilisation.
 
+      * Canal de discussion dédié à vos “lead” et animé par un expert
       * Ouverture de canaux de discussion privés
-      * Accès au réseau d'experts de CTO Bro
-      * Monitoring de l’activité et rapports mensuels
-
-      * Mise en place d’un canal de discussion dédié à vos “lead” et animé par un expert
       * Accès au réseau d'experts de CTO Bro
       * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
