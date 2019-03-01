@@ -129,7 +129,7 @@ Pricing:
 
       1 Bro dédié à votre équipe pour du **Live chat 1:1** et des discussions de groupe dans **votre chat room**.
 
-      * Canal de discussion dédié à vos “lead” et animé par un expert
+      * Canal de discussion dédié à vos “lead” et animé par votre Bro
       * Ouverture de canaux de discussion privés
       * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
