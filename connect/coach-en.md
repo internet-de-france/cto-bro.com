@@ -37,7 +37,7 @@ Immediately after completing this questionnaire, you will have access to our sla
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">First Name </label>
-	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<input placeholder="Olivia" type="text" value="" name="FNAME" class="" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
 	<label for="mce-LNAME">Last Name </label>
