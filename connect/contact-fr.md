@@ -41,7 +41,7 @@ Vous pouvez aussi nous contactez par des biais plus traditionnels :
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
 </label>
-	<input placeholder="email@company.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+	<input placeholder="olivia@company.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
 	<label for="mce-FNAME">Prénom </label>
