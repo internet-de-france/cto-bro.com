@@ -138,7 +138,8 @@ The team:
     [Altavia on Crunchbase](https://www.crunchbase.com/organization/altavia)"
   - "![Xavier Hausherr CTO](uploads/xavier.jpg) \n## Xavier Hausherr\n3 x CTO\n\nSkills:
     code reviews, architecture, dev ops and CI, recruitment, HR, management.\n\nLinks:
-    LinkedIn, AlloCiné on Crunchbase, Overblog on Crunchbase\n"
+    [LinkedIn](https://www.linkedin.com/in/xavier-hausherr-74977932/), [AlloCiné on
+    Crunchbase](https://www.crunchbase.com/organization/allocine), [Overblog on Crunchbase](https://www.crunchbase.com/organization/overblog)\n"
   Call To Action: Contact Founders EN
 Audience:
   Text: "## Customers and partners "
