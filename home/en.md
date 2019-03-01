@@ -94,8 +94,7 @@ Pricing:
       trust\n* Plan up to 6 hours per month of live private chat with your \"bro\"
       \n* Access to the private network of CTO Bro experts\n"
     Call To Action: Pay EN
-  - Title: 
-    Text: "### Teams\n\n<div class=\"price\"><div class=\"value\">Soon Available</div></div>\n\nFits
+  - Text: "### Teams\n\n<div class=\"price\"><div class=\"value\">Soon Available</div></div>\n\nFits
       the needs of **dev teams** and in-house innovation departments.\n\n**Live 1:1
       chat** + open discussions as part of a **chat room dedicated to your team**.
       Pay-per-use.\n\n* Set up a dedicated room for your \"lead\" led by an expert
