@@ -96,7 +96,7 @@ Pricing:
       \n* Access to the private network of CTO Bro experts\n"
     Call To Action: Pay EN
   - Title: Teams
-    Text: "<div class=\"price\">$<div class=\"value\">390</div>USD/h </div>\n\nFits
+    Text: "<div class=\"price\"><div class=\"value\">Soon Available</div></div>\n\nFits
       the needs of dev teams and in-house innovation departments.\n\nOpen discussions
       as part of a chat room dedicated to your teams. Pay-per-use.\n\n* Set up a dedicated
       room for your \"lead\" led by an expert \n* Access to the private network of
