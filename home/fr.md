@@ -131,7 +131,6 @@ Pricing:
 
       * Canal de discussion dédié à vos “lead” et animé par un expert
       * Ouverture de canaux de discussion privés
-      * Accès au réseau d'experts de CTO Bro
       * Monitoring de l’activité et rapports mensuels
     Call To Action: Contact Founders FR
 How it works:
