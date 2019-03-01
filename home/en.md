@@ -132,7 +132,7 @@ The team:
     of coaches, and we guarantee you a human experience that will be decisive in your
     success. "
   Body:
-  - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau\n8 years of XP as CTO\n\nKey
+  - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau\n8 years of XP as a CTO\n\nKey
     Competencies: Code Review, Architecture, CI and Industrial Workflows, Recruitment,
     Leadership\n\nLinks: LinkedIn, Secret Media on Crunchbase, Altavia on Crunchbase"
   - "![Xavier Hausherr CTO](uploads/xavier.jpg) \n## Xavier Hausherr\n3 x CTO\n\nKey
