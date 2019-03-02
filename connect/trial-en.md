@@ -15,7 +15,7 @@ layout: contact
 
 # Try CTO Bro for free
 
-Immediately after filling out this questionnaire, you will receive a free access to the coach community. During 24h you can ask questions useful to your business or to understand CTO Bro. Take the opportunity to get to know the coaches, in order to choose your coach if you [subscribe to the plan "Founder"](en#pricing).
+Immediately after filling out this questionnaire, you will receive a free access to the coach community. During 24h you can ask questions useful to your business or to understand CTO Bro. Take this opportunity to get to know the coaches, in order to choose your coach if you [subscribe to the plan "Founder"](en#pricing).
 
 For privacy reasons, all fields except email are optional. 
 
