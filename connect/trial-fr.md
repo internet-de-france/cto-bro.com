@@ -3,7 +3,6 @@ title: Trial FR
 date: 2019-02-25 23:37:00 +01:00
 permalink: trial-fr
 position: 3
-layout: contact
 Language: Français
 SEO:
   Title: Essayer CTO Bro gratuitement
@@ -11,11 +10,12 @@ SEO:
     100% live avec des mentors d'exception.
 Header: Header FR
 Footer: Footer FR
+layout: contact
 ---
 
 # Essayez CTO Bro
 
-Immédiatement après avoir rempli ce questionnaire, vous recevrez un accès gratuit illimité à la communauté des coachs. Pendant 24h vous pourez poser des questions techniques ou non, utiles pour votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre coach si vous [souscrivez au plan "Founder"](fr#tarifs).
+Immédiatement après avoir rempli ce questionnaire, vous recevrez un accès gratuit à la communauté des coachs. Pendant 24h vous pourez poser des questions techniques ou non, utiles pour votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre coach si vous [souscrivez au plan "Founder"](fr#tarifs).
 
 Pour des raisons de confidentialité, tous les champs excepté l'email sont optionnels. 
 
