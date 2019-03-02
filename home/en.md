@@ -105,7 +105,7 @@ Pricing:
 How it works:
   Text: "## CTO Bro in practice"
   Body:
-  - "### 100% live chat\n\nThe \"one to one\" chat experience is our way to address
+  - "### 100% live chat\n\nThe **\"one to one\" chat experience** is our way to address
     the challenges of our customers, we use it to get to know them and share years
     of experience.\n\nWritten communication is a common practice among today's devs
     and CTOs, in open source communities, in remote companies and in general in the
