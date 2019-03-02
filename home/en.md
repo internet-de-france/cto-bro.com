@@ -30,8 +30,8 @@ The offer:
   - "## Your team leads and us \n\nFor teams already structured, we offer a **dedicated
     chat room** that allows your \"team leads\" or architects to **discuss freely
     with our experts**. \n\nIn the privacy of your chat room, all points of view are
-    discussed openly, and our experts are there to bring their experience and feed
-    the debates with intel that will ensure your team a rapid evolution."
+    discussed openly, and your Bro is here to bring their experience and feed the
+    debates with intel that will ensure your team a rapid evolution."
   Call To Action: Trial EN
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
