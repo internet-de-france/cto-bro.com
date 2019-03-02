@@ -124,7 +124,7 @@ How it works:
     here's what we can do:\n\n* Codes reviews on \"pull requests\"\n* Architectural
     meetings and technical discussions \n* Regular meetings on the recruitment strategy\n*
     Consulting for innovation, prototyping, MVP, road map\n"
-  - "### And this in areas as diverse as\n* Front-end, back-end, dev-ops, databases\n*
+  - "### And this in areas as diverse as\n\n* Front-end, back-end, dev-ops, databases\n*
     Development of web apps, B2B and B2C platforms, APIs * UI/UX, product management,
     agile organization * leadership, presenting to an audience "
   Call To Action: Trial EN
