@@ -158,7 +158,7 @@ How it works:
     connexions, ordinateur qui rame…\n"
   - |-
     ### Comment ça marche ?
-    Nous fixons des objectifs ensemble et, selon les besoins, voici ce que nous faisons concrètement :
+    Nous fixons des **objectifs** ensemble et, selon les besoins, voici ce que nous faisons concrètement :
 
     * Des codes reviews sur des “pull requests”
     * Des réunions d’architecture et de choix techniques
