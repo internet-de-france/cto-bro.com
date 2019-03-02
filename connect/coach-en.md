@@ -3,7 +3,6 @@ title: Coach EN
 date: 2019-02-26 23:48:00 +01:00
 permalink: coach-en
 position: 4
-layout: contact
 Language: English
 SEO:
   Title: Become a mentor, make the makers of tomorrow
@@ -11,13 +10,14 @@ SEO:
     of tomorrow.
 Header: Header EN
 Footer: Footer EN
+layout: contact
 ---
 
 # Coach the leaders of tomorrow
 
 Thank you for your interest and welcome to our community of experts.
 
-Immediately after completing this questionnaire, you will have access to our slack platform. There we can get to know you so you can quickly become a Bro.
+Immediately after completing this questionnaire, **you will have access to our slack platform**. There we can get to know you so you can quickly become a Bro.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
