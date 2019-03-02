@@ -11,7 +11,7 @@ Header: Header EN
 Footer: Footer EN
 Hero:
   Text: |-
-    # Get your CTO a bro!
+    # Get your CTO a bro !
 
     ## Secure your growth with our technical expertise
   Call To Action: Trial EN
@@ -140,49 +140,6 @@ The team:
     code reviews, architecture, dev ops and CI, recruitment, HR, management.\n\nLinks:
     [LinkedIn](https://www.linkedin.com/in/xavier-hausherr-74977932/), [AlloCiné on
     Crunchbase](https://www.crunchbase.com/organization/allocine), [Overblog on Crunchbase](https://www.crunchbase.com/organization/overblog)\n"
-Audience:
-  Text: "## Customers and partners "
-  Body:
-  - Text: "### Startups \n\nOur experience and our \"founder\" offer allow us to respond
-      in a very personal way to the CTO creators of startups. \n\nIt is difficult
-      to embark on the dev of a new product, to set up a road map, to define an MVP,
-      to innovate, to recruit, to industrialize and to evolve a basic code. For this
-      we have techniques from our failures and our most glorious moments. \n\nContact
-      us to get started on the adventure or try CTO Bro for free. "
-    Call To Action: 
-  - Text: "### dev teams, innovation department \n\nAs experienced CTOs and Leads
-      we can help you think \"out of the box\", streamline your organization and develop
-      your products. \n\nYou maintain and evolve the product that pays the wages of
-      the whole box? We offer you the ultimate experience to boost your feature teams:
-      each lead or product owner is assigned a role in a chat room common to your
-      teams. CTO Bro coaches animate the discussions and feed them with concrete examples,
-      relevant questions and suggestions that will save you a lot of energy. \n\nContact
-      us to set a suitable quote or get started on the adventure and test CTO Bro
-      for free. "
-    Call To Action: 
-  - Text: "### Investors, VCs, incubators\n\nCTO Bro gives you access to an extremely
-      vast cumulative experience, in a wide variety of fields, when you need it!\nYou
-      can use all or part of this expertise, at the right time and according to your
-      needs:\n* Before an investment, to help your teams evaluate the technical options
-      chosen by potential targets * During deep dives to help your startups in the
-      portfolio to upgrade their technologies or cross the deployment or critical
-      pivots * Long-term support, coaching type, technical teams of your startups
-      portfolio - we are the guarantors of the smooth running of the established road
-      map, and whistleblowers in case of unaddressed technical problem\n\nContact
-      us to create an estimate adapted to your needs. "
-    Call To Action: Contact Founders EN
-  - Text: "### CTOs, join us! \n\nBecome a \"Bro\" to launch the next wave of makers!
-      \n\nRemember your beginnings, what happiness if you had a special relationship
-      with a profile like yours today. What impact would that have had on your motivation,
-      on your projects? \n\nIn addition to your current work, invest in new innovative
-      projects. Have a real impact on your ecosystem. Join our community of recognized
-      part-time experts, and make many exciting contacts. \n\nYour time is precious
-      and we make every effort to ensure that your interventions are as effective
-      as possible. All exchanges are done in writing from your desktop or mobile at
-      the time that suits you. \n\nThe hiring process takes 4 hours, which allows
-      us to understand who you are and which project will suit you best. And the pay
-      is substantial, although it's probably not your priority today. "
-    Call To Action: Apply coach EN
 ---
 
 From README:
