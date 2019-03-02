@@ -109,7 +109,7 @@ How it works:
     the challenges of our customers, we use it to get to know them and share years
     of experience.\n\nWritten communication is a **common practice among today's devs
     and CTOs**, in **open source communities**, in **remote companies** and in general
-    in the technical teams of modern companies. This has many advantages:\n*![Structured
+    in the technical teams of modern companies. This has many advantages:\n\n*![Structured
     mentoring](uploads/2640826-512-e24cb2.png)\n\n  More **structured discussions**
     with thinking between exchanges, with the possibility of **linking** and **commenting**
     on a particular document or sentence\n*![Reporting for coaching sessions](uploads/2438288-512.png)\n\n
