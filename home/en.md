@@ -107,9 +107,9 @@ How it works:
   Body:
   - "### 100% live chat\n\nThe **\"one to one\" chat experience** is our way to address
     the challenges of our customers, we use it to get to know them and share years
-    of experience.\n\nWritten communication is a common practice among today's devs
-    and CTOs, in open source communities, in remote companies and in general in the
-    technical departments of modern companies. This has many advantages:\n\n*![Structured
+    of experience.\n\nWritten communication is a **common practice among today's devs
+    and CTOs**, in **open source communities**, in **remote companies** and in general
+    in the technical departments of modern companies. This has many advantages:\n\n*![Structured
     mentoring](uploads/2640826-512-e24cb2.png)\n\nMore structured discussions with
     more reflection between exchanges, with the possibility of transmitting links
     or commenting on a particular document or sentence *![Reporting for coaching sessions](uploads/2438288-512.png)\nA
