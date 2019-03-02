@@ -23,7 +23,7 @@ Let's talk about it!
 
 Fill out the form below, **you will receive temporary access to the chat platform** where you can reach use in real time.
 
-You can also contact us through more traditional ways:
+You can also **contact us through more traditional ways**:
 
 * [By mail](mailto:founders@cto-bro.com)
 * [By WhatsApp](tel:+33676683806)
