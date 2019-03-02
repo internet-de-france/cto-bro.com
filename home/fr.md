@@ -54,9 +54,10 @@ Value Proposition:
     vous apportez le quoi et nous challengons le comment."
   - |-
     ### Les Bros, des Pros !
-    Nous recrutons pour vous des CTOs et lead devs référents dans leurs domaines. Ce ne sont pas des consultants, ce sont des mentors.
 
-    Nos coachs évoluent dans le même cadre que le vôtre, ils sont à plein temps sur un projet ambitieux qui repose sur eux, sur leurs compétences techniques et humaines.
+    Nous recrutons pour vous des **CTOs et lead devs** référents dans leurs domaines. Ce ne sont **pas des consultants**, ce sont des mentors.
+
+    **Nos coachs évoluent dans le même cadre que le vôtre**, ils sont à plein temps sur un projet ambitieux qui repose sur eux, sur leurs compétences techniques et humaines.
 
     En plus d'un accord de confidentialité (NDA) vous pouvez leur faire une confiance aveugle, chaque coach ne suit qu'une seule startup.
   - |-
