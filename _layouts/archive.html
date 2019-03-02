@@ -1,0 +1,119 @@
+<!doctype html><html lang="{%- assign section = site.languages | where: 'title', page.Language | first %}{{- section.code -}}"><head>
+    <meta charset="UTF-8">
+    <!-- generator meta tag -->
+    <!-- leave this for stats and Silex version check -->
+    <meta name="generator" content="Silex v2.2.8">
+    <!-- End of generator meta tag -->
+    <script type="text/javascript" src="js/jquery.js"></script>
+    
+    
+    <script type="text/javascript" src="js/front-end.js"></script>
+    <link rel="stylesheet" href="css/normalize.css">
+    <link rel="stylesheet" href="css/front-end.css">
+
+    
+    
+    
+    <title>{{ page.SEO.Title }} - archive</title>
+    
+
+    
+<meta name="description" content="{{ page.SEO.Description }}"><meta name="twitter:description" content="{{ page.SEO.Description }}"><meta name="og:description" content="{{ page.SEO.Description }}"><meta name="twitter:title" content="{{ page.SEO.Title }}"><meta name="og:title" content="{{ page.SEO.Title }}"><link href="css/logo1-small.png" rel="shortcut icon"><meta name="website-width" content="1200"><meta name="viewport" content="width=device-width, initial-scale=1" data-silex-viewport=""><meta name="hostingProvider" content="jekyll"><meta name="twitter:image" content="https://cto-bro.com/assets/slack-square.png"><meta name="og:image" content="https://cto-bro.com/assets/slack-square.png"><meta name="twitter:card" content="summary"><link href="https://fonts.googleapis.com/css?family=Open+Sans:300" rel="stylesheet" class="silex-custom-font"><script src="js/unslider-min.js"></script><script src="js/unslider-min.js"></script><link rel="stylesheet" href="css/unslider.css"><link rel="stylesheet" href="css/unslider.css"><!-- Silex HEAD tag do not remove --><!-- Google Tag Manager -->
+
+<!-- End Google Tag Manager -->
+<!-- End of Silex HEAD tag do not remove --><script src="js/script.js" type="text/javascript"></script><link href="css/styles.css" rel="stylesheet" type="text/css"><style>body { opacity: 0; transition: .25s opacity ease; }</style></head>
+
+<body class="body-initial enable-mobile all-style not-scrolled silex-runtime silex-published" data-silex-type="container"><div data-silex-type="container" class="prevent-draggable container-element editable-style section-element silex-id-1526975533514-21" style="">
+        
+    <div data-silex-type="html" class="editable-style silex-id-1551303463391-4 html-element hide-on-mobile"><div class="silex-element-content"><style>.silex-runtime #menuToggle {position: fixed; z-index: 100;}#menuToggle a {text-decoration: none; color: #232323; transition: color 0.3s ease;}#menuToggle a:hover {color: #1d428a;}#menuToggle {display: block; z-index: 1; -webkit-user-select: none; user-select: none;}#menuToggle input {display: block; width: 40px; height: 32px; position: absolute; top: -7px; left: -5px; cursor: pointer; opacity: 0; z-index: 2; -webkit-touch-callout: none;}#menuToggle span {display: block; width: 30px; height: 5px; margin-bottom: 3px; position: relative; background-color: black; border: 1px solid white; border-radius: 3px; z-index: 1; transform-origin: 4px 0px; transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0), background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0), opacity 0.55s ease;}#menuToggle span:first-child {transform-origin: 0% 0%;}#menuToggle span:nth-last-child(2) {transform-origin: 0% 100%;}#menuToggle input:checked~span {opacity: 1; transform: rotate(45deg) translate(12px, -8px); background: #232323; border: none;}#menuToggle input:checked~span:nth-child(4) {opacity: 0; transform: rotate(0deg) scale(0.2, 0.2);}#menuToggle input:checked~span:nth-child(3) {transform: rotate(-45deg) translate(0, 14px);}#menuToggle ul {position: absolute; width: 300px; height: 100vh; ;margin: -100px 0 0 -50px; padding: 50px; padding-top: 125px; background: #ededed; list-style-type: none; -webkit-font-smoothing: antialiased; transform-origin: 0% 0%; transform: translate(-100%, 0); transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0);}#menuToggle ul li {padding: 10px 0; font-size: 22px; list-style: none;}#menuToggle input:checked~.list ul {transform: none;}.silex-published #menuToggle .preview {display: none;}#menuToggle .runtime {display: none;}.silex-published #menuToggle .runtime {display: initial;}</style>
+<!--    Made by Erik Terwan    -->
+<!--   24th of November 2015   -->
+<!--        MIT License        -->
+<!-- https://codepen.io/erikterwan/pen/EVzeRP -->
+<nav role="navigation">
+  <div id="menuToggle" class="hide-in-head">
+    <!--
+    A fake / hidden checkbox is used as click reciever,
+    so you can use the :checked selector on it.
+    -->
+    <input type="checkbox" id="hamburger-check">
+    
+    <!--
+    Some spans to act as a hamburger.
+    
+    They are acting like a real hamburger,
+    not that McDonalds stuff.
+    -->
+    <span></span>
+    <span></span>
+    <span></span>
+    
+    <!--
+    Too bad the menu has to be inside of the button
+    but hey, it's pure CSS magic.
+    -->
+    <div class="list preview">
+    <ul>
+      <a href="#"><li>Home</li></a>
+      <a href="#"><li>About</li></a>
+      <a href="#"><li>Info</li></a>
+      <a href="#"><li>Contact</li></a>
+      <a href="https://erikterwan.com/" target="_blank"><li>Show me more</li></a>
+    </ul>
+    </div>
+    <div class="list runtime">
+      {%- assign section = site.header | where: 'title', page['Header'] | first -%}
+      {{ section['Hamburger Text'] | markdownify }}
+    </div>
+  </div>
+</nav>
+</div></div><div data-silex-type="container" class="editable-style silex-element-content silex-container-content container-element prevent-draggable website-width silex-id-1526975533514-22">
+
+            
+        <div data-silex-type="text" class="editable-style silex-id-1551225916177-6 text-element button2 hide-on-mobile nav"><div class="silex-element-content normal">{{ site.header | where: 'title', page['Header'] }}</div></div><a href="./" data-silex-type="image" class="editable-style silex-id-1551401476798-0 image-element"><img src="assets/logo1.png" class="silex-element-content"></a><div data-silex-type="container" class="editable-style silex-id-1551401587816-3 container-element hide-on-desktop" style=""></div></div><div data-silex-type="html" class="editable-style silex-id-1546566249387-11 html-element" style=""><div class="silex-element-content"><!-- Google Tag Manager (noscript) -->
+<noscript>&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PHXFR45"
+height="0" width="0" style="display:none;visibility:hidden"&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;amp;gt;</noscript>
+<!-- End Google Tag Manager (noscript) --></div></div></div>
+    <div class="silex-pages">
+        
+
+        <a id="page-home" data-silex-type="page" class="page-element" href="home.html">Home</a><a id="page-default" data-silex-type="page" class="page-element" href="default.html">default</a><a id="page-contact" href="contact.html" data-silex-type="page" class="page-element">Contact</a><a id="page-archive" href="archive.html" data-silex-type="page" class="page-element page-link-active">archive</a></div>
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-silex-type="container" class="prevent-draggable container-element editable-style section-element silex-id-1550810369684-29 paged-element page-archive page-link-active" style="">
+        <div data-silex-type="container" class="editable-style silex-element-content silex-container-content container-element prevent-draggable website-width silex-id-1550810369684-30"><div data-silex-type="text" class="editable-style text-element silex-id-1550810369684-31 columns columns2 white-left button1" style=""><div class="silex-element-content normal"><p>{%- assign section = page['Audience'] -%}<br>{{ section.Text | markdownify }}<br></p><ul><li>{%- for el in section.Body -%}<br></li><li><h3>{{- el.Title | markdownify -}}</h3>{{- el.Text | markdownify -}}<br><u>{{ site['call-to-action'] | where: 'title', el['Call To Action'] }}</u>{%- endfor -%}</li></ul><br><br></div></div></div>
+    </div><div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1478366450713-3 section-element" style="">
+        <div data-silex-type="container" class="editable-style silex-element-content silex-id-1478366450713-2 silex-container-content container-element prevent-draggable website-width">
+
+            
+        <div data-silex-type="text" class="editable-style text-element silex-id-1527110678730-2 group-style-1 button2" style=""><div class="silex-element-content normal">{%- assign section = site['footer'] | where: 'title', page['Footer'] %}<div>{{ section }}</div></div></div><div data-silex-type="text" class="editable-style text-element silex-id-1527186196672-1 group-style-1 button2" style=""><div class="silex-element-content normal">{%- assign section = site.footer | where: 'title', page['Footer'] | first %}{{ section['Links Text'] | markdownify }}</div></div><div data-silex-type="text" class="editable-style text-element silex-id-1527110862790-3 group-style-1 button1" style=""><div class="silex-element-content normal">{%- assign section = site.footer | where: 'title', page['Footer'] | first %}{{ site['call-to-action'] | where: 'title', section['Call To Action'] }}</div></div></div>
+    </div><div data-silex-type="container" class="prevent-draggable container-element editable-style silex-id-1550813676556-1 section-element"><div data-silex-type="container" class="editable-style silex-id-1550813676553-0 container-element silex-element-content silex-container-content website-width prevent-draggable"><div class="editable-style silex-id-1442914737143-3 text-element center" data-silex-type="text" style="">
+                <div class="silex-element-content normal">{%- assign section = site['footer'] | where: 'title', page['Footer'] | first %}{{ section['Credits Text']  | markdownify }}</div>
+            </div></div></div></body></html>
