@@ -52,7 +52,7 @@ Value Proposition:
   - |-
     ### Save time, choose to be guided
 
-    Mentors make you benefit from their expertise, in groups or individually, occasionally or daily. **No matter the method, we want your success**.
+    Mentors share their expertise, in groups or individually, occasionally or daily. **No matter the method, we want your success**.
 
     In all cases this will be **a rich and personal relationship**.
   Call To Action: Trial EN
