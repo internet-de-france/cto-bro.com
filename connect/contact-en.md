@@ -17,7 +17,7 @@ layout: contact
 
 # Contact CTO Bro
 
-Do you have a question related to coaching? You are a potential partner? A customer?
+Do you have a question related to our coaching? You are a potential partner? A customer?
 
 Let's talk about it !
 
