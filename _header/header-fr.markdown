@@ -12,5 +12,5 @@ Hamburger Text: |-
   * [Connexion](https://cto-bro.slack.com/)
 ---
 
-__[La solution](fr#la-solution-cto-bro)__ __[Tarifs](fr#tarifs)__ __[Contact](contact-fr)__ __[Déja membre?](https://cto-bro.slack.com/)__ 
+__[Un mentor pour quoi faire ?](fr#pourquoi-choisir-le-mentoring-cto-bro)__ __[Notre solution](fr#la-solution-cto-bro)__ __[Tarifs](fr#tarifs)__ __[Contact](contact-fr)__ __[Déja membre?](https://cto-bro.slack.com/)__ 
 <a href="coach-fr">Devenir Coach</a>

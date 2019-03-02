@@ -9,5 +9,5 @@ Hamburger Text: |-
   * [Connexion](https://cto-bro.slack.com/)
 ---
 
-__[La solution](en#)__ __[Tarifs](en#pricing)__ __[Contact](contact-en)__ __[Already a member?](https://cto-bro.slack.com/)__ 
-<a href="coach-fr">Be a Coach</a>
+__[Why you need a mentor?](en#)__ __[Our solution](en#)__ __[Tarifs](en#pricing)__ __[Contact](contact-en)__ __[Already a member?](https://cto-bro.slack.com/)__ 
+<a href="coach-en">Be a Coach</a>
