@@ -19,7 +19,7 @@ layout: contact
 
 Do you have a question related to our coaching? You are a potential partner? A customer?
 
-Let's talk about it !
+Let's talk about it!
 
 Fill out the form below, you will receive temporary access to the chat platform where you can reach use in real time.
 
