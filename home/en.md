@@ -36,7 +36,7 @@ The offer:
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
   Body:
-  - "### CTO Bro makes time\n\nThe digital landscape is **changing fast** - technology,
+  - "### CTO Bro makes time\n\nThe digital landscape is changing fast - technology,
     practices, businesses and especially us, the people. In this area, **success is
     directly linked to the ability to evolve rapidly**.\n\nThe only way to succeed
     is to find the right sources of information, to feel what matters and deserves
