@@ -18,7 +18,7 @@ Hero:
 The offer:
   Body:
   - "## Live Mentoring \n\nCTO bro provides **1:1 chat** with **experienced CTOs**
-    and lead devs. Choose your Bro and meet on a weekly basis.\n\nIn full confidentiality
+    and lead devs. Choose your Bro and **meet on a weekly basis**.\n\nIn full confidentiality
     we support the leaders of tomorrow for their recruitment strategy, management,
     code industrialization, [and other topics](#how-it-works-). Set your goals together
     and get live mentoring in your private chat room.\n\n![Computer_with_tea.png](uploads/computer_with_tea.png)"
