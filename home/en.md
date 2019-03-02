@@ -119,10 +119,11 @@ How it works:
     communication**, even if it's a live chat, you can answer an IRL question or another
     channel without having to put the meeting on hold\n\n*![CTO mentoring coaching](uploads/2068825-512.png)\n\n
     \ More **serene discussions** without the \"noise\" related to the environment
-    - noise in the open space but also due to bad connections, slow computer... "
-  - |-
-    ### How it works ? We set objectives together and, depending on the needs, here's what we do concretely:
-    * Codes reviews on "pull requests" * Architectural meetings and technical choices * Regular points on the recruitment strategy * Innovation consulting, prototyping, MVP, road map
+    - noise in the open space but also due to bad connections, slow computer... \n"
+  - "### How it works ? \n\nWe set **objectives** together and, depending on the needs,
+    here's what we can do concretely:\n\n* Codes reviews on \"pull requests\" * Architectural
+    meetings and technical choices * Regular points on the recruitment strategy *
+    Innovation consulting, prototyping, MVP, road map"
   - "### And this in areas as diverse as\n* Front-end, back-end, dev-ops, databases\n*
     Development of web apps, B2B and B2C platforms, APIs * UI/UX, product management,
     agile organization * leadership, presenting to an audience "
