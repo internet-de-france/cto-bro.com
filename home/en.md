@@ -27,12 +27,11 @@ The offer:
     coaches are passionate about development, growth management, leadership... When
     a question pops in the chat the discussion starts, opinions are expressed and
     challenged for the benefits of your product.\n\n![CTO Bro team](uploads/team2.png)"
-  - "## As a team, your team leads with us \n\nFor teams already structured, we offer
-    a dedicated chat room that allows your \"team leads\" or architects to discuss
-    freely with our network of experts. \n\nIn the privacy of your chat room, all
-    points of view are discussed openly, and our experts are there to bring their
-    experience and feed the debates with intel that will ensure your teams a rapid
-    evolution."
+  - "## Your team leads and us \n\nFor teams already structured, we offer a dedicated
+    chat room that allows your \"team leads\" or architects to discuss freely with
+    our network of experts. \n\nIn the privacy of your chat room, all points of view
+    are discussed openly, and our experts are there to bring their experience and
+    feed the debates with intel that will ensure your teams a rapid evolution."
   Call To Action: Trial EN
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
