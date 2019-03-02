@@ -133,9 +133,9 @@ How it works:
     * leadership, presenting to an audience
   Call To Action: Trial EN
 The team:
-  Text: "## About us, the founders \n\nAs founders of CTO Bro we ensure the recruitment
-    of coaches, and we guarantee you a human experience that will be decisive in your
-    success. "
+  Text: "## About us, the founders \n\nAs founders of CTO Bro we ensure the **recruitment
+    of coaches**, and we guarantee you a **human experience** that will be decisive
+    in your success. "
   Body:
   - "![alex hoyau cto](uploads/alex.jpg) \n## Alex Hoyau\n8 years of XP as a CTO\n\nSkills:
     Architecture, Code industrialisation, Recruitment, Leadership\n\nLinks: [LinkedIn](https://www.linkedin.com/in/webappdev/),
