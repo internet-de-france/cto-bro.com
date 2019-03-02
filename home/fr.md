@@ -144,9 +144,9 @@ How it works:
     courante chez les devs et CTO d’aujourd’hui**, dans les communautés **open source**,
     au sein des entreprises **remote** et en général dans les **services techniques**
     des entreprises modernes. Cela présente de nombreux avantages:\n\n* ![Structured
-    mentoring](uploads/2640826-512-e24cb2.png)\n\n  Des discussions plus structurées
-    avec plus de réflexion entre les échanges, avec possibilité de transmettre des
-    liens ou de commenter un document ou une phrase en particulier \n* ![Reporting
+    mentoring](uploads/2640826-512-e24cb2.png)\n\n  Des discussions **plus structurées**
+    avec plus de réflexion entre les échanges, avec possibilité de **transmettre des
+    liens** ou de **commenter un document** ou une phrase en particulier \n* ![Reporting
     for coaching sessions](uploads/2438288-512.png)\n  \n  Une traçabilité des échanges,
     recherche d’infos dans l’historique, monitoring possible de l’activité pour détecter
     un éventuel dysfonctionnement et suivi de la facturation\n* ![Asynchrone mentoring](uploads/2951044-512.png)\n
