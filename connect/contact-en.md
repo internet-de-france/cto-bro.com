@@ -2,7 +2,7 @@
 title: Contact EN
 date: 2019-02-26 23:37:00 +01:00
 permalink: contact-en
-position: 4
+position: 1
 layout: contact
 Language: English
 SEO:
