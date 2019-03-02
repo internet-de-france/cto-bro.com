@@ -140,18 +140,18 @@ How it works:
   Body:
   - "### 100% live chat\n\nL’expérience du **chat en “one to one”** nous permet d’adresser
     les problématiques de nos clients, d’apprendre à les connaître pour leur faire
-    profiter d’années d’expérience.\n\nLe fait de passer par l’écrit est une pratique
-    courante chez les devs et CTO d’aujourd’hui, dans les communautés open source,
-    au sein des entreprises “remote” et en général dans les services techniques des
-    entreprises modernes. Cela présente de nombreux avantages:\n\n* ![Structured mentoring](uploads/2640826-512-e24cb2.png)\n\n
-    \ Des discussions plus structurées avec plus de réflexion entre les échanges,
-    avec possibilité de transmettre des liens ou de commenter un document ou une phrase
-    en particulier \n* ![Reporting for coaching sessions](uploads/2438288-512.png)\n
-    \ \n  Une traçabilité des échanges, recherche d’infos dans l’historique, monitoring
-    possible de l’activité pour détecter un éventuel dysfonctionnement et suivi de
-    la facturation\n* ![Asynchrone mentoring](uploads/2951044-512.png)\n  \n  Une
-    communication plus asynchrone, même si c’est un live chat, on peut répondre à
-    une question IRL ou sur un autre canal sans devoir mettre la réunion en attente\n*
+    profiter d’années d’expérience.\n\nLe fait de passer par l’écrit est une **pratique
+    courante chez les devs et CTO d’aujourd’hui**, dans les communautés **open source**,
+    au sein des entreprises **remote** et en général dans les **services techniques**
+    des entreprises modernes. Cela présente de nombreux avantages:\n\n* ![Structured
+    mentoring](uploads/2640826-512-e24cb2.png)\n\n  Des discussions plus structurées
+    avec plus de réflexion entre les échanges, avec possibilité de transmettre des
+    liens ou de commenter un document ou une phrase en particulier \n* ![Reporting
+    for coaching sessions](uploads/2438288-512.png)\n  \n  Une traçabilité des échanges,
+    recherche d’infos dans l’historique, monitoring possible de l’activité pour détecter
+    un éventuel dysfonctionnement et suivi de la facturation\n* ![Asynchrone mentoring](uploads/2951044-512.png)\n
+    \ \n  Une communication plus asynchrone, même si c’est un live chat, on peut répondre
+    à une question IRL ou sur un autre canal sans devoir mettre la réunion en attente\n*
     ![CTO mentoring coaching](uploads/2068825-512.png)\n\n  Des discussions plus sereines
     sans le “bruit” lié à l’environnement - bruit dans l’open space mais aussi mauvaises
     connexions, ordinateur qui rame…\n"
