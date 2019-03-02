@@ -3,7 +3,6 @@ title: Contact EN
 date: 2019-02-26 23:37:00 +01:00
 permalink: contact-en
 position: 0
-layout: contact
 Language: English
 SEO:
   Title: Contact CTO Bro
@@ -13,11 +12,12 @@ SEO:
     Contact CTO Bro!
 Header: Header EN
 Footer: Footer EN
+layout: contact
 ---
 
 # Contact CTO Bro
 
-Do you have a question related to coaching? You are a potential partner? A customer ?
+Do you have a question related to coaching? You are a potential partner? A customer?
 
 Let's talk about it !
 
