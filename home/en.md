@@ -44,8 +44,7 @@ Value Proposition:
     recognized experts in their fields. They are **not consultants, they are mentors**.\n\nOur
     coaches evolve in **the same environment as yours**, they are full time on their
     ambitious project which relies on them, on their technical and human skills. **Just
-    like you do**.\n\nIn addition to a non disclosure agreement (NDA) you can trust
-    them blindly, each coach follows only one startup.\n"
+    like you do**.\n"
   - |-
     ### Save time, choose to be guided
 
