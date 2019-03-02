@@ -121,7 +121,7 @@ How it works:
     \ More **serene discussions** without the \"noise\" related to the environment
     - noise in the open space but also due to bad connections, slow computer... \n"
   - "### How it works ? \n\nWe set **objectives** together and, depending on the needs,
-    here's what we can do concretely:\n\n* Codes reviews on \"pull requests\" * Architectural
+    here's what we can do:\n\n* Codes reviews on \"pull requests\" * Architectural
     meetings and technical choices * Regular points on the recruitment strategy *
     Innovation consulting, prototyping, MVP, road map"
   - "### And this in areas as diverse as\n* Front-end, back-end, dev-ops, databases\n*
