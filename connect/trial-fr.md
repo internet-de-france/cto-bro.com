@@ -15,7 +15,7 @@ layout: contact
 
 # Essayez CTO Bro
 
-Immédiatement après avoir rempli ce questionnaire, vous recevrez un accès gratuit à la communauté des coachs. Pendant 24h vous pourez poser des questions techniques ou non, utiles pour votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre coach si vous [souscrivez au plan "Founder"](fr#tarifs).
+Immédiatement après avoir rempli ce questionnaire vous recevrez un accès gratuit à la communauté des coachs. Pendant 24h vous pourez poser des questions utiles à votre business ou pour comprendre CTO Bro. Profitez-en aussi pour commencer à connaitre les coachs CTO Bro, en vue de choisir votre coach si vous [souscrivez au plan "Founder"](fr#tarifs).
 
 Pour des raisons de confidentialité, tous les champs excepté l'email sont optionnels. 
 
