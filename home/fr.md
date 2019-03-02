@@ -75,7 +75,7 @@ The solution:
 
     ### Profitez de l’expérience de vos pairs
 
-    Nos années d’expérience comme lead dev ou CTO nous permettent de vous faire profiter d’un point de vue extérieur intéressant, de contacts et d’idées qui font sens.
+    Nos années d’expérience comme lead dev ou CTO nous permettent de vous faire profiter d’un **point de vue extérieur intéressant**, de **contacts** et d’**idées qui font sens**.
   - "![Mentoring by CTO Bro](uploads/1422524-512.png)\n\n### Mentoring sur mesure\n\nNous
     choisissons avec vous la personne qui a l’expertise dont vous avez besoin, pour
     un ROI immédiat. \n"
