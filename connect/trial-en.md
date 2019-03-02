@@ -3,7 +3,6 @@ title: Trial EN
 date: 2019-02-25 23:37:00 +01:00
 permalink: trial-en
 position: 2
-layout: contact
 Language: English
 SEO:
   Title: Try CTO Bro for free
@@ -11,11 +10,12 @@ SEO:
     with exceptional mentors.
 Header: Header EN
 Footer: Footer EN
+layout: contact
 ---
 
 # Try CTO Bro for free
 
-Immediately after filling out this questionnaire, you will receive unlimited free access to the coach community. During 24h you can ask questions useful for your business or to understand CTO Bro. Take the opportunity to get to know the coaches, in order to choose your coach if you [subscribe to the plan "Founder"](en#pricing).
+Immediately after filling out this questionnaire, you will receive a free access to the coach community. During 24h you can ask questions useful to your business or to understand CTO Bro. Take the opportunity to get to know the coaches, in order to choose your coach if you [subscribe to the plan "Founder"](en#pricing).
 
 For privacy reasons, all fields except email are optional. 
 
