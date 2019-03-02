@@ -110,10 +110,10 @@ How it works:
     of experience.\n\nWritten communication is a **common practice among today's devs
     and CTOs**, in **open source communities**, in **remote companies** and in general
     in the technical teams of modern companies. This has many advantages:\n\n*![Structured
-    mentoring](uploads/2640826-512-e24cb2.png)\n\n  More structured discussions with
-    thinking between exchanges, with the possibility of transmitting links or commenting
-    on a particular document or sentence *![Reporting for coaching sessions](uploads/2438288-512.png)\nA
-    traceability of the exchanges, search of information in the history, possible
+    mentoring](uploads/2640826-512-e24cb2.png)\n\n  More **structured discussions**
+    with thinking between exchanges, with the possibility of **linking** and **commenting**
+    on a particular document or sentence\n\n*![Reporting for coaching sessions](uploads/2438288-512.png)\n\n
+    \ A traceability of the exchanges, search of information in the history, possible
     monitoring of the activity to detect a possible dysfunction and follow-up of the
     invoicing *![Asynchronous mentoring](uploads/2951044-512.png)\nMore asynchronous
     communication, even if it's a live chat, you can answer an IRL question or another
