@@ -26,7 +26,7 @@ The offer:
     Ask a question 24/7 and get the answer in minutes, or a work day at most. \n\nAll
     coaches are passionate about development, growth management, leadership... When
     a question pops in the chat the discussion starts, opinions are expressed and
-    confronted for the benefits of your product.\n\n![CTO Bro team](uploads/team2.png)"
+    challenged for the benefits of your product.\n\n![CTO Bro team](uploads/team2.png)"
   - "## As a team, your team leads with us \n\nFor teams already structured, we offer
     a dedicated chat room that allows your \"team leads\" or architects to discuss
     freely with our network of experts. \n\nIn the privacy of your chat room, all
