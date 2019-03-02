@@ -43,8 +43,8 @@ Value Proposition:
     your time and attention. It is **an instinct that is acquired** with work and
     experience. \n\nWe offer you no more than this: you bring the what and we challenge
     the how."
-  - "### The Bros, the pros! \n\nWe recruit for you CTOs and lead devs who are recognized
-    experts in their fields. They are not consultants, **they are mentors**.\n\nOur
+  - "### The Bros, the pros! \n\nWe hire for you the best CTOs and lead devs who are
+    recognized experts in their fields. They are **not consultants, they are mentors**.\n\nOur
     coaches evolve in the same environment as yours, they are full time on their ambitious
     project which relies on them, on their technical and human skills. Just like you
     do.\n\nIn addition to a non disclosure agreement (NDA) you can trust them blindly,
