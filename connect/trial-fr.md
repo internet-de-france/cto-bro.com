@@ -1,8 +1,8 @@
 ---
-layout: contact
 title: Trial FR
 date: 2019-02-25 23:37:00 +01:00
 permalink: trial-fr
+layout: contact
 Language: Français
 SEO:
   Title: Essayer CTO Bro gratuitement
@@ -10,7 +10,6 @@ SEO:
     100% live avec des mentors d'exception.
 Header: Header FR
 Footer: Footer FR
-layout: contact
 ---
 
 # Essayez CTO Bro

@@ -1,8 +1,8 @@
 ---
-layout: contact
 title: Coach EN
 date: 2019-02-26 23:48:00 +01:00
 permalink: coach-en
+layout: contact
 Language: English
 SEO:
   Title: Become a mentor, make the makers of tomorrow

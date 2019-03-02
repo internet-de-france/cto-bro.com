@@ -1,8 +1,8 @@
 ---
-layout: contact
 title: Contact FR
 date: 2019-02-26 23:37:00 +01:00
 permalink: contact-fr
+layout: contact
 Language: Français
 SEO:
   Title: Contacter CTO Bro

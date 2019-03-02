@@ -17,10 +17,10 @@ Hero:
   Call To Action: Trial EN
 The offer:
   Body:
-  - "## Live Mentoring \n\nCTO bro provides 1:1 chat with experienced lead devs and
-    CTOs. Choose your Bro and meet on a weekly basis.\n\nIn full confidentiality we
-    support the leaders of tomorrow for their recruitment strategy, management, code
-    industrialization, [and other topics](#how-it-works-). Set your goals together
+  - "## Live Mentoring \n\nCTO bro provides **1:1 chat** with **experienced CTOs**
+    and lead devs. Choose your Bro and meet on a weekly basis.\n\nIn full confidentiality
+    we support the leaders of tomorrow for their recruitment strategy, management,
+    code industrialization, [and other topics](#how-it-works-). Set your goals together
     and get live mentoring in your private chat room.\n\n![Computer_with_tea.png](uploads/computer_with_tea.png)"
   - "## Private network of experts \n\nOur top expert mentors are available round-the-clock.
     Ask a question 24/7 and get the answer in minutes, or a day at most. \n\nAll coaches
