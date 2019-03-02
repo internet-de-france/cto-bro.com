@@ -115,8 +115,8 @@ How it works:
     on a particular document or sentence\n\n*![Reporting for coaching sessions](uploads/2438288-512.png)\n\n
     \ A **traceability** of the exchanges, **search** of information in the history,
     **monitoring** of the activity to detect a possible dysfunction and estimate the
-    time spent\n\n *![Asynchronous mentoring](uploads/2951044-512.png)\n\n  More asynchronous
-    communication, even if it's a live chat, you can answer an IRL question or another
+    time spent\n\n *![Asynchronous mentoring](uploads/2951044-512.png)\n\n  More **asynchronous
+    communication**, even if it's a live chat, you can answer an IRL question or another
     channel without having to put the meeting on hold *![CTO mentoring coaching](uploads/2068825-512.png)\n\nMore
     serene discussions without the \"noise\" related to the environment - noise in
     the open space but also bad connections, computer rowing ... "
