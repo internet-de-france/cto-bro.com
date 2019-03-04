@@ -10,5 +10,5 @@ Hamburger Text: |
   * [Already a member?](https://cto-bro.slack.com/)
 ---
 
-__[Why you need a mentor?](en#)__ __[Our solution](en#)__ __[Pricing](en#pricing)__ __[Contact](contact-en)__ __[Already a member?](https://cto-bro.slack.com/)__ 
+__[Why you need a mentor?](en#)__ __[Our solution](en#our-solution)__ __[Pricing](en#pricing)__ __[Contact](contact-en)__ __[Already a member?](https://cto-bro.slack.com/)__ 
 <a href="coach-en">Be a Coach</a>
