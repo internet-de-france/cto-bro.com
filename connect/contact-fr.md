@@ -19,7 +19,7 @@ layout: contact
 
 Vous avez une question en rapport avec le coaching ? Vous êtes un partenaire potentiel ? Un client ?
 
-Parlons-en !
+**Parlons-en !**
 
 Remplissez le formulaire ci-dessous, vous recevrez un accès temporaire à la plateforme de chat. 
 
