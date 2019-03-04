@@ -43,7 +43,7 @@ The offer:
     Dans la confidentialité de votre chat room, tous les points de vue se discutent ouvertement, et votre Bro est là pour apporter son expérience et alimenter les débats d’éléments concrets qui assureront à vos équipes une évolution rapide.
   Call To Action: Trial FR
 Value Proposition:
-  Text: "## Pourquoi choisir le mentoring CTO Bro?"
+  Text: "## Pourquoi choisir le mentoring CTO Bro ?"
   Body:
   - "### CTO Bro, des années d’avance\n\nUne seule solution pour réussir : trouver
     **les bonnes sources d’information**, sentir **ce qui mérite du temps** et de
