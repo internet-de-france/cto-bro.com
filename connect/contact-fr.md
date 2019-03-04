@@ -23,7 +23,7 @@ Parlons-en !
 
 Remplissez le formulaire ci-dessous, vous recevrez un accès temporaire à la plateforme de chat. 
 
-Vous pouvez aussi nous contacter par [Par mail](mailto:founders@cto-bro.com) et [Par WhatsApp](tel:+33676683806).
+Vous pouvez aussi nous contacter [par mail](mailto:founders@cto-bro.com) et [par WhatsApp](tel:+33676683806).
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
