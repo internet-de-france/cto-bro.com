@@ -30,7 +30,7 @@ The offer:
   - |-
     ## Réseau privé d’experts
 
-    Nos meilleurs mentors vous répondent **rapidement sur tous les sujets**. Posez une question et obtenez la **réponse en quelques minutes**, ou un jour ouvré au plus.
+    Nos meilleurs mentors vous répondent **rapidement sur tous les sujets**. Posez une question et obtenez la **réponse en quelques minutes**, à un jour ouvré maximum
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors **la discussion est ouverte** et les opinions tranchées se confrontent **au service de votre produit**.
 
