@@ -2,7 +2,7 @@
 title: Header EN
 date: 2019-02-20 23:56:00 +01:00
 Hamburger Text: |
-  * [Home](en#get-your-cto-a-bro-)
+  * [Home](en#get-your-cto-a-bro)
   * [Why you need a mentor?](en#why-choose-cto-bro-mentoring)
   * [Our solution](en#our-solution)
   * [Pricing](en#pricing)
