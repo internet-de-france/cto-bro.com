@@ -24,7 +24,7 @@ The offer:
 
     CTO Bro c’est du **chat en direct** avec des lead devs et **CTOs expérimentés**. Choisissez votre coach et faites le point deux fois par semaine.
 
-    En toute confidentialité, nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
+    En toute confidentialité, nous soutenons les leaders de demain pour leur stratégie de recrutement, pour le management, pour l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
 
     ![computer_with_tea.png](uploads/computer_with_tea.png)
   - |-
