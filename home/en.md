@@ -27,7 +27,7 @@ The offer:
     \n\nAll coaches are passionate about development, growth management, leadership...
     When a question pops in the chat the discussion starts, **opinions are challenged**
     for the **benefits of your product**.\n\n![CTO Bro team](uploads/team2.png)"
-  - "## Your team leads and us \n\nFor teams already structured, we offer a **dedicated
+  - "## Your team leads, and us \n\nFor teams already structured, we offer a **dedicated
     chat room** that allows your \"team leads\" or architects to **discuss freely
     with our experts**. \n\nIn the privacy of your chat room, all points of view are
     discussed openly, and your Bro is here to bring their experience and feed the
