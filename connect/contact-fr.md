@@ -3,7 +3,6 @@ title: Contact FR
 date: 2019-02-26 23:37:00 +01:00
 permalink: contact-fr
 position: 1
-layout: contact
 Language: Français
 SEO:
   Title: Contacter CTO Bro
@@ -13,6 +12,7 @@ SEO:
     Contactez CTO Bro !
 Header: Header FR
 Footer: Footer FR
+layout: contact
 ---
 
 # Contacter CTO Bro
@@ -23,10 +23,7 @@ Parlons-en !
 
 Remplissez le formulaire ci-dessous, vous recevrez un accès temporaire à la plateforme de chat. 
 
-Vous pouvez aussi nous contactez par des biais plus traditionnels :
-
-* [Par mail](mailto:founders@cto-bro.com)
-* [Par WhatsApp](tel:+33676683806)
+Vous pouvez aussi nous contacter par [Par mail](mailto:founders@cto-bro.com) et [Par WhatsApp](tel:+33676683806).
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
