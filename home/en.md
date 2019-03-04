@@ -11,7 +11,7 @@ Header: Header EN
 Footer: Footer EN
 Hero:
   Text: |-
-    # Get your CTO a bro !
+    # Get your CTO a bro!
 
     ## Secure your growth with our technical expertise
   Call To Action: Trial EN
