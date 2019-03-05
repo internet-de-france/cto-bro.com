@@ -11,10 +11,30 @@ function testScroll() {
     }
     // close the menu
     $('#hamburger-check').attr('checked', false);
+    
+    // apply scroll with silex offset due to body transform
+    $fixedElements.each(function($obj) {
+        console.log($(this), $(this).get(0))
+        var scrollNew = (scroll + $(this).get(0).offsetTop) / window.silex.resizeRatio;
+        $(this).get(0).$el.css({
+            'top': window.silex.resizeRatio === 1 ? '' : scrollNew + 'px',
+            'position': 'fixed'
+        });
+    });
 }
+var fixedElements = $([]);
 $(function() {
+    // store all fixed elements with their initial top position
+    $fixedElements = $('.fixed').map(function(el) { 
+        return {
+            offsetTop: $(this).offset().top,
+            $el: $(this)
+        };
+    });
+    // init scroll and listeeners
     window.addEventListener('scroll', testScroll);
     testScroll();
+    // init lang as a class on the body
     var lang = $('html').attr('lang');
     $('body').addClass('page-lang-' + lang);
 })
