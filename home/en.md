@@ -17,27 +17,16 @@ Hero:
   Call To Action: Trial EN
 The offer:
   Body:
-  - |-
-    ## Live Mentoring 
-    
-    CTO bro provides **1:1 chat** with **experienced CTOs**
-    and lead devs. Choose your Bro and **meet on a weekly basis**.
-    
-    In full confidentiality
-    we support the leaders of tomorrow for their recruitment strategy, management,
-    code industrialization, [and other topics](#how-it-works-). Set your goals together
-    and get live mentoring in your private chat room.
-    
-    ![Computer_with_tea.png](uploads/computer_with_tea.png)
-  - |-
-    ## Private network of experts 
-  
-    Our best mentors answer **questions on any topic**. Ask a question and get **the answer in minutes**, or a work day at most.
-    
-    
-    All coaches are passionate about development, growth management, leadership...
-
-    When a question pops in the chat the discussion starts, **opinions are challenged** for the **benefits of your product**.
+  - "## Live Mentoring \n\nCTO bro provides **1:1 chat** with **experienced CTOs**\nand
+    lead devs. Choose your Bro and **meet on a weekly basis**.\n\nIn full confidentiality\nwe
+    support the leaders of tomorrow for their recruitment strategy, management,\ncode
+    industrialization, [and other topics](#how-it-works-). Set your goals together\nand
+    get live mentoring in your private chat room.\n\n![Computer_with_tea.png](uploads/computer_with_tea.png)"
+  - "## Private network of experts \n\nOur best mentors answer **questions on any
+    topic**. Ask a question and get **the answer in minutes**, or a work day at most.\n\n\nAll
+    coaches are passionate about development, growth management, leadership...\n\nWhen
+    a question pops in the chat the discussion starts, **opinions are challenged**
+    for the **benefits of your product**."
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
   Body:
