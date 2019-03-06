@@ -10,6 +10,8 @@ Links Text: |
   [LinkedIn](https://www.linkedin.com/company/cto-bro/)
 
   [Tarifs](fr#tarifs)
+
+  [Privacy Policy](https://docs.google.com/document/d/e/2PACX-1vQgdL0AoIdUWpeK_3K2p2Gd5UMestpvm45-fA-9tnTR_KOK2vd8QEnp4ImfOmjzc39tZjNJyixoJ03m/pub)
 Credits Text: Powered by [Silex](https://www.silex.me), [Jekyll](https://jekyllrb.com/)
   and [Siteleaf](https://www.siteleaf.com/)
 ---
