@@ -3,17 +3,15 @@ title: Recrut FR
 date: 2019-02-21 01:13:00 +01:00
 permalink: "/recrut-fr"
 position: 0
-layout: recrut
 Language: Français
 SEO:
   Title: CTO, bro - Coaching startups
   Description: Votre client cherche un CTO ? Nous donnons de la valeur à vos candidats
     actifs.
-Header: 
 Footer: Footer FR
 Hero:
   Text: |-
-    # Des **C-levels** dans vos<br>**mid-levels** !
+    # Des **C-levels** dans vos<br>**mid-levels**!
     ## Donnez de la **valeur** à vos<br>**candidats** actifs.
   Call To Action: Contact Founders FR
 The offer:
@@ -79,6 +77,7 @@ Testimonials:
     > Les grands mentors vont au-delà des questions, ils inspirent. CTO Bro est une solution qui apporte autant aux mentors qu’aux mentorés dans la mise en relation et le développement des compétences.
 
     Christophe Hébert, CEO @ Bluecoders
+layout: recrut
 ---
 
 From README:
