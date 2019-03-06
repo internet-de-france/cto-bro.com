@@ -38,21 +38,20 @@ Vous pouvez aussi nous contacter [par mail](mailto:founders@cto-bro.com) et [par
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email  <span class="asterisk">*</span></label>
 	<input placeholder="olivia@company.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">Prénom </label>
-	<input placeholder="Olivia" type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<label for="mce-FNAME">Prénom  <span class="asterisk">*</span></label>
+	<input placeholder="Olivia" type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Nom de famille </label>
-	<input placeholder="Pope" type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<label for="mce-LNAME">Nom de famille  <span class="asterisk">*</span></label>
+	<input placeholder="Pope" type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-COMPANY">Nom de votre entreprise </label>
-	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
+	<label for="mce-COMPANY">Nom de votre entreprise  <span class="asterisk">*</span></label>
+	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="required" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>

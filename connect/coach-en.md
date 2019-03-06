@@ -17,7 +17,9 @@ layout: contact
 
 Thank you for your interest and welcome to our community of experts.
 
-Immediately after completing this questionnaire, **you will have access to our slack platform**. There we can get to know you so you can quickly become a Bro.
+Immediately after completing this questionnaire, **you will have access to our slack platform**.
+
+There we can get to know you so you can quickly become a Bro.
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -32,21 +34,20 @@ Immediately after completing this questionnaire, **you will have access to our s
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email Address  <span class="asterisk">*</span></label>
 	<input placeholder="olivia@company.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">First Name </label>
-	<input placeholder="Olivia" type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<label for="mce-FNAME">First Name   <span class="asterisk">*</span></label>
+	<input placeholder="Olivia" type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
-	<input placeholder="Pope" type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<label for="mce-LNAME">Last Name   <span class="asterisk">*</span></label>
+	<input placeholder="Pope" type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-COMPANY">Company </label>
-	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
+	<label for="mce-COMPANY">Company   <span class="asterisk">*</span></label>
+	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="required" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>

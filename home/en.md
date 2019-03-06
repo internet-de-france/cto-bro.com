@@ -17,22 +17,27 @@ Hero:
   Call To Action: Trial EN
 The offer:
   Body:
-  - "## Live Mentoring \n\nCTO bro provides **1:1 chat** with **experienced CTOs**
-    and lead devs. Choose your Bro and **meet on a weekly basis**.\n\nIn full confidentiality
+  - |-
+    ## Live Mentoring 
+    
+    CTO bro provides **1:1 chat** with **experienced CTOs**
+    and lead devs. Choose your Bro and **meet on a weekly basis**.
+    
+    In full confidentiality
     we support the leaders of tomorrow for their recruitment strategy, management,
     code industrialization, [and other topics](#how-it-works-). Set your goals together
-    and get live mentoring in your private chat room.\n\n![Computer_with_tea.png](uploads/computer_with_tea.png)"
-  - "## Private network of experts \n\nOur best mentors answer **questions on any
-    topic**. Ask a question and get **the answer in minutes**, or a work day at most.
-    \n\nAll coaches are passionate about development, growth management, leadership...
-    When a question pops in the chat the discussion starts, **opinions are challenged**
-    for the **benefits of your product**.\n\n![CTO Bro team](uploads/team2.png)"
-  - "## Your team leads, and us \n\nFor teams already structured, we offer a **dedicated
-    chat room** that allows your \"team leads\" or architects to **discuss freely
-    with our experts**. \n\nIn the privacy of your chat room, all points of view are
-    discussed openly, and your Bro is here to bring their experience and feed the
-    debates with intel that will ensure your team a rapid evolution."
-  Call To Action: Trial EN
+    and get live mentoring in your private chat room.
+    
+    ![Computer_with_tea.png](uploads/computer_with_tea.png)
+  - |-
+    ## Private network of experts 
+  
+    Our best mentors answer **questions on any topic**. Ask a question and get **the answer in minutes**, or a work day at most.
+    
+    
+    All coaches are passionate about development, growth management, leadership...
+
+    When a question pops in the chat the discussion starts, **opinions are challenged** for the **benefits of your product**.
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
   Body:
@@ -69,6 +74,7 @@ The solution:
     \n\nYou have the choice of the coaching style: code reviews, brainstorming, daily
     meeting, group chat between several experts and your collaborators. Take exactly
     what you need."
+  Call To Action: Trial EN
 Testimonials:
   Body:
   - "![Jb.jpg](uploads/jb.jpg) \n\n> What I value the most is to obtain concrete recommendations

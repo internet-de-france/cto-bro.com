@@ -15,9 +15,11 @@ layout: contact
 
 # Essayez CTO Bro
 
-Immédiatement après avoir rempli ce questionnaire vous recevrez un accès gratuit à la communauté des coachs. Pendant 24h vous pourez poser des questions utiles à votre business ou pour comprendre CTO Bro. Profitez-en aussi pour faire connaissance avec les coachs CTO Bro, en vue de choisir votre coach si vous [souscrivez au plan "Founder"](fr#tarifs).
+Immédiatement après avoir rempli ce questionnaire vous recevrez un accès gratuit à la communauté des coachs.
 
-Pour des raisons de confidentialité, tous les champs excepté l'email sont optionnels. 
+Pendant 24h vous pourez poser des questions utiles à votre business ou pour comprendre CTO Bro.
+
+Profitez-en aussi pour faire connaissance avec les coachs CTO Bro, en vue de choisir votre coach si vous [souscrivez au plan "Founder"](fr#tarifs).
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
@@ -32,21 +34,20 @@ Pour des raisons de confidentialité, tous les champs excepté l'email sont opti
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
-	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
-</label>
+	<label for="mce-EMAIL">Email  <span class="asterisk">*</span></label>
 	<input placeholder="olivia@company.com" type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
 <div class="mc-field-group">
-	<label for="mce-FNAME">Prénom </label>
-	<input placeholder="Olivia" type="text" value="" name="FNAME" class="" id="mce-FNAME">
+	<label for="mce-FNAME">Prénom  <span class="asterisk">*</span></label>
+	<input placeholder="Olivia" type="text" value="" name="FNAME" class="required" id="mce-FNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-LNAME">Nom de famille </label>
-	<input placeholder="Pope" type="text" value="" name="LNAME" class="" id="mce-LNAME">
+	<label for="mce-LNAME">Nom de famille  <span class="asterisk">*</span></label>
+	<input placeholder="Pope" type="text" value="" name="LNAME" class="required" id="mce-LNAME">
 </div>
 <div class="mc-field-group">
-	<label for="mce-COMPANY">Nom de votre entreprise </label>
-	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="" id="mce-COMPANY">
+	<label for="mce-COMPANY">Nom de votre entreprise  <span class="asterisk">*</span></label>
+	<input placeholder="Quinn Perkins and Associates" type="text" value="" name="COMPANY" class="required" id="mce-COMPANY">
 </div>
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
