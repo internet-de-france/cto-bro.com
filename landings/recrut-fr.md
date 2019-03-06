@@ -11,7 +11,7 @@ SEO:
 Footer: Footer FR
 Hero:
   Text: |-
-    # Des **C-levels** dans vos<br>**mid-levels**!
+    # Des **C-levels** dans vos<br>**mid-levels**
     ## Donnez de la **valeur** à vos<br>**candidats** actifs.
   Call To Action: Contact Founders FR
 The offer:
