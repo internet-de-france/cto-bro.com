@@ -31,7 +31,7 @@ The offer:
     Nous faisons passer à un niveau supérieur les lead dev.
 
     Vous ne laissez pas le candidat seul face à votre client,
-    il est accompagné de nombreuses années d'expériences similaires.
+    il est accompagné des années d'expériences similaires de son coach CTO Bro.
   Call To Action: Contact Founders FR
 Value Proposition:
   Text: "## The smart way to find a CTO\nNous avons constaté que le talent brut est
