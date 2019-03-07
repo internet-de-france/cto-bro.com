@@ -21,8 +21,7 @@ The offer:
 
     CTO Bro c’est du **chat en direct** avec des **CTO expérimentés**.
 
-    Avec notre service, votre candidat sera en mesure de prendre le poste de CTO que votre client propose.
-
+    Avec notre service, votre candidat sera en mesure de prendre le poste de CTO pour lequel vous sourcez.
 
 
     ![CTO Bro chat](uploads/2951044-512.png)
