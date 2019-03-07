@@ -61,7 +61,7 @@ The solution:
 
     Notre offre est 100% online, vous pouvez recruter dans le monde entier, et même pour les postes en remote.
 
-    Nos coachs sont principalement français et ils parlent anglais couramment, comme toute personne à un poste de ce calibre.
+    Nos coachs sont principalement français et parlent couramment anglais comme il convient à un poste de ce niveau.
   Call To Action: Contact Founders FR
 Testimonials:
   Body:
