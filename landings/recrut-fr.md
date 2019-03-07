@@ -85,4 +85,4 @@ From README:
 L'idée derrière CTO Bro est de vous permettre 
 Ne pas sourcer des CTO expérimentés
 Candidats actifs moins qualifés
-
+Accompagnement, mentoring, coaching
