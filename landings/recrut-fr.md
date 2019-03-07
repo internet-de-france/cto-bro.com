@@ -28,8 +28,7 @@ The offer:
   - |-
     ## CTO Bro, des années d’avance
 
-    Nous faisons passer à un niveau supérieur les lead dev en ce qui concerne
-    le recrutement, le management, l’industrialisation de code et bien plus.
+    Nous faisons passer à un niveau supérieur les lead dev.
 
     Vous ne laissez pas le candidat seul face à votre client,
     il est accompagné de nombreuses années d'expériences similaires.
