@@ -37,7 +37,7 @@ Value Proposition:
   Text: "## The smart way to find a CTO\nNous avons constaté que le talent brut est
     un **excellent choix pour une startup**.\n\nLes candidats sont moins chers et
     plus fidèles, mais pas moins sérieux.\n\nCes **candidats mid-level** sont **disponibles
-    et disposés** ! "
+    et motivés** ! "
   Body:
   - |-
     ### Disponibilité
