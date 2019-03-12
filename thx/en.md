@@ -5,6 +5,7 @@ permalink: "/thx-en"
 Language: English
 SEO:
   Title: Contact request received
+Footer: Footer EN
 ---
 
 ## Contact request received
