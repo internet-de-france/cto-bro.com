@@ -22,7 +22,7 @@ The offer:
   - |-
     ## Mentorat en direct
 
-    CTO Bro c’est du **chat en direct** avec des lead devs et **CTOs expérimentés**. Choisissez votre coach et faites le point deux fois par semaine.
+    CTO Bro c’est du **chat en direct** avec des lead devs et **CTOs expérimentés**. Choisissez votre coach et faites le point chaque semaine.
 
     En toute confidentialité, nous soutenons les leaders de demain pour leur stratégie de recrutement, le management, l’industrialisation de code [et bien plus](#comment-ça-marche-). Définissons ensemble vos objectifs et bénéficiez d’un mentorat en direct dans votre chat room privée.
 
@@ -33,7 +33,7 @@ The offer:
     Nos meilleurs mentors vous répondent **rapidement sur tous les sujets**. Posez une question et obtenez la **réponse en quelques minutes**, à un jour ouvré maximum
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors **la discussion est ouverte** et les opinions se confrontent **au service de votre produit**.
-  Call To Action: ''
+  Call To Action: 
 Value Proposition:
   Text: "## Pourquoi choisir le mentoring CTO Bro ?"
   Body:
@@ -104,7 +104,7 @@ Pricing:
 
       Pour les **CTO co-founders**, qui doivent créer un produit, mettre en place une équipe.
 
-      **1h/semaine** de coaching + accès à la **communauté d’experts**.
+      **30 min/semaine** de coaching + accès à la **communauté d’experts**.
 
       * Choisissez un coach en qui vous avez confiance
       * Planifiez jusqu'à 4h heures par mois de live chat privé avec votre “bro”
