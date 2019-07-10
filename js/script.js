@@ -1,4 +1,5 @@
 
+
 function testScroll() {
     var scroll = $('html').scrollTop();
     if(scroll > 100) {
@@ -11,15 +12,6 @@ function testScroll() {
     }
     // close the menu
     $('#hamburger-check').attr('checked', false);
-    
-    // apply scroll with silex offset due to body transform
-    $fixedElements.each(function($obj) {
-        var scrollNew = (scroll + $(this).get(0).offsetTop) / window.silex.resizeRatio;
-        $(this).get(0).$el.css({
-            'top': window.silex.resizeRatio === 1 ? '' : scrollNew + 'px',
-            'position': 'fixed'
-        });
-    });
 }
 var fixedElements = $([]);
 $(function() {
