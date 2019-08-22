@@ -54,7 +54,7 @@ Value Proposition:
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. **Peu importe la méthode, nous voulons votre réussite**.
 
     Dans tous les cas nous vous assurons **une relation riche et personnelle**.
-  Call To Action: Trial FR
+  Call To Action: ""
 The solution:
   Text: "## La solution CTO Bro"
   Body:
