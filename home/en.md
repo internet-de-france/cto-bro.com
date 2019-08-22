@@ -27,6 +27,7 @@ The offer:
     coaches are passionate about development, growth management, leadership...\n\nWhen
     a question pops in the chat the discussion starts, **opinions are challenged**
     for the **benefits of your product**."
+  Call To Action: Trial EN
 Value Proposition:
   Text: "## Why choose CTO Bro mentoring?\n"
   Body:
@@ -45,7 +46,7 @@ Value Proposition:
     Mentors share their knowledge, in groups or individually, occasionally or daily. **No matter the method, we want your success**.
 
     In all cases this will be **a rich and personal relationship**.
-  Call To Action:
+  Call To Action: Trial EN
 The solution:
   Text: "## Our solution"
   Body:

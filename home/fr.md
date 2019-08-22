@@ -33,7 +33,7 @@ The offer:
     Nos meilleurs mentors vous répondent **rapidement sur tous les sujets**. Posez une question et obtenez la **réponse en quelques minutes**, à un jour ouvré maximum
 
     Tous les coachs sont passionnés de développement, de gestion de la croissance, de leadership… Quand, dans le chat, une question pop, alors **la discussion est ouverte** et les opinions se confrontent **au service de votre produit**.
-  Call To Action: 
+  Call To Action: Trial FR
 Value Proposition:
   Text: "## Pourquoi choisir le mentoring CTO Bro ?"
   Body:
@@ -54,7 +54,7 @@ Value Proposition:
     Les mentors vous font bénéficier de leur expertise, en groupe ou individuellement, ponctuellement ou quotidiennement. **Peu importe la méthode, nous voulons votre réussite**.
 
     Dans tous les cas nous vous assurons **une relation riche et personnelle**.
-  Call To Action:
+  Call To Action: Trial FR
 The solution:
   Text: "## La solution CTO Bro"
   Body:
