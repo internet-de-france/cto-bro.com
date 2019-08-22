@@ -45,7 +45,7 @@ Value Proposition:
     Mentors share their knowledge, in groups or individually, occasionally or daily. **No matter the method, we want your success**.
 
     In all cases this will be **a rich and personal relationship**.
-  Call To Action: Trial EN
+  Call To Action: ""
 The solution:
   Text: "## Our solution"
   Body:
