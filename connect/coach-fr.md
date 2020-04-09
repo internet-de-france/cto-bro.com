@@ -3,7 +3,6 @@ title: Coach FR
 date: 2019-02-26 23:48:00 +01:00
 permalink: coach-fr
 position: 5
-layout: contact
 Language: Français
 SEO:
   Title: Devenez mentor, faites les makers de demain
@@ -11,6 +10,7 @@ SEO:
     de demain.
 Header: Header FR
 Footer: Footer FR
+layout: contact
 ---
 
 # Coachez les leaders de demain
@@ -30,6 +30,11 @@ Nous pourrons communiquer pour vous connaître et pour que vous puissiez rejoind
 </style>
 <div id="mc_embed_signup">
 <form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=076428e065" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+
+<input type="hidden" name="group[78030]" value="1">
+
+
     <div id="mc_embed_signup_scroll">
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
