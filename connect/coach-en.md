@@ -29,7 +29,10 @@ There we can get to know you so you can quickly become a Bro.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=076428e065" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=d18905e113" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+<input type="hidden" name="group[78030]" value="2">
+
     <div id="mc_embed_signup_scroll">
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
