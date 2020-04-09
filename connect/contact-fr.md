@@ -34,7 +34,7 @@ Vous pouvez aussi nous contacter [par mail](mailto:founders@cto-bro.com) et [par
 </style>
 <div id="mc_embed_signup">
 <form action="https://cto-bro.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=e58b03ab6c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
+<input type="hidden" name="group[78026]" value="1">    <div id="mc_embed_signup_scroll">
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">

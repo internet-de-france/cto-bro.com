@@ -15,7 +15,7 @@ Footer: Footer EN
 layout: contact
 ---
 
-# Contact CTO Bro
+# Contact CTO Bro today
 
 Do you have a question related to our coaching? You are a potential partner? A customer?
 
@@ -33,7 +33,8 @@ You can also contact us through more traditional ways [by email](mailto:founders
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://lexoyo.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=8e55d3e1ff" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://cto-bro.us7.list-manage.com/subscribe/post?u=3ec1ea212adc44025d91ed004&amp;id=e58b03ab6c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<input type="hidden" name="group[78026]" value="2">
     <div id="mc_embed_signup_scroll">
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
