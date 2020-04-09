@@ -15,7 +15,7 @@ Footer: Footer EN
 layout: contact
 ---
 
-# Contact CTO Bro
+# Contact CTO Bro today
 
 Do you have a question related to our coaching? You are a potential partner? A customer?
 
