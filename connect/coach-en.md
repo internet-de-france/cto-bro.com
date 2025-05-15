@@ -13,7 +13,13 @@ Footer: Footer EN
 layout: contact
 ---
 
-# Coach the leaders of tomorrow
+# CTO Bro is now closed
+
+We switched to other professional adventures at [Internet 2000 sustainable web studio](https://internet2000.net/) and [Shipfix AI-powered decision-making ecosystem](https://veson.com/products/shipfix/)
+
+---
+
+## Coach the leaders of tomorrow
 
 Thank you for your interest and welcome to our community of experts.
 

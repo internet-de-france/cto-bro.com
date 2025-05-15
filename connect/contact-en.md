@@ -15,7 +15,13 @@ Footer: Footer EN
 layout: contact
 ---
 
-# Contact CTO Bro today
+# CTO Bro is now closed
+
+We switched to other professional adventures at [Internet 2000 sustainable web studio](https://internet2000.net/) and [Shipfix AI-powered decision-making ecosystem](https://veson.com/products/shipfix/)
+
+---
+
+## Contact CTO Bro today
 
 Do you have a question related to our coaching? You are a potential partner? A customer?
 

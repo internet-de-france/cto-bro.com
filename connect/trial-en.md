@@ -13,7 +13,13 @@ Footer: Footer EN
 layout: contact
 ---
 
-# Try CTO Bro for free
+# CTO Bro is now closed
+
+We switched to other professional adventures at [Internet 2000 sustainable web studio](https://internet2000.net/) and [Shipfix AI-powered decision-making ecosystem](https://veson.com/products/shipfix/)
+
+---
+
+## Try CTO Bro for free
 
 Immediately after filling out this questionnaire, you will receive a free access to the coach community. 
 

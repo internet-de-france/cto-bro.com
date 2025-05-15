@@ -12,8 +12,13 @@ Header: Header FR
 Footer: Footer FR
 layout: contact
 ---
+# CTO Bro est maintenant de l'histoire ancienne
 
-# Coachez les leaders de demain
+Nous nous sommes tournés vers d'autres aventures professionnelles chez [Internet 2000, studio d'éco-conception web](https://internet2000.net/) et [Shipfix, écosystème de prise de décision basé sur l'IA](https://veson.com/products/shipfix/).
+
+---
+
+## Coachez les leaders de demain
 
 Merci pour votre intérêt et bienvenue dans notre communauté d'experts. 
 

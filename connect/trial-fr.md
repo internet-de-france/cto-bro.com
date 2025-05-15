@@ -13,7 +13,13 @@ Footer: Footer FR
 layout: contact
 ---
 
-# Essayez CTO Bro
+# CTO Bro est maintenant de l'histoire ancienne
+
+Nous nous sommes tournés vers d'autres aventures professionnelles chez [Internet 2000, studio d'éco-conception web](https://internet2000.net/) et [Shipfix, écosystème de prise de décision basé sur l'IA](https://veson.com/products/shipfix/).
+
+---
+
+## Essayez CTO Bro
 
 Immédiatement après avoir rempli ce questionnaire vous recevrez un accès gratuit à la communauté des coachs.
 
